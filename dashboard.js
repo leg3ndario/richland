@@ -23,7 +23,10 @@
   // Data loading
   // -------------------------------------------------------------------
 
-  const DATA_PATHS_PROD = ["./data/leads.json", "../data/leads.json"];
+  const _override = (typeof window !== "undefined" && window.LEADS_FILE) || null;
+  const DATA_PATHS_PROD = _override
+    ? [_override, "../" + _override]
+    : ["./data/leads.json", "../data/leads.json"];
   const DATA_PATHS_SYNTH = [
     "./data/leads_synthetic.json",
     "../data/leads_synthetic.json",
