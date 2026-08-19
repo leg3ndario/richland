@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T14:46:10Z",
+  "generated_at": "2026-08-19T15:03:20Z",
   "build_label": "FULL_BUILD",
   "mode": "production",
   "county": "Richland",
@@ -74,7 +74,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_d01a87edc6f24f2fb1b78bc3438a3fed"
+        "ev_f7b19c5d0ce544829d2250ecebbeae4f"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -131,7 +131,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_719cf0a538bb415a8d864058dc71f4d5"
+        "ev_87a03a9fc6bb46bda6054381d30b0809"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -188,7 +188,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_cde92abee0bc478ca370964557380271"
+        "ev_91327446b94c42c5a7fa9e850032fd47"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -206,7 +206,7 @@
     {
       "lead_id": "lead_7fbd4ed60b14a39a",
       "primary_parcel_id": "RIC-PROB-BA17A9D8D5DF",
-      "display_address": "MARGARET JANE PLOSS",
+      "display_address": "Margaret Jane Ploss",
       "display_owner": "Unknown",
       "display_score": 55,
       "display_tier": "Workable",
@@ -245,7 +245,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_286553225ab546fb9a1a5fc3fc427023"
+        "ev_8651e7b63d8e4112b06ef9c5649f4925"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -302,7 +302,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_d49faf3f6a524aefb6e9917a76e2bfc1"
+        "ev_30b6876083a04f99820aba11058ce6e4"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -359,7 +359,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_62b2d50845714278bfd258dc095b26db"
+        "ev_5d29884868334a53b9b725cb438ea17e"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -416,7 +416,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_33b447125b114c7a967278844a7f4ec9"
+        "ev_ddb9d4e6344446298cb2b768f2bd18d0"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -473,7 +473,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_92dbe5c729b34eb6a65c9a1b45195e32"
+        "ev_c5b660bc374a4421950ff7c2ca27bc72"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -530,7 +530,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c9dba7706d90483bbe56ae1d96745f22"
+        "ev_c562a29aeccc491e83ade4ce4453c9a7"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -587,7 +587,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_dbf1e5a6fda94743a86c0df0df4ea3e2"
+        "ev_56137238a47f413c9cb1b2f696984bf0"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -644,7 +644,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_42d8c686d335408f8447d6627f71b0cc"
+        "ev_d5ad094ce72a4e92b01b009676e5c3df"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -701,7 +701,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_5097615e9cad4862a7c79a569fdba1b8"
+        "ev_d98557e5c9fe47a4960ece9b9817b401"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -758,7 +758,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_1a99438cfc1d4be8b0f0d3253a724c7d"
+        "ev_01a0a94edbcf46e7add742571cc76355"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -815,7 +815,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c06bee970fed42d59f7471a8105e848c"
+        "ev_233cfb1c20c143a7a10c75a95b21128a"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -872,7 +872,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_7d4898fa6a43452590c33b0b89be873a"
+        "ev_14fe83854b434483bbf01ef0cf8ddd11"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -929,7 +929,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_a5d05df6a00d4e65b89edf2fb07e4ff8"
+        "ev_8307f8ef49cb45b7924c2bab1048dad1"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -986,7 +986,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_240c716595564655ab074949f54d4592"
+        "ev_409478b0df2c40af812e9f7b355bbdb7"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -1043,7 +1043,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_660607e75f8d40d19a3e93edc8623ed7"
+        "ev_e1c22aca9b24445fb150be3b2690633a"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -1100,7 +1100,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_9868e9373bcb42289a3f2696e0754364"
+        "ev_b138b0bb4f864b7f909a686bab11b155"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -1157,7 +1157,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_24ccf6157adb467d8ac5ce723543a0bc"
+        "ev_82b56f52a2e947478953711b1e2e91bf"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
