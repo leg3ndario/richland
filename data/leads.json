@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T14:48:33Z",
+  "generated_at": "2026-08-21T14:48:14Z",
   "build_label": "FULL_BUILD",
   "mode": "production",
   "county": "Richland",
@@ -30,8 +30,1376 @@
     "live_verification_passed": false
   },
   "build_label_reason": "",
-  "lead_total": 108,
+  "lead_total": 124,
   "records": [
+    {
+      "lead_id": "lead_9be3c990e52fd87e",
+      "primary_parcel_id": "RIC-CS-3AE4717623E6",
+      "display_address": "445 Indigo Ridge Drive, Columbia, SC 29229",
+      "display_owner": "Unknown",
+      "display_score": 65,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_c56947955a7044f2866d34518ccf49ac"
+      ],
+      "primary_source_urls": [
+        "https://www.thecolumbiastar.com/articles/masters-sales-305/"
+      ],
+      "primary_event_date": "2026-08-20",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "placeholder",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "match_confidence_low"
+      ]
+    },
+    {
+      "lead_id": "lead_a839fec4d068a29c",
+      "primary_parcel_id": "RIC-CS-E5C886A1915B",
+      "display_address": "248 Brookspring Road, Columbia, SC 29223",
+      "display_owner": "Unknown",
+      "display_score": 65,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_e61d5188d42e479ab142a58b4eef3ba0"
+      ],
+      "primary_source_urls": [
+        "https://www.thecolumbiastar.com/articles/masters-sales-305/"
+      ],
+      "primary_event_date": "2026-08-20",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "placeholder",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "match_confidence_low"
+      ]
+    },
+    {
+      "lead_id": "lead_170c369e3d4eb8fa",
+      "primary_parcel_id": "RIC-CS-3AF44C78E60E",
+      "display_address": "228 Todd Branch Drive, Columbia, SC 29223",
+      "display_owner": "Unknown",
+      "display_score": 65,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_f27c2ec4278a410eb33ce3e26b042830"
+      ],
+      "primary_source_urls": [
+        "https://www.thecolumbiastar.com/articles/masters-sales-305/"
+      ],
+      "primary_event_date": "2026-08-20",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "placeholder",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "match_confidence_low"
+      ]
+    },
+    {
+      "lead_id": "lead_43c6fc45f35f9001",
+      "primary_parcel_id": "RIC-CS-15F536377F95",
+      "display_address": "120 Mountain Laurel Lane, Columbia, SC 29223",
+      "display_owner": "Unknown",
+      "display_score": 65,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_c0a7aea025a34a7cafe1429f4e07773a"
+      ],
+      "primary_source_urls": [
+        "https://www.thecolumbiastar.com/articles/masters-sales-305/"
+      ],
+      "primary_event_date": "2026-08-20",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "placeholder",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "match_confidence_low"
+      ]
+    },
+    {
+      "lead_id": "lead_a4362409bc7b33da",
+      "primary_parcel_id": "RIC-CS-524D98DF4634",
+      "display_address": "1193 Rabon Pond Drive, Columbia, SC 29223",
+      "display_owner": "Unknown",
+      "display_score": 65,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_feb1b0d604ea465ab30125ae04ee6932"
+      ],
+      "primary_source_urls": [
+        "https://www.thecolumbiastar.com/articles/masters-sales-305/"
+      ],
+      "primary_event_date": "2026-08-20",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "placeholder",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "match_confidence_low"
+      ]
+    },
+    {
+      "lead_id": "lead_ab61a18bd629b1d8",
+      "primary_parcel_id": "RIC-CS-5E69F736FA8D",
+      "display_address": "150 Kings Parish Court, Columbia, SC 29209",
+      "display_owner": "Unknown",
+      "display_score": 65,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_ef9c35b935aa453687c645d7d2cbbf90"
+      ],
+      "primary_source_urls": [
+        "https://www.thecolumbiastar.com/articles/masters-sales-305/"
+      ],
+      "primary_event_date": "2026-08-20",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "placeholder",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "match_confidence_low"
+      ]
+    },
+    {
+      "lead_id": "lead_30f84f056a17ec19",
+      "primary_parcel_id": "RIC-CS-D58F4DE8E4CF",
+      "display_address": "5824 Old Leesburg Road, Hopkins, SC 29061",
+      "display_owner": "Unknown",
+      "display_score": 65,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_c178a6d596f74f1cbad67365cc249968"
+      ],
+      "primary_source_urls": [
+        "https://www.thecolumbiastar.com/articles/masters-sales-305/"
+      ],
+      "primary_event_date": "2026-08-20",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "placeholder",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "match_confidence_low"
+      ]
+    },
+    {
+      "lead_id": "lead_54e4bab94bfc57ec",
+      "primary_parcel_id": "RIC-CS-76E5100B06A8",
+      "display_address": "208 Birchfield Drive, Columbia, SC 29203",
+      "display_owner": "Unknown",
+      "display_score": 65,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_acbbb08a4b194d528ce3b4363719e86b"
+      ],
+      "primary_source_urls": [
+        "https://www.thecolumbiastar.com/articles/masters-sales-305/"
+      ],
+      "primary_event_date": "2026-08-20",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "placeholder",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "match_confidence_low"
+      ]
+    },
+    {
+      "lead_id": "lead_d3117a0cfdf4a6bb",
+      "primary_parcel_id": "RIC-CS-68A7A4380136",
+      "display_address": "112 Van Der Horst Drive, Columbia, SC 29229",
+      "display_owner": "Unknown",
+      "display_score": 65,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_3ab091ffcbd8401db8e5ef3c15bce701"
+      ],
+      "primary_source_urls": [
+        "https://www.thecolumbiastar.com/articles/masters-sales-305/"
+      ],
+      "primary_event_date": "2026-08-20",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "placeholder",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "match_confidence_low"
+      ]
+    },
+    {
+      "lead_id": "lead_630b8aadf905047f",
+      "primary_parcel_id": "RIC-CS-8181CD13E9E1",
+      "display_address": "321 Southampton Drive, Irmo, SC 29063",
+      "display_owner": "Unknown",
+      "display_score": 65,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_7ea3402dc29c4556a289474ee624a8b6"
+      ],
+      "primary_source_urls": [
+        "https://www.thecolumbiastar.com/articles/masters-sales-305/"
+      ],
+      "primary_event_date": "2026-08-20",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "placeholder",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "match_confidence_low"
+      ]
+    },
+    {
+      "lead_id": "lead_041498303ca41105",
+      "primary_parcel_id": "RIC-CS-EAACAC3C7F0D",
+      "display_address": "11 Attucks Court, Elgin, SC 29045",
+      "display_owner": "Unknown",
+      "display_score": 65,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_57cc315ce61941c88ab500f562aefb1b"
+      ],
+      "primary_source_urls": [
+        "https://www.thecolumbiastar.com/articles/masters-sales-305/"
+      ],
+      "primary_event_date": "2026-08-20",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "placeholder",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "match_confidence_low"
+      ]
+    },
+    {
+      "lead_id": "lead_99e9da11a7c07671",
+      "primary_parcel_id": "RIC-CS-5E41DA318796",
+      "display_address": "6109 Fitzgibbon Drive, Columbia, SC 29209",
+      "display_owner": "Unknown",
+      "display_score": 65,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_46979535dd3e45daaedea4fc88cad4dc"
+      ],
+      "primary_source_urls": [
+        "https://www.thecolumbiastar.com/articles/masters-sales-305/"
+      ],
+      "primary_event_date": "2026-08-20",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "placeholder",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "match_confidence_low"
+      ]
+    },
+    {
+      "lead_id": "lead_6665c29d1fd3f08d",
+      "primary_parcel_id": "RIC-CS-6DE14BB3B0AA",
+      "display_address": "107 Dawsons Creek Road, Blythewood, SC 29016",
+      "display_owner": "Unknown",
+      "display_score": 65,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_23e23a474a8a46aabd66dc4bdaf1bffe"
+      ],
+      "primary_source_urls": [
+        "https://www.thecolumbiastar.com/articles/masters-sales-305/"
+      ],
+      "primary_event_date": "2026-08-20",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "placeholder",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "match_confidence_low"
+      ]
+    },
+    {
+      "lead_id": "lead_c14153e7acc201dc",
+      "primary_parcel_id": "RIC-CS-9094F69C95E3",
+      "display_address": "136 Sandpine Circle, Columbia, SC 29229",
+      "display_owner": "Unknown",
+      "display_score": 65,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_93255660b7fd428fad24d580e60648e3"
+      ],
+      "primary_source_urls": [
+        "https://www.thecolumbiastar.com/articles/masters-sales-305/"
+      ],
+      "primary_event_date": "2026-08-20",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "placeholder",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "match_confidence_low"
+      ]
+    },
+    {
+      "lead_id": "lead_924ec564beccaf2c",
+      "primary_parcel_id": "RIC-CS-D1738CE9CD82",
+      "display_address": "1746 Drexel Lake Drive, Columbia, SC 29223",
+      "display_owner": "Unknown",
+      "display_score": 65,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_37e6f1faccf84f9cbd586a78650eed0b"
+      ],
+      "primary_source_urls": [
+        "https://www.thecolumbiastar.com/articles/masters-sales-305/"
+      ],
+      "primary_event_date": "2026-08-20",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "placeholder",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "match_confidence_low"
+      ]
+    },
+    {
+      "lead_id": "lead_14d57ca680ae7385",
+      "primary_parcel_id": "RIC-CS-F2D3B8943877",
+      "display_address": "579 Roseridge Dr., Blythewood, SC 29016",
+      "display_owner": "Unknown",
+      "display_score": 65,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_e6db7428d811447b8f31fd1ee6410c90"
+      ],
+      "primary_source_urls": [
+        "https://www.thecolumbiastar.com/articles/masters-sales-305/"
+      ],
+      "primary_event_date": "2026-08-20",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "placeholder",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "match_confidence_low"
+      ]
+    },
+    {
+      "lead_id": "lead_f9b06283ad2809f4",
+      "primary_parcel_id": "RIC-CS-05278BAD76B9",
+      "display_address": "26 8 Merganser Court, Columbia, SC 29203",
+      "display_owner": "Unknown",
+      "display_score": 65,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_6314cf66edba47c78f82c9f2614afffe"
+      ],
+      "primary_source_urls": [
+        "https://www.thecolumbiastar.com/articles/masters-sales-305/"
+      ],
+      "primary_event_date": "2026-08-20",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "placeholder",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "match_confidence_low"
+      ]
+    },
+    {
+      "lead_id": "lead_37a8efe113e6e631",
+      "primary_parcel_id": "RIC-CS-1053782C931E",
+      "display_address": "2352 Oakcrest Road, Columbia, SC 29223",
+      "display_owner": "Unknown",
+      "display_score": 40,
+      "display_tier": "Low",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_LIS_PENDENS",
+          "delta": 35
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_628ec061c1844cde9b21cdf38ccea9eb"
+      ],
+      "primary_source_urls": [
+        "https://www.thecolumbiastar.com/articles/public-notices-1836/"
+      ],
+      "primary_event_date": "2026-08-20",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "placeholder",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "match_confidence_low"
+      ]
+    },
+    {
+      "lead_id": "lead_e614a7eca214ab77",
+      "primary_parcel_id": "RIC-CS-B5E424C809B3",
+      "display_address": "737 Plantation Road, Lancaster, SC 29720",
+      "display_owner": "Unknown",
+      "display_score": 64,
+      "display_tier": "Workable",
+      "display_patterns": [
+        "foreclosure",
+        "foreclosure",
+        "foreclosure",
+        "foreclosure",
+        "foreclosure",
+        "foreclosure",
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure",
+        "foreclosure",
+        "foreclosure",
+        "foreclosure",
+        "foreclosure",
+        "foreclosure",
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Multi-signal distress stack; standard wholesale flow."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 7,
+      "score_reasons": [
+        {
+          "factor": "base_LIS_PENDENS",
+          "delta": 35
+        },
+        {
+          "factor": "stack_depth_7",
+          "delta": 24
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_b3524f35f85d47dbb57a76da14c3a4f4",
+        "ev_3b401b724fdc4b9f9b4bb5b00b1f1b4e",
+        "ev_fda1c5cdb6214224aaa28a7987391f89",
+        "ev_bf35fd5da40b475e9da2c68c7ec74dbd",
+        "ev_394d4771b4b447f2ae2cd1cfe342696f",
+        "ev_1a2517cd495a4fb6a32e58ec28b5abb2",
+        "ev_12132a7d307f426281709831cf351ca8"
+      ],
+      "primary_source_urls": [
+        "https://www.thecolumbiastar.com/articles/public-notices-1817/",
+        "https://www.thecolumbiastar.com/articles/public-notices-1825/",
+        "https://www.thecolumbiastar.com/articles/public-notices-1831/",
+        "https://www.thecolumbiastar.com/articles/public-notices-1834/",
+        "https://www.thecolumbiastar.com/articles/public-notices-1836/"
+      ],
+      "primary_event_date": "2026-08-20",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "placeholder",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "match_confidence_low"
+      ]
+    },
+    {
+      "lead_id": "lead_6978d8526f8f6e21",
+      "primary_parcel_id": "RIC-CS-F8972C42D068",
+      "display_address": "316 WHITE GABLES DR, Columbia, SC 29229",
+      "display_owner": "Unknown",
+      "display_score": 40,
+      "display_tier": "Low",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_LIS_PENDENS",
+          "delta": 35
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_c5cada34df4b4d61a8c8990ca31dd8fa"
+      ],
+      "primary_source_urls": [
+        "https://www.thecolumbiastar.com/articles/public-notices-1836/"
+      ],
+      "primary_event_date": "2026-08-20",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "placeholder",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "match_confidence_low"
+      ]
+    },
+    {
+      "lead_id": "lead_c44851d4a2930cf0",
+      "primary_parcel_id": "RIC-CS-B5E0E88621D5",
+      "display_address": "624 WINDING HICKORY CT, Blythewood, SC 29016",
+      "display_owner": "Unknown",
+      "display_score": 40,
+      "display_tier": "Low",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_LIS_PENDENS",
+          "delta": 35
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_42d5794ed5e34cd397c6a36089420f68"
+      ],
+      "primary_source_urls": [
+        "https://www.thecolumbiastar.com/articles/public-notices-1836/"
+      ],
+      "primary_event_date": "2026-08-20",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "placeholder",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "match_confidence_low"
+      ]
+    },
+    {
+      "lead_id": "lead_01dbfb1d89ccf081",
+      "primary_parcel_id": "RIC-CS-C65C76979E0E",
+      "display_address": "2416 Seagull Ln., Columbia, SC 29203",
+      "display_owner": "Unknown",
+      "display_score": 40,
+      "display_tier": "Low",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_LIS_PENDENS",
+          "delta": 35
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_720fbdb9172d452ba65dd114778b3d34"
+      ],
+      "primary_source_urls": [
+        "https://www.thecolumbiastar.com/articles/public-notices-1836/"
+      ],
+      "primary_event_date": "2026-08-20",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "placeholder",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "match_confidence_low"
+      ]
+    },
     {
       "lead_id": "lead_4663d5d1af3e438c",
       "primary_parcel_id": "RIC-CS-1EB5F5E83044",
@@ -78,12 +1446,12 @@
         }
       ],
       "evidence_ids": [
-        "ev_b484dcc1a1e6406e8145cc8c0cf4751d"
+        "ev_bdaf6f69031b4077975a57fb97dc6200"
       ],
       "primary_source_urls": [
-        "https://www.thecolumbiastar.com/articles/public-notices-1834/"
+        "https://www.thecolumbiastar.com/articles/public-notices-1836/"
       ],
-      "primary_event_date": "2026-08-13",
+      "primary_event_date": "2026-08-20",
       "expected_sale_date": null,
       "parcel_master_status": "no_bcad_match",
       "parcel_master_status_note": "",
@@ -94,9 +1462,9 @@
       ]
     },
     {
-      "lead_id": "lead_2b4c777198d87678",
-      "primary_parcel_id": "RIC-CS-89670CCBCBBC",
-      "display_address": "26 Nephi Street, Columbia, SC 29205",
+      "lead_id": "lead_56063e2cdc2e2268",
+      "primary_parcel_id": "RIC-CS-82C248CE73BA",
+      "display_address": "459 St. Andrews Rd., Columbia, SC 29210",
       "display_owner": "Unknown",
       "display_score": 40,
       "display_tier": "Low",
@@ -139,12 +1507,12 @@
         }
       ],
       "evidence_ids": [
-        "ev_0fa685609f914d5d80936efd5d8cc7f9"
+        "ev_51c2bd42a9384a5ea283c639eb07eb63"
       ],
       "primary_source_urls": [
-        "https://www.thecolumbiastar.com/articles/public-notices-1834/"
+        "https://www.thecolumbiastar.com/articles/public-notices-1836/"
       ],
-      "primary_event_date": "2026-08-13",
+      "primary_event_date": "2026-08-20",
       "expected_sale_date": null,
       "parcel_master_status": "no_bcad_match",
       "parcel_master_status_note": "",
@@ -200,95 +1568,12 @@
         }
       ],
       "evidence_ids": [
-        "ev_6aae832ca9644c6c9c5259eb52e165bc"
+        "ev_4519768945864556b924d8945c8534b8"
       ],
       "primary_source_urls": [
-        "https://www.thecolumbiastar.com/articles/public-notices-1834/"
+        "https://www.thecolumbiastar.com/articles/public-notices-1836/"
       ],
-      "primary_event_date": "2026-08-13",
-      "expected_sale_date": null,
-      "parcel_master_status": "no_bcad_match",
-      "parcel_master_status_note": "",
-      "parcel_master_match_method": "placeholder",
-      "candidate_parcel_ids": [],
-      "review_flags": [
-        "match_confidence_low"
-      ]
-    },
-    {
-      "lead_id": "lead_68a785d52bd1f067",
-      "primary_parcel_id": "RIC-CS-B5E424C809B3",
-      "display_address": "737 Plantation Road, Lancaster, SC 29720",
-      "display_owner": "Unknown",
-      "display_score": 64,
-      "display_tier": "Workable",
-      "display_patterns": [
-        "foreclosure",
-        "foreclosure",
-        "foreclosure",
-        "foreclosure",
-        "foreclosure",
-        "foreclosure"
-      ],
-      "stack_contrib_patterns": [
-        "foreclosure",
-        "foreclosure",
-        "foreclosure",
-        "foreclosure",
-        "foreclosure",
-        "foreclosure"
-      ],
-      "display_pattern_set": [
-        "foreclosure"
-      ],
-      "display_attributes": [],
-      "display_deal_paths": [
-        "wholesale"
-      ],
-      "display_deal_path_details": [
-        {
-          "path": "wholesale",
-          "confidence": "moderate",
-          "rationale": "Multi-signal distress stack; standard wholesale flow."
-        }
-      ],
-      "display_title_complexity_tier": "None",
-      "display_lead_status": "REVIEW_REQUIRED",
-      "display_assessed_value": null,
-      "display_last_sale_price": null,
-      "display_last_sale_date": null,
-      "display_year_built": null,
-      "display_match_confidence": 0,
-      "stack_depth": 6,
-      "score_reasons": [
-        {
-          "factor": "base_LIS_PENDENS",
-          "delta": 35
-        },
-        {
-          "factor": "stack_depth_6",
-          "delta": 24
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
-        }
-      ],
-      "evidence_ids": [
-        "ev_4d26711764e446998557dd8a0223001a",
-        "ev_342d33935e6242cebd1cafa4da5dc09c",
-        "ev_20bf72aff1514d1aa9d5e1e1ade4ad38",
-        "ev_7cc0abb344a74b02918da95cc6d6b50c",
-        "ev_0d4788de110b4db2ac0195273611e373",
-        "ev_e4231a88392841c0ae31726b3c0f750d"
-      ],
-      "primary_source_urls": [
-        "https://www.thecolumbiastar.com/articles/public-notices-1817/",
-        "https://www.thecolumbiastar.com/articles/public-notices-1825/",
-        "https://www.thecolumbiastar.com/articles/public-notices-1831/",
-        "https://www.thecolumbiastar.com/articles/public-notices-1834/"
-      ],
-      "primary_event_date": "2026-08-13",
+      "primary_event_date": "2026-08-20",
       "expected_sale_date": null,
       "parcel_master_status": "no_bcad_match",
       "parcel_master_status_note": "",
@@ -344,12 +1629,12 @@
         }
       ],
       "evidence_ids": [
-        "ev_7a38188069504f2a800281cc2c564891"
+        "ev_6121cd69df534433ad79a350ec77e2de"
       ],
       "primary_source_urls": [
-        "https://www.thecolumbiastar.com/articles/public-notices-1834/"
+        "https://www.thecolumbiastar.com/articles/public-notices-1836/"
       ],
-      "primary_event_date": "2026-08-13",
+      "primary_event_date": "2026-08-20",
       "expected_sale_date": null,
       "parcel_master_status": "no_bcad_match",
       "parcel_master_status_note": "",
@@ -405,12 +1690,12 @@
         }
       ],
       "evidence_ids": [
-        "ev_a8fc4bf9f0c448b39c6049eb12a83caf"
+        "ev_849b3d6cde4043cbb5e39c0f18907e5c"
       ],
       "primary_source_urls": [
-        "https://www.thecolumbiastar.com/articles/public-notices-1834/"
+        "https://www.thecolumbiastar.com/articles/public-notices-1836/"
       ],
-      "primary_event_date": "2026-08-13",
+      "primary_event_date": "2026-08-20",
       "expected_sale_date": null,
       "parcel_master_status": "no_bcad_match",
       "parcel_master_status_note": "",
@@ -466,7 +1751,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_b94be6b6959b433989a4581cf4fa97cc"
+        "ev_0daf5d0415d64a3193a9259d87813832"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1834/"
@@ -527,7 +1812,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_9102d5171b064d01a54ee74597cedf3a"
+        "ev_71acc5b01d6441ef86a02619f9c3f78f"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1832/"
@@ -588,7 +1873,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_1b9920695ab74d3faa03be840e5448c6"
+        "ev_ca3111c0da0c453aa481cbcd76f56273"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1832/"
@@ -649,7 +1934,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_3072e1196f9340ef82bf1cc5c6df8df0"
+        "ev_0d0a7a080a804f16af57fca579004cd0"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1832/"
@@ -710,7 +1995,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_856b9ead508d4d8db42037c4ebd21378"
+        "ev_2744e35dccbc4f9ea8ea0a28fb7d66bc"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -771,7 +2056,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_6dfd830f08e1456087dad9062de08b6a"
+        "ev_2a22dcf957694693b038225f7b111110"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -832,7 +2117,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_87517aa2798c458986aded98d0104d67"
+        "ev_5dda3709d77048e7a7523fcf10673b80"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -893,7 +2178,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_d04d05e8fec84874bd8a906caba3a45c"
+        "ev_e4507062d29b49e6b3f2005cf4329804"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -954,7 +2239,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_7b10b71ac74748b19133939161c858ce"
+        "ev_8ff54f26ebe34ff8a260099d8a0658cb"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -1015,7 +2300,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_ae8f9b14bdb84ccda0c5ab16405bd70e"
+        "ev_61c711113a484be3aee97fd720389da4"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -1076,7 +2361,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_82ed325e998a458ab1902b7b35686d1e"
+        "ev_2a3f9e15a3da4faba03def630dfe6eca"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -1137,7 +2422,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_a7f8ac009e844b2088e2137e8252387d"
+        "ev_194f1b9863ca4ec680480adb13439809"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -1198,7 +2483,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_6ea2d0c70dfc49c89a0e1179172b7272"
+        "ev_2dd091481cdb4bff90506b71450dfb89"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -1259,7 +2544,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_1d445709ae5d4ceea2e116f5c885fb87"
+        "ev_92c7a0e35a6e4ec1bfe5b5052ae9e058"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -1320,7 +2605,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_77478b1474e14da1b38209103d881f1a"
+        "ev_3ca1e2ec28854e6e8b90fcc6cb713b30"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -1381,68 +2666,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f3fd4b4b90574c14b535e25edf257bd4"
-      ],
-      "primary_source_urls": [
-        "https://www.thecolumbiastar.com/articles/masters-sales-304/"
-      ],
-      "primary_event_date": "2026-07-30",
-      "expected_sale_date": null,
-      "parcel_master_status": "no_bcad_match",
-      "parcel_master_status_note": "",
-      "parcel_master_match_method": "placeholder",
-      "candidate_parcel_ids": [],
-      "review_flags": [
-        "match_confidence_low"
-      ]
-    },
-    {
-      "lead_id": "lead_14d57ca680ae7385",
-      "primary_parcel_id": "RIC-CS-F2D3B8943877",
-      "display_address": "579 Roseridge Dr., Blythewood, SC 29016",
-      "display_owner": "Unknown",
-      "display_score": 65,
-      "display_tier": "Strong",
-      "display_patterns": [
-        "foreclosure"
-      ],
-      "stack_contrib_patterns": [
-        "foreclosure"
-      ],
-      "display_pattern_set": [
-        "foreclosure"
-      ],
-      "display_attributes": [],
-      "display_deal_paths": [
-        "wholesale"
-      ],
-      "display_deal_path_details": [
-        {
-          "path": "wholesale",
-          "confidence": "moderate",
-          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
-        }
-      ],
-      "display_title_complexity_tier": "None",
-      "display_lead_status": "REVIEW_REQUIRED",
-      "display_assessed_value": null,
-      "display_last_sale_price": null,
-      "display_last_sale_date": null,
-      "display_year_built": null,
-      "display_match_confidence": 0,
-      "stack_depth": 1,
-      "score_reasons": [
-        {
-          "factor": "base_NOTICE_OF_SALE",
-          "delta": 60
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
-        }
-      ],
-      "evidence_ids": [
-        "ev_4ab57e40520745ef960d7b2e978f9532"
+        "ev_c253439058c742cd8a6deeb1e44962ea"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -1503,7 +2727,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_5b67ec8c85d7422f976aaec122ec7189"
+        "ev_40dbfc4f39154172982144295cafb6cf"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -1564,7 +2788,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_a7fbcc82db514026b6ca50405895f96c"
+        "ev_2b9fea6305234fb4950220480795d094"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -1625,7 +2849,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_eb8698363ea74850ab7a0c96f814f43b"
+        "ev_db3b9723b03f43f698865e6e30be9935"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -1686,7 +2910,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_7f03b9e423f54a8581e28b27fe65fe9a"
+        "ev_11ff990fbd2849f9a1f383ae1ee965d0"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-303/"
@@ -1747,7 +2971,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_5db682875ff1494aac60eb731a65f0cf"
+        "ev_3e4d31fdf4ab450d869a9b3cda98c865"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1829/"
@@ -1804,7 +3028,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_78148ebe9f084bdc805a1266baf2a4d8"
+        "ev_6b5348cfa7e84c91b5c154ad7a423919"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-302/"
@@ -1861,7 +3085,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_47c5a080f97a4f2693e3f705ccab1c3f"
+        "ev_57763431207c49c4a35152848228d016"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1827/"
@@ -1918,7 +3142,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c8d480aee24f4557a8bb12c5254218bb"
+        "ev_ed993503684f410f876fa1dfb0d1a2b0"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1827/"
@@ -1975,7 +3199,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_e74f25a0113b4a1bb9685f9c2f70e511"
+        "ev_abddfe6d310a41d58df1029300839b32"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1827/"
@@ -2032,7 +3256,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_879690c764f04337a9b162330e57351b"
+        "ev_bcb8ee0925fa4681bf9bcb28f2f3a922"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -2089,7 +3313,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_64be894d49444bea8c78ef063fee4b39"
+        "ev_e5cb0e97317146198dbedd6ca63888e1"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -2146,64 +3370,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c0b66b6a8b1648008ee3ed457b442b5c"
-      ],
-      "primary_source_urls": [
-        "https://www.thecolumbiastar.com/articles/masters-sales-301/"
-      ],
-      "primary_event_date": "2026-07-02",
-      "expected_sale_date": null,
-      "parcel_master_status": "no_bcad_match",
-      "parcel_master_status_note": "",
-      "parcel_master_match_method": "placeholder",
-      "candidate_parcel_ids": [],
-      "review_flags": [
-        "match_confidence_low"
-      ]
-    },
-    {
-      "lead_id": "lead_8233d02870d846e2",
-      "primary_parcel_id": "RIC-CS-8181CD13E9E1",
-      "display_address": "321 Southampton Drive, Irmo, SC 29063",
-      "display_owner": "Unknown",
-      "display_score": 60,
-      "display_tier": "Workable",
-      "display_patterns": [
-        "foreclosure"
-      ],
-      "stack_contrib_patterns": [
-        "foreclosure"
-      ],
-      "display_pattern_set": [
-        "foreclosure"
-      ],
-      "display_attributes": [],
-      "display_deal_paths": [
-        "wholesale"
-      ],
-      "display_deal_path_details": [
-        {
-          "path": "wholesale",
-          "confidence": "moderate",
-          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
-        }
-      ],
-      "display_title_complexity_tier": "None",
-      "display_lead_status": "REVIEW_REQUIRED",
-      "display_assessed_value": null,
-      "display_last_sale_price": null,
-      "display_last_sale_date": null,
-      "display_year_built": null,
-      "display_match_confidence": 0,
-      "stack_depth": 1,
-      "score_reasons": [
-        {
-          "factor": "base_NOTICE_OF_SALE",
-          "delta": 60
-        }
-      ],
-      "evidence_ids": [
-        "ev_a12ea844f16144f382b2a2e0b7fce131"
+        "ev_ecd5a4a75f9f4d5b9d1fb190b075e99c"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -2260,7 +3427,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c71f71011e7041c897021ecf8b54384a"
+        "ev_f48ba606ca9049b5aba7a76f46ad4ff9"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -2317,7 +3484,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_be92d131806d4b52bfa7dd66664b9e17"
+        "ev_1c231c9524804be089d8df82e9936a05"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -2374,7 +3541,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_600899b1ef1e468cb5e77ec597a96c28"
+        "ev_046167310e2c4638ba5d18da750e45bb"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -2431,64 +3598,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_74d0852f44c7419e82db33820be84b0c"
-      ],
-      "primary_source_urls": [
-        "https://www.thecolumbiastar.com/articles/masters-sales-301/"
-      ],
-      "primary_event_date": "2026-07-02",
-      "expected_sale_date": null,
-      "parcel_master_status": "no_bcad_match",
-      "parcel_master_status_note": "",
-      "parcel_master_match_method": "placeholder",
-      "candidate_parcel_ids": [],
-      "review_flags": [
-        "match_confidence_low"
-      ]
-    },
-    {
-      "lead_id": "lead_d01f8933b431d509",
-      "primary_parcel_id": "RIC-CS-76E5100B06A8",
-      "display_address": "208 Birchfield Drive, Columbia, SC 29203",
-      "display_owner": "Unknown",
-      "display_score": 60,
-      "display_tier": "Workable",
-      "display_patterns": [
-        "foreclosure"
-      ],
-      "stack_contrib_patterns": [
-        "foreclosure"
-      ],
-      "display_pattern_set": [
-        "foreclosure"
-      ],
-      "display_attributes": [],
-      "display_deal_paths": [
-        "wholesale"
-      ],
-      "display_deal_path_details": [
-        {
-          "path": "wholesale",
-          "confidence": "moderate",
-          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
-        }
-      ],
-      "display_title_complexity_tier": "None",
-      "display_lead_status": "REVIEW_REQUIRED",
-      "display_assessed_value": null,
-      "display_last_sale_price": null,
-      "display_last_sale_date": null,
-      "display_year_built": null,
-      "display_match_confidence": 0,
-      "stack_depth": 1,
-      "score_reasons": [
-        {
-          "factor": "base_NOTICE_OF_SALE",
-          "delta": 60
-        }
-      ],
-      "evidence_ids": [
-        "ev_03ca4dc51b7f4ebfbc96562f5a19bdbf"
+        "ev_ab91052033094b718cecf22534a39676"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -2545,64 +3655,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_30c790de6a98435a8c54b2f0dec83672"
-      ],
-      "primary_source_urls": [
-        "https://www.thecolumbiastar.com/articles/masters-sales-301/"
-      ],
-      "primary_event_date": "2026-07-02",
-      "expected_sale_date": null,
-      "parcel_master_status": "no_bcad_match",
-      "parcel_master_status_note": "",
-      "parcel_master_match_method": "placeholder",
-      "candidate_parcel_ids": [],
-      "review_flags": [
-        "match_confidence_low"
-      ]
-    },
-    {
-      "lead_id": "lead_c00a63c96bc5efd1",
-      "primary_parcel_id": "RIC-CS-68A7A4380136",
-      "display_address": "112 Van Der Horst Drive, Columbia, SC 29229",
-      "display_owner": "Unknown",
-      "display_score": 60,
-      "display_tier": "Workable",
-      "display_patterns": [
-        "foreclosure"
-      ],
-      "stack_contrib_patterns": [
-        "foreclosure"
-      ],
-      "display_pattern_set": [
-        "foreclosure"
-      ],
-      "display_attributes": [],
-      "display_deal_paths": [
-        "wholesale"
-      ],
-      "display_deal_path_details": [
-        {
-          "path": "wholesale",
-          "confidence": "moderate",
-          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
-        }
-      ],
-      "display_title_complexity_tier": "None",
-      "display_lead_status": "REVIEW_REQUIRED",
-      "display_assessed_value": null,
-      "display_last_sale_price": null,
-      "display_last_sale_date": null,
-      "display_year_built": null,
-      "display_match_confidence": 0,
-      "stack_depth": 1,
-      "score_reasons": [
-        {
-          "factor": "base_NOTICE_OF_SALE",
-          "delta": 60
-        }
-      ],
-      "evidence_ids": [
-        "ev_4a2a3f061d4b4faa85224ea6143bbb65"
+        "ev_2fdb3c70f1774bbe8dc698f93e692654"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -2659,7 +3712,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_83f8529774dc4c3ebf59cd5b75a9ec05"
+        "ev_2c2c9803e3f14f1888e4daba10794439"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -2716,7 +3769,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_97c843980e434b3a876b16a623977bb1"
+        "ev_2984e87dc2b34c31b64a2da84c81662f"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -2773,7 +3826,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_a2bae42207f7421e8f2e73c27087a304"
+        "ev_88d12c4566bb4e77bc5d078231abd1b6"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -2830,7 +3883,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_8a6df68a47d3477184dfbfe86a2412e5"
+        "ev_7a440d8c4bda487daf52385ccec9d6a0"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -2887,7 +3940,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f43cc4157fbb4328bc17d6f1ebb81b51"
+        "ev_ef9bc9d0034c4e83bd61061439aad55e"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -2944,7 +3997,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_a510f91685094efbbda3eab8273a212a"
+        "ev_cb9978a1762241f48d1dd3419a136399"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -3001,7 +4054,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_903d036f401b4e8ba031000b81509d7c"
+        "ev_3c24b7493144446394dc2fc19ee2a5cc"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -3058,7 +4111,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_ff44e45430e2464f826ef504091c90d0"
+        "ev_e6c6105166674dbfbef2f6a5f1f56786"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -3115,7 +4168,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f4105cbb93484aff895e4dbde80366cb"
+        "ev_85bab0da6e6d4b40984f9188ce9703eb"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -3172,7 +4225,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_797783406dfa43d7ae495a4bdd4a2826"
+        "ev_c331c4faf44a4760882d55a80e5a0c29"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -3229,7 +4282,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f8ec9663c1e848e6abfe5d72a05f92c0"
+        "ev_0951cc7b433940d092ec97897d6807f4"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -3286,7 +4339,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_a181951b98d549bb8feab0f70cf191f4"
+        "ev_dbfee23f4ad44f1c938a31953354d20a"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -3343,7 +4396,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_d5f6f1c205604651b550f993730a33ae"
+        "ev_787f20dc1fc14bc1a8197ec038cf9cc6"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -3400,7 +4453,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_13874c335ff8469496675958695735ca"
+        "ev_b923531aa2ec4846b61959f064565295"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -3457,7 +4510,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f04634cebf4042df9d305ff7214f3490"
+        "ev_c1b551c72a414ea1a78261fea1fd6498"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -3514,7 +4567,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_e53d548fdc304551a744b9547669588d"
+        "ev_d600b74c9ed14137a39db986939bcaf7"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -3571,7 +4624,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_05772c533d9244b28e946c0fdefb75ab"
+        "ev_be95ae6a9af64dd2831f26ff90569733"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -3628,7 +4681,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_901131d0eaa4497495af5c21b678291b"
+        "ev_84a82761040b4f109320c67c8f852489"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -3685,7 +4738,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_e426891d338a434a8a4c209e69e8d6a8"
+        "ev_ad382bf6594241659f6eac450b0eb58f"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -3742,7 +4795,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_1b7b53a7877c4cfcbd97e185f121e43a"
+        "ev_06ba1b7c19e34eddbea59cb965d63fd9"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -3799,7 +4852,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_d80ea4ddd7ff46eeb4de5fdf20797e77"
+        "ev_8bb324e4580048bc9d164fbbe1ffff03"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1823/"
@@ -3856,7 +4909,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_87305ee1a50d4776a8db51babb11f341"
+        "ev_c407c1e885da4fa69f34bfaf23008718"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-300/"
@@ -3913,7 +4966,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c1c95d0a371140e090fdf8061997484b"
+        "ev_b9f232c546af4d2ab5ac9fe5c98755e8"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1821/"
@@ -3970,7 +5023,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_6aca73b6e5204c53ac76220432758c09"
+        "ev_676f6094e158430da575345d9f04678a"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1821/"
@@ -4027,7 +5080,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_69c9fd47c70c4c97b9c1643739978324"
+        "ev_a8837e011fec4fadb2dddc404d110ef5"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1821/"
@@ -4084,7 +5137,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_6cd0e3d05757432189cbd69b58f86f1b"
+        "ev_39f35720ea47464d90aacba871cc7130"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1821/"
@@ -4141,7 +5194,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_b4b4c58b20d443d28193564c3dd70a63"
+        "ev_8401c40d3f744818afa1daf023bc0644"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1821/"
@@ -4198,7 +5251,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_934fc086d8a541da8fb8e2fd61693555"
+        "ev_2d10740f1d8347bcbb81fe2cde24a42a"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1821/"
@@ -4255,7 +5308,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_6df28978592843598550ccc6982463e8"
+        "ev_08d82dfd54ac4f188f003ab84963ed57"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1821/"
@@ -4312,7 +5365,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_39716e0db7a2402e8069e32522bf2256"
+        "ev_588a6a3cb2594e0cb6549ed3f8b07116"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1819/"
@@ -4369,7 +5422,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_6006f47f4e0447af80cd94efbf46f270"
+        "ev_06ff1e9c19364175af75a2733a68d161"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1815/"
@@ -4426,7 +5479,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_10b70c6a5c1f4799acf43a441c1b881d"
+        "ev_5e4d3f09684048a5bbfbd45f511f1b3c"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1815/"
@@ -4483,7 +5536,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_257fdfa84d6740d8b7658e3f418d228b"
+        "ev_400fb29b6c634464ae53d3efc31f50b4"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-298/"
@@ -4540,7 +5593,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_92d200b20f2f4762a5561b501aff95a0"
+        "ev_6de93963c6e14fb5b7a95b9b4ef442f1"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-298/"
@@ -4597,7 +5650,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_a07b9265856e43cd8e427147408b4cd7"
+        "ev_0f893dfcc2cd48838d70ab0f8fd0839f"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-298/"
@@ -4654,7 +5707,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_ba9ddf8a58d74308863bf7f564915f38"
+        "ev_24a1675ee7c84932a7237c5322f99b2e"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-298/"
@@ -4711,7 +5764,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_2aaf8c41ac9e4bf4abb68f949872f432"
+        "ev_0f6f33454ae247a298552411af3a3ec1"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-298/"
@@ -4768,64 +5821,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_940da7a4a28e4cf79ca57783c39ddde9"
-      ],
-      "primary_source_urls": [
-        "https://www.thecolumbiastar.com/articles/masters-sales-298/"
-      ],
-      "primary_event_date": "2026-05-28",
-      "expected_sale_date": null,
-      "parcel_master_status": "no_bcad_match",
-      "parcel_master_status_note": "",
-      "parcel_master_match_method": "placeholder",
-      "candidate_parcel_ids": [],
-      "review_flags": [
-        "match_confidence_low"
-      ]
-    },
-    {
-      "lead_id": "lead_b4a6ef4d8902c6b8",
-      "primary_parcel_id": "RIC-CS-EAACAC3C7F0D",
-      "display_address": "11 Attucks Court, Elgin, SC 29045",
-      "display_owner": "Unknown",
-      "display_score": 60,
-      "display_tier": "Workable",
-      "display_patterns": [
-        "foreclosure"
-      ],
-      "stack_contrib_patterns": [
-        "foreclosure"
-      ],
-      "display_pattern_set": [
-        "foreclosure"
-      ],
-      "display_attributes": [],
-      "display_deal_paths": [
-        "wholesale"
-      ],
-      "display_deal_path_details": [
-        {
-          "path": "wholesale",
-          "confidence": "moderate",
-          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
-        }
-      ],
-      "display_title_complexity_tier": "None",
-      "display_lead_status": "REVIEW_REQUIRED",
-      "display_assessed_value": null,
-      "display_last_sale_price": null,
-      "display_last_sale_date": null,
-      "display_year_built": null,
-      "display_match_confidence": 0,
-      "stack_depth": 1,
-      "score_reasons": [
-        {
-          "factor": "base_NOTICE_OF_SALE",
-          "delta": 60
-        }
-      ],
-      "evidence_ids": [
-        "ev_c362c0081f804507a2fd21a91b4d2c40"
+        "ev_0985e94ec8454d829d5a0b8c56b3aade"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-298/"
@@ -4882,7 +5878,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_203f2cca619b42d7a79e79f647da9f44"
+        "ev_ef2ce7b60c054f82a77addf01396fa6a"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-298/"
@@ -4939,7 +5935,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_b758aa5894bf438481d0a4c12b06e407"
+        "ev_1c7ba400ee7742aa953ac88225c81d04"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-298/"
@@ -4996,7 +5992,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_919df4435da5448cb53c9a4789423aef"
+        "ev_61bdecd97e6e476aae8322f6a7c7959b"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-298/"
@@ -5053,7 +6049,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_e5cb4c24b0ce414fa1cf30847b9e0379"
+        "ev_8610797058074659903c7268df1294c6"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-298/"
@@ -5110,7 +6106,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_ca1407c958e34c8fa4d518aee4a2c599"
+        "ev_f6fb32f1f74b4a9ab9d3691ce28d159c"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-298/"
@@ -5167,7 +6163,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_8e22895466354d499d7622cabb6d747c"
+        "ev_56f573b8907f4b12bd87f1fa1f956eaf"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-298/"
@@ -5224,7 +6220,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_df5c997c8e7a4c34a92247ad0416afb7"
+        "ev_bd1d7bb18e5448f7877b213c2b8c460c"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-298/"
@@ -5281,7 +6277,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_948a7938395346af8408220c1c2c024c"
+        "ev_da3405cd8d684cf284d2937335e6e77e"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-298/"
@@ -5338,7 +6334,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_2eda3fd649bf471c80895e7df175a3c0"
+        "ev_2b0515d4595e4762be979c57263d3075"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-298/"
@@ -5395,7 +6391,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_a37a11714f444e9c871b9112c952ca18"
+        "ev_475c4afd00b84966a78b8d07fb5ccdf3"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-298/"
@@ -5452,7 +6448,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_37c688e57c9446b29fb0015563054736"
+        "ev_55f6191ea6f3435cb071aa6cfb0a8fed"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-298/"
@@ -5509,7 +6505,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_fdfa2f91604543b9852b22d993678943"
+        "ev_8a71f566f50242d6b9ae1a5289c26a84"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-298/"
@@ -5566,7 +6562,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_2a59d463e58e41b898dd849852d583cf"
+        "ev_8c267acf80b1453fa7b76d0c6c8f5683"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-298/"
@@ -5623,7 +6619,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c73e14e01f844e5abbefe371acd57fbd"
+        "ev_c609b5e87e744a0eb47dc3244e3092c0"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-298/"
@@ -5680,7 +6676,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_79f7b412dce44aa096d9e3b87c4f69c8"
+        "ev_35a61e6c481145cd94089ac6768aff98"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-298/"
@@ -5737,7 +6733,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_33b8f357305d415ea18fef9789e7b850"
+        "ev_59db90d4757143c49944499a99a84a7b"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-298/"
@@ -5794,7 +6790,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_86735a2ff3454796bf8ba272283b8d0a"
+        "ev_e3a7608718394260a0bf8a00b371c607"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-298/"
@@ -5851,7 +6847,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_8d812aaa09cf470da8a1d1987c615311"
+        "ev_fdda8cc312c24498af03ddba03384dfa"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-298/"
@@ -5908,7 +6904,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c743832424404cef94914abdea5db922"
+        "ev_2820a4ca97814803b99c75e0a2cd000c"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-298/"
@@ -5965,7 +6961,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_0b4afca00a8c4f0b8efa9a47418ad1bc"
+        "ev_f200ef7fbafa484d92ee0373939d6c46"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-298/"
@@ -6022,7 +7018,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_b4535ee566d449a6a4cc33db0fa917d3"
+        "ev_4e7cb7039ab0445b8bdd68e24bc51966"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-298/"
@@ -6079,7 +7075,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_01ba37944b794d67959ca34caf1c2265"
+        "ev_248963a5603842c28944004e460d6211"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-298/"
@@ -6136,7 +7132,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_60257285dde7402097f7337d88fae87d"
+        "ev_27a83a62d58647d39ca1150076014154"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-298/"
@@ -6193,7 +7189,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_04f17495589145fb88a88783dea12891"
+        "ev_5dd815a0b78448f5897c4d15e842d4cc"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-298/"
@@ -6250,7 +7246,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_edb0ea672860496d813e5205372c3819"
+        "ev_b99618e9c1bd4ad48b4cd7c94d450f06"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1813/"
@@ -6307,7 +7303,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_64cf26d77b094137b78cecbd1804e692"
+        "ev_0bb48cc00b9649619aa1d43a3d7e14e8"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1813/"
@@ -6324,19 +7320,19 @@
     }
   ],
   "pattern_counts": {
-    "foreclosure": 113
+    "foreclosure": 130
   },
   "attribute_counts": {},
   "stack_depth_distribution": {
-    "1": 107,
-    "6": 1
+    "1": 123,
+    "7": 1
   },
   "score_tier_distribution": {
-    "Low": 26,
-    "Strong": 17,
-    "Workable": 65
+    "Low": 30,
+    "Strong": 33,
+    "Workable": 61
   },
   "deal_path_distribution": {
-    "wholesale": 108
+    "wholesale": 124
   }
 }
