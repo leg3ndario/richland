@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T17:39:27Z",
+  "generated_at": "2026-09-07T18:49:20Z",
   "build_label": "FULL_BUILD",
   "mode": "production",
   "county": "Richland",
@@ -30,7 +30,7 @@
     "live_verification_passed": false
   },
   "build_label_reason": "",
-  "lead_total": 127,
+  "lead_total": 128,
   "records": [
     {
       "lead_id": "lead_9be3c990e52fd87e",
@@ -78,7 +78,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_666611b646cc4cc8a7a03ec57587929f"
+        "ev_b87308ee6fd74d488e8ba8d35765205b"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-307/"
@@ -139,7 +139,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_a9ef1511012d408aadadc8e1bbbfb59e"
+        "ev_94f66fb15f8244ccbaeca44818c0b6e3"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-307/"
@@ -200,7 +200,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_dcbdb35ca0d947628d16db307e47da0e"
+        "ev_9ef05e6f8d6e42078a60746960d622d8"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-307/"
@@ -261,7 +261,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_08528131fa1f4bb09731073619513118"
+        "ev_a701c59bbe2047128ec9ba4c2bd08a4e"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-307/"
@@ -322,7 +322,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_b038f057286649d4bdffc816d183a408"
+        "ev_4eb674b8284c46cab24f2c1bc36f409e"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-307/"
@@ -383,7 +383,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_61b45f98ed1d4e21bf72384d47d111ef"
+        "ev_979de70648994e69b8a188a6b438398a"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-307/"
@@ -444,7 +444,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_2d2407d0b895476293a6a896f67f9a75"
+        "ev_41bb77e4f034447fbc004e127667edd3"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-307/"
@@ -505,7 +505,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_e59b6f2015774f739082a27d2fddefae"
+        "ev_71a3c9e598ce4ec9b29ecbd047fd0698"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-307/"
@@ -566,7 +566,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_a9a501642c3441498e8c35937bebf644"
+        "ev_aa345e3a834a492096edc077bd3c64de"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-307/"
@@ -627,7 +627,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_afa6180c207c4eaf86d0061212285f7b"
+        "ev_b134f66ecfae4afc8bffd22f21cc7d39"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-307/"
@@ -688,7 +688,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_380745d639a745619ad7481412077055"
+        "ev_4a6ba234a5e94fd497c6968d7a4da90f"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-307/"
@@ -749,7 +749,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_d364c42f90be4befa9cc8391eb134f83"
+        "ev_e96544a500c94eb28770d617fc36c6a6"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-307/"
@@ -810,7 +810,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_d2aa619437a6485596cc2b2b0f941a75"
+        "ev_2707fe939cd541c8b13632544cc10888"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-307/"
@@ -871,7 +871,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c5d2d777cc7841b3a75f8b56dc357c45"
+        "ev_011d43a2f0c54e3c8fd3fdec78f363ed"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-307/"
@@ -950,14 +950,14 @@
         }
       ],
       "evidence_ids": [
-        "ev_9f5f2e8bc45d4f93933c4c852ee8d834",
-        "ev_44ead46f6c9d4dc4847913c8012c35b2",
-        "ev_cc00b2a3347a41adb833294180e28260",
-        "ev_4e13c2c3f5a245649127be9c87a590d0",
-        "ev_31ce590466f94993a517c083f46faa4e",
-        "ev_2392dce267d9400cbe4490a510c9c92b",
-        "ev_5161e7a6bae04cdda77ef70d05d87328",
-        "ev_a49c0b8aa2c64de6b8403584633dece7"
+        "ev_c230c8e081af4474afda954a90fca677",
+        "ev_af0f6ec895344095a4db65daa7b379f4",
+        "ev_8f400e04509448a6b87f0e793cff1874",
+        "ev_b3909c9bd9c741e89a01455f2fdb87a4",
+        "ev_16b7ee292b714bcc9c03a1eda4632468",
+        "ev_e43c0e965c0a43ce9a5b81951b5153c0",
+        "ev_45a4326585cc4298b1c29719c93e5cc5",
+        "ev_b0436d1d2cbf4efe895c7f68ac3f0975"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1817/",
@@ -1023,7 +1023,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c2a19ef251f248eca71b41f8cdfa3663"
+        "ev_2d0ec0b029bc464a922958ce1f101ad8"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1840/"
@@ -1084,7 +1084,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_251c3c94123746528222b63e93fb84ac"
+        "ev_6312f20d69614b3a9af2e196125ccdb6"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1840/"
@@ -1145,7 +1145,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_54229237537344c3adb97b52d2d6e801"
+        "ev_17a0f3f76db247b4a29642dc4c78cbb9"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1840/"
@@ -1206,7 +1206,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_39b1298337634b26b8eb0a5f2b525219"
+        "ev_2439eb28e1ec4e7fb846a8b12ded8b76"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1840/"
@@ -1267,7 +1267,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_d4b7d936128f470083261d02c8b48fef"
+        "ev_74222c4ee40c4a558969d5ddf8b8c520"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1840/"
@@ -1328,7 +1328,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_61af6fa301ae43878bb8f35a4de63b1b"
+        "ev_5915bd414ca54635a2f772ac8295b5ac"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1840/"
@@ -1389,7 +1389,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_872960fb5b2b4bc1af074db66351eab3"
+        "ev_79dc057c62cd4dba8823ef9be9ffdf72"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1840/"
@@ -1450,7 +1450,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_694c0fad57dc48a0beaba8443905bfde"
+        "ev_cfda0f92b7684a5bbefc43aa0de42866"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1840/"
@@ -1511,7 +1511,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_9b9c6ecfd8a249b883dfdb81706f68ea"
+        "ev_6eb6e75d7f034010b79de22448becca9"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-306/"
@@ -1572,7 +1572,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_faf38580ab5b4b0ea67bff1790da1d37"
+        "ev_6af73fffbbdb4e67932b410112a3853c"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1838/"
@@ -1633,7 +1633,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_1e227d243b1e40909defa6ec722da8fc"
+        "ev_aab2f7f44a5b4105827ff392a227f6ff"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1838/"
@@ -1694,7 +1694,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_0b2319e9bac54a41bf48a6fd836ac2d9"
+        "ev_51291b27ff754fc8ba7542afda1efd0c"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-305/"
@@ -1755,7 +1755,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_cfcd0e1c75a64480bccf1cb1f5e57db4"
+        "ev_431e9effb38b428db998df22350467cf"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-305/"
@@ -1816,7 +1816,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c58e98a6c049476387a9ffeabd70c2c5"
+        "ev_88da1ece71914033a7c5d04e4ee09f66"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1836/"
@@ -1877,7 +1877,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f2dc409129844f3490b61576a0612132"
+        "ev_3f49aa511f3f40cdafb3602a0a54db0e"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1836/"
@@ -1938,7 +1938,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_ef5f1d8fc97541b08a58ce793a8019b8"
+        "ev_c3782368d6494023884ed290f44d182e"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1836/"
@@ -1999,7 +1999,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_55806bcfb1dc44b4b4c9656a15d1b71e"
+        "ev_198964f5af1942db86f0166c6ca7381f"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1834/"
@@ -2015,11 +2015,11 @@
       ]
     },
     {
-      "lead_id": "lead_84dadab623281eb5",
+      "lead_id": "lead_38eccf04daf52116",
       "primary_parcel_id": "RIC-CS-5031A34EDF80",
       "display_address": "1044 Wildwood Centre Drive, Columbia, SC 29229",
       "display_owner": "Unknown",
-      "display_score": 40,
+      "display_score": 35,
       "display_tier": "Low",
       "display_patterns": [
         "foreclosure"
@@ -2053,14 +2053,10 @@
         {
           "factor": "base_LIS_PENDENS",
           "delta": 35
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [
-        "ev_0ee1ae61a1854281acfdffd10dc9ae92"
+        "ev_cfda73e407ad414e812ce276d0245dcc"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1832/"
@@ -2076,11 +2072,11 @@
       ]
     },
     {
-      "lead_id": "lead_a7c483ba8eb16254",
+      "lead_id": "lead_cd81c80b31fe55d3",
       "primary_parcel_id": "RIC-CS-CD4D39EC4446",
       "display_address": "1400 Tom Creek Road, Hopkins, SC 29061",
       "display_owner": "Unknown",
-      "display_score": 40,
+      "display_score": 35,
       "display_tier": "Low",
       "display_patterns": [
         "foreclosure"
@@ -2114,14 +2110,10 @@
         {
           "factor": "base_LIS_PENDENS",
           "delta": 35
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [
-        "ev_75fa78c1a357474a9f8a51e1bcebddef"
+        "ev_40d94492fb82434382694bdff0624426"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1832/"
@@ -2137,11 +2129,11 @@
       ]
     },
     {
-      "lead_id": "lead_18e3fcc38f54c1a4",
+      "lead_id": "lead_23c65c0e88ce3695",
       "primary_parcel_id": "RIC-CS-212D4392BFFC",
       "display_address": "2802 McCords Ferry Road, Eastover, SC 29044",
       "display_owner": "Unknown",
-      "display_score": 40,
+      "display_score": 35,
       "display_tier": "Low",
       "display_patterns": [
         "foreclosure"
@@ -2175,14 +2167,10 @@
         {
           "factor": "base_LIS_PENDENS",
           "delta": 35
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [
-        "ev_0c90d95f800a45ca90609b0cd3245c50"
+        "ev_76cbceb15d8241c8bb50ad389b3ab4cc"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1832/"
@@ -2239,7 +2227,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_7709d98937d04f2190d7c501bbc7cc21"
+        "ev_8d8635f89bd541a3aa0e7ce1ba857f1f"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -2296,7 +2284,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_7aaa5a49e10e484f917925478b422082"
+        "ev_25526c3bfbac46a88b515d8e07785b9f"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -2353,7 +2341,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_2be5bc9a6d37445387dc7d10ce511025"
+        "ev_51aca5acbcee4203a81ae183ae5612c5"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -2410,7 +2398,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_06534292b153437b9a5aac7853cd79c8"
+        "ev_dd09b8bbd47542e5b8729f11bff87d9d"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -2467,7 +2455,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_14156a14b2f8467d84d1fd0b690ecb0e"
+        "ev_16d6fee946ef4d85a1a22690b9e65fad"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -2524,7 +2512,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_91abaccbdb5e4d8a863ae662799a03d3"
+        "ev_2c54c53b944b46418d2457e841661097"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -2581,7 +2569,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c55d8f42323f4533b947b41fdcef667f"
+        "ev_498fe6aa3d64420c8b4806498b146e35"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -2638,7 +2626,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_81e7c0a0503443048c1da0d446078331"
+        "ev_b0ead0be62154c58a09d9587e3f33aa1"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -2695,7 +2683,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f0527b3bb4734b388ac725935bd00afb"
+        "ev_476336d870c547e1bc63e671179831ca"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -2752,7 +2740,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_de831283838b439e96cda3e659281b50"
+        "ev_0671e46444ce4e7da9850a61f5405985"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -2809,7 +2797,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_dad20131eec1421e8b5e9667e34ca2ca"
+        "ev_be17ed65b4ba4d06b0a44fede0c39647"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -2866,7 +2854,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_7633419dfdef4901ba39ebeb17134065"
+        "ev_4589438e201c49dd913293f08bfde8d2"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -2923,7 +2911,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_0e745731c4744dfca7ca311da1c9a8af"
+        "ev_3b680fa8228d4863b6ef5ab59427db55"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -2980,7 +2968,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_19a45d34f48b44c799dec7487ae8b027"
+        "ev_3c86caf2a3b94eac8d26b040869448e0"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -3037,7 +3025,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f87f5eca05684ae38c0ff6c2e071d303"
+        "ev_f658c4dfed0d4e6c985d291d19ddf6f4"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -3094,7 +3082,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f3c5e724d7964ce495bfcce15769f3ed"
+        "ev_8678a2c5a6ed46f7923647554e3be0a0"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-303/"
@@ -3151,7 +3139,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_47ad6b8d2b7c41c3999d4fcc1b51615b"
+        "ev_fbf2b43bf0b84fbe875dbd367d92673c"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1829/"
@@ -3208,7 +3196,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_e4b966bc5056433a823b3b58b982e411"
+        "ev_650ecf2e7a864cbf9cd09a7d92e3a79f"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-302/"
@@ -3265,7 +3253,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f7cb62a38c0a405d9317b33c2b37a8a2"
+        "ev_112237f5ffb040199a135c663425d6f7"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1827/"
@@ -3322,7 +3310,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_4d9be93ac58b4b479813a0e0041e9c00"
+        "ev_c76b6202a52c4e98a747ce12a5871f42"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1827/"
@@ -3379,7 +3367,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_1736b1accd4b4d5789b4b3cf879028cd"
+        "ev_dede3c68ee0f428ab1c50c491d4eb5f7"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1827/"
@@ -3436,7 +3424,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_4cb3744359c2404083d1500acb3cd8a7"
+        "ev_f32ccd07ffaa45628b72a71831127a0a"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -3493,7 +3481,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_d6182560246a40ada52cb51004cfd266"
+        "ev_a4b6e9a3df43420ba10b280a698ec000"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -3550,7 +3538,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_27eb5b6cd2634040945a913712cf337a"
+        "ev_6d343f69e7534693abe1e562fac1bb31"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -3607,7 +3595,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_466d23877bc04771a30ead5ef2643bb8"
+        "ev_46441557172447a18703a7bb83b00ecc"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -3664,7 +3652,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_564d96da1913488190f70f9571f0897f"
+        "ev_82c3d1d672834600b97c94048224a2f3"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -3721,7 +3709,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_4827d430c6fe4b5fb83248c0bd436830"
+        "ev_1dfd27ab165240fcaa0bc796f01285ec"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -3778,7 +3766,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_6b72f7bf13e248ff8d72a00c32e96733"
+        "ev_fabf28d3df244a3db12b9ed7277281fd"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -3835,7 +3823,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_a9a132dc1298400ebfd6c6d9478cc422"
+        "ev_c9cb43f6a89a4eb2942be8cfbce388f3"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -3892,7 +3880,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_2cdcec47b0a04816845944645cbe5aa9"
+        "ev_eed7a9358c0f462c9479a1a1a73c332d"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -3949,7 +3937,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_becc5b1290454b0cbdb4d96dcebbcc84"
+        "ev_6c53f393c6a9442b83fbe139e090e1d1"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -4006,7 +3994,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_af53db1bf77b46a5b07e7cd2b1d471c3"
+        "ev_0783405ec8c9490fb75e986ff5b11a49"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -4063,7 +4051,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_014e06304f7c4f808af10a9c88a56962"
+        "ev_7ecbcaa81534468ca8d33c3c16e6d0dd"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -4120,7 +4108,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_9ae48febca7044bd957bbbc055639405"
+        "ev_29595b16f8f742bc9e69721646c51d6f"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -4177,7 +4165,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_b369f750e412478ba42e4abf3dfce9e2"
+        "ev_afc747a4b68e491d93cb3e31a0e34760"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -4234,7 +4222,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_3a1649f991344be681c2f45a1610d984"
+        "ev_5a317390bc3f4ccd9c5eaeeb10a0b7e9"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -4291,7 +4279,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_de91da8ff66241698b18158c866ae6ff"
+        "ev_615f98bfd2fb418cb44437fe8c0bc69c"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -4348,7 +4336,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_981587e27e7f4cf09eb1a8440fd2efec"
+        "ev_8bf16cf139724f1a95630c7454de1ee3"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -4405,7 +4393,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_9fd999c688a640599f8722c0b538f9a1"
+        "ev_33464d6e8e5a49cfbaa29dd0286e6a42"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -4462,7 +4450,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_052283046fc646f888372f514593d05a"
+        "ev_e6ddb13252524b8d833b72b45306f7c9"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -4519,7 +4507,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_8f07b39b951f4da294b0478f4503ca22"
+        "ev_d7ba716543bb405d86e8bbbbbac9cd22"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -4576,7 +4564,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f4632ce0a32a41b1b9b87622e1ab366f"
+        "ev_81b9f208e08a439b83b145c068c6bb14"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -4633,7 +4621,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_72ada437adb247f5b42335ae68872b8e"
+        "ev_959e80741a0d436aa54fcf9d60944db2"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -4690,7 +4678,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_048dfb610a094b1c81f84eda15c9fdaf"
+        "ev_1d58c3be47d044118758ae7f4a52c056"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -4747,7 +4735,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_92fb7b239044462fa8504d1500eacbbc"
+        "ev_67d9217d9dea440f91e73d2fd8781f1c"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -4804,7 +4792,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_46bdf8f834c540289dff532f7483fd96"
+        "ev_1f87940637414b95b9db7b3c3475c458"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -4861,7 +4849,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_aabf8a578b6048a7a952db5562d187ac"
+        "ev_63bd7dce34864fd794abf8847dbf8608"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -4918,7 +4906,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_880f93691bb847da8e4f1a64c7f6c96e"
+        "ev_33ca2f4fe7c744af9ca06cf32984f41c"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -4975,7 +4963,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_2da0eed3f8a444e2bf75687bdf4f8141"
+        "ev_5a571b1a0d1b4024926d452435ba0d5d"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -5032,7 +5020,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f661d6e1edbc4a7e80b307332dedc4a0"
+        "ev_5cb1d2b5ba0644a8a808063a6c7c76ab"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1823/"
@@ -5089,7 +5077,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_eac53f391f68427880a6673f4c2018ec"
+        "ev_f6e5f0e99a60444ab13083494cedd113"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-300/"
@@ -5146,7 +5134,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f9c5611cab67488c8f2616f35a1a0170"
+        "ev_667d4c71bfda433489db77e0c5548755"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1821/"
@@ -5203,7 +5191,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_b8eb3f024cd5439ab4fc6d47b932df6c"
+        "ev_670a16310bfb4ff88f5fbcb52e938bae"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1821/"
@@ -5260,7 +5248,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_60bbbd0d68ac4501b34e1c4915aeb7dd"
+        "ev_90e838210d6947d1b77de9a2a052396c"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1821/"
@@ -5317,7 +5305,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_50b3e6d8c4944b879b7280833af56f5b"
+        "ev_19aedf5e45894461b8a11a9ae07e959e"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1821/"
@@ -5374,7 +5362,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_27cd508c31eb4cd781f94247b85befca"
+        "ev_3921c91905d5487b9998f7761e8b6dbf"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1821/"
@@ -5431,7 +5419,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f6d8b2a8ac1d4d4e9c7e051436b2bbc5"
+        "ev_760a83188c134f5f83d482139c396b8b"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1821/"
@@ -5488,7 +5476,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_bd35ab3dd8db4e21b9e94e31830589a3"
+        "ev_f54c725dcebe4d7c9aeda9e769184ab6"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1821/"
@@ -5545,7 +5533,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_ef3163fc31c349789af13b097d8affeb"
+        "ev_c225fd570cac4e11b3e776986cb0a8aa"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1819/"
@@ -5606,7 +5594,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_26c49e732b4e4928b2e6ceabfc7762cd"
+        "ev_3319f44bd57a430c94ab3462aee9d283"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#21904-109338"
@@ -5667,7 +5655,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c8d78f4d93c749768fa930042f00438e"
+        "ev_d143b045125a45bb81ea2f7defbf0898"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#23845-118775"
@@ -5728,7 +5716,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_2985f91b90114a5dbb838f71e79b4aa0"
+        "ev_2aeecd4720474593b71587f9766394f4"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#24914-125106"
@@ -5789,7 +5777,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_7f9ca579c7f74ccfb7e1e6af36629a9f"
+        "ev_fa513258db0144ad9d594a878f922422"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#25079-125873"
@@ -5850,7 +5838,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_4abbb67e3889433782069e3032a9c83f"
+        "ev_ec42ca7bd08743ffadb282e3fdeb4bee"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#26037-131373"
@@ -5911,7 +5899,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_e98a1cf2177343669b4127b59ac3f6bf"
+        "ev_e6ea5757eca04ef3983a7c5cf774011f"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#26973-137337"
@@ -5972,7 +5960,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_66532bfe8f384f0da5affd77beb02e5a"
+        "ev_7f426366c0ec4e4ca0fb5565bfa94ab2"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#27428-139827"
@@ -6033,7 +6021,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_0640005141104bd09875d85bdc6ca684"
+        "ev_c1e35dadcfc24863a23ba43543146fe1"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#18636-140131"
@@ -6094,12 +6082,12 @@
         }
       ],
       "evidence_ids": [
-        "ev_bb10c9497dd74e909d9d9950fff74536"
+        "ev_43bc7fa841914619bb47194bc61be74a"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#28176-144049"
       ],
-      "primary_event_date": "2026-09-08",
+      "primary_event_date": "2026-11-02",
       "expected_sale_date": null,
       "parcel_master_status": "no_bcad_match",
       "parcel_master_status_note": "",
@@ -6155,7 +6143,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_6d5959e761434c6eb2af411f04ad0feb"
+        "ev_ee7f746e824e4647ada3418ced52ee1c"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#28212-144304"
@@ -6216,7 +6204,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_7ead0d678ad24dfcbc08e8d48c8a221e"
+        "ev_fcdefc1490f04874b0e75c23463a6c1a"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#28653-146683"
@@ -6277,7 +6265,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_21ae6efbfa264020897906fb647f6ea4"
+        "ev_e817e8f05a0641ee911d58b74dd9788d"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#21329-149104"
@@ -6338,7 +6326,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_83e1c09b6d3b4974b9141ddbdd593785"
+        "ev_d99a33ec0dc14c558d5693765a42f679"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#29217-149718"
@@ -6399,7 +6387,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_123b764bbbc94898b6ba5ade9c6c7011"
+        "ev_28517ecd6cbf4dabbc97408815a5f817"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#9690-150158"
@@ -6460,7 +6448,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_ae39ec3601df41d3b2f839a286866abd"
+        "ev_b53910b350ef4f2aa6bcdb48e7622af2"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#29559-152474"
@@ -6521,7 +6509,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_115f03efdccf45fd8e85e31a6dfd98fb"
+        "ev_c13daf4b646c43669e6c64c297cae955"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#29696-153290"
@@ -6582,7 +6570,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_4c57cad001d44ba58976569a8a7c1a73"
+        "ev_3f841384cdb240dfadeaa9e75d5689f0"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#30159-156041"
@@ -6643,7 +6631,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_bf52ea6053c8468e9272bf26968bf959"
+        "ev_082948bce4d44c16a645d191fe6b98d3"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#30184-156318"
@@ -6704,7 +6692,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_9b6f6087ed284e9e9187fcc90e2408f1"
+        "ev_ee451b7482964a12a6dc0b40d6570ea2"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#30211-156501"
@@ -6765,7 +6753,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_15ab5fe6fa1c46e4850db35aa2db297a"
+        "ev_4c8e0e7bb3154ceb9f233aaa39743fa2"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#30409-157639"
@@ -6826,7 +6814,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_7c55f1ec62494b6d85f4cb367dff7c99"
+        "ev_53b6bb7c5f1d4438977f62fb2cd5f8b3"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#30439-157843"
@@ -6887,7 +6875,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_04701b726ec542dba202d7f1cc75416d"
+        "ev_75f975971c06459ab22b6c0f7a96ad63"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#30616-159059"
@@ -6948,7 +6936,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_798c76f64dfd42138566d3c5d0d9915e"
+        "ev_fbd5cf30e35b48c5a57a8470bdd9b9e4"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#30696-159435"
@@ -7009,73 +6997,12 @@
         }
       ],
       "evidence_ids": [
-        "ev_81d09f6f7df74613b1880be18ad15158"
+        "ev_87c61cd19ca74c42bdec1716ce83e4fb"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#31715-165726"
       ],
       "primary_event_date": "2026-11-02",
-      "expected_sale_date": null,
-      "parcel_master_status": "no_bcad_match",
-      "parcel_master_status_note": "",
-      "parcel_master_match_method": "placeholder",
-      "candidate_parcel_ids": [],
-      "review_flags": [
-        "match_confidence_low"
-      ]
-    },
-    {
-      "lead_id": "lead_78c0cbb925f9f17c",
-      "primary_parcel_id": "RLN-FS-1A2808C70111",
-      "display_address": "218 WRENFIELD LN, Blythewood, SC 29016",
-      "display_owner": "Unknown",
-      "display_score": 65,
-      "display_tier": "Strong",
-      "display_patterns": [
-        "foreclosure"
-      ],
-      "stack_contrib_patterns": [
-        "foreclosure"
-      ],
-      "display_pattern_set": [
-        "foreclosure"
-      ],
-      "display_attributes": [],
-      "display_deal_paths": [
-        "wholesale"
-      ],
-      "display_deal_path_details": [
-        {
-          "path": "wholesale",
-          "confidence": "moderate",
-          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
-        }
-      ],
-      "display_title_complexity_tier": "None",
-      "display_lead_status": "REVIEW_REQUIRED",
-      "display_assessed_value": null,
-      "display_last_sale_price": null,
-      "display_last_sale_date": null,
-      "display_year_built": null,
-      "display_match_confidence": 0,
-      "stack_depth": 1,
-      "score_reasons": [
-        {
-          "factor": "base_NOTICE_OF_SALE",
-          "delta": 60
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
-        }
-      ],
-      "evidence_ids": [
-        "ev_69e6c2d181874e0c8065cfce5d62500a"
-      ],
-      "primary_source_urls": [
-        "https://www.rogerstownsend.com/reports/SC_Listings.pdf#beb6f845745a"
-      ],
-      "primary_event_date": "2026-09-08",
       "expected_sale_date": null,
       "parcel_master_status": "no_bcad_match",
       "parcel_master_status_note": "",
@@ -7131,7 +7058,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_a985eca200d448daaf9fc1dae4db114b"
+        "ev_54cb73c114ae42bda176b9deac65760e"
       ],
       "primary_source_urls": [
         "https://www.rogerstownsend.com/reports/SC_Listings.pdf#1dbfa8c6a213"
@@ -7192,12 +7119,195 @@
         }
       ],
       "evidence_ids": [
-        "ev_b9c610b2ed9e4082a9ed399ad5788043"
+        "ev_666d464668eb44d6a93e86490a6ff4a8"
       ],
       "primary_source_urls": [
         "https://www.rogerstownsend.com/reports/SC_Listings.pdf#fe12c62104cd"
       ],
       "primary_event_date": "2026-09-08",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "placeholder",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "match_confidence_low"
+      ]
+    },
+    {
+      "lead_id": "lead_58911a5a14a6c7a9",
+      "primary_parcel_id": "RLN-FS-B7D16752FD5A",
+      "display_address": "2006 ORCHARD OAK TRL, Columbia, SC 29209",
+      "display_owner": "Unknown",
+      "display_score": 65,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_2e9059f11bee4bb4ac9dc4b395387259"
+      ],
+      "primary_source_urls": [
+        "https://www.rogerstownsend.com/reports/SC_Listings.pdf#f8bd626456ad"
+      ],
+      "primary_event_date": "2026-10-05",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "placeholder",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "match_confidence_low"
+      ]
+    },
+    {
+      "lead_id": "lead_5683146eaacb4d3d",
+      "primary_parcel_id": "RLN-FS-1C395A0F4976",
+      "display_address": "3205 DOWNES GROVE RD, Columbia, SC 29209",
+      "display_owner": "Unknown",
+      "display_score": 65,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_fad369612519405fb65baeeb200c8084"
+      ],
+      "primary_source_urls": [
+        "https://www.rogerstownsend.com/reports/SC_Listings.pdf#b1f249e09b33"
+      ],
+      "primary_event_date": "2026-10-05",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "placeholder",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "match_confidence_low"
+      ]
+    },
+    {
+      "lead_id": "lead_af11e6ce88065cac",
+      "primary_parcel_id": "RLN-FS-588672955B6A",
+      "display_address": "1828 MORNINGHILL DR, Columbia, SC 29210",
+      "display_owner": "Unknown",
+      "display_score": 65,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_f3abcd4d5e084f7a9754c5a759b94c51"
+      ],
+      "primary_source_urls": [
+        "https://www.rogerstownsend.com/reports/SC_Listings.pdf#26ff26fcf2a1"
+      ],
+      "primary_event_date": "2026-10-05",
       "expected_sale_date": null,
       "parcel_master_status": "no_bcad_match",
       "parcel_master_status_note": "",
@@ -7253,7 +7363,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_e42687226eea4c1a8e6d2f934d3b1ff9"
+        "ev_890a6a67093c49f6926a29f63f001316"
       ],
       "primary_source_urls": [
         "https://www.scpublicnotices.com/Search.aspx#644131"
@@ -7314,69 +7424,12 @@
         }
       ],
       "evidence_ids": [
-        "ev_3912c0759aea47c3a6a9275e614c66d8"
+        "ev_d8d7a6e6342b4181acf3e5c51883b39d"
       ],
       "primary_source_urls": [
         "https://www.scpublicnotices.com/Search.aspx#642531"
       ],
       "primary_event_date": "2026-08-28",
-      "expected_sale_date": null,
-      "parcel_master_status": "no_bcad_match",
-      "parcel_master_status_note": "",
-      "parcel_master_match_method": "placeholder",
-      "candidate_parcel_ids": [],
-      "review_flags": [
-        "match_confidence_low"
-      ]
-    },
-    {
-      "lead_id": "lead_3cd4496ac444096a",
-      "primary_parcel_id": "RLN-LN-FDC01340DF81",
-      "display_address": "515 WALNUT STREET",
-      "display_owner": "Unknown",
-      "display_score": 55,
-      "display_tier": "Workable",
-      "display_patterns": [
-        "tax"
-      ],
-      "stack_contrib_patterns": [
-        "tax"
-      ],
-      "display_pattern_set": [
-        "tax"
-      ],
-      "display_attributes": [],
-      "display_deal_paths": [
-        "wholesale"
-      ],
-      "display_deal_path_details": [
-        {
-          "path": "wholesale",
-          "confidence": "moderate",
-          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
-        }
-      ],
-      "display_title_complexity_tier": "None",
-      "display_lead_status": "REVIEW_REQUIRED",
-      "display_assessed_value": null,
-      "display_last_sale_price": null,
-      "display_last_sale_date": null,
-      "display_year_built": null,
-      "display_match_confidence": 0,
-      "stack_depth": 1,
-      "score_reasons": [
-        {
-          "factor": "base_TAX_FORECLOSURE_NOTICE",
-          "delta": 55
-        }
-      ],
-      "evidence_ids": [
-        "ev_29e3b86877bc418299a997f956cc9a3e"
-      ],
-      "primary_source_urls": [
-        "https://www.scpublicnotices.com/Search.aspx#624682"
-      ],
-      "primary_event_date": "2026-06-07",
       "expected_sale_date": null,
       "parcel_master_status": "no_bcad_match",
       "parcel_master_status_note": "",
@@ -7428,7 +7481,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_0732bc625b8e4f42b8c0d469a952e8b9"
+        "ev_024e0f2cec764084abeb40c1dd5558c2"
       ],
       "primary_source_urls": [
         "https://www.scpublicnotices.com/Search.aspx#636158"
@@ -7485,7 +7538,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_96ab1a4f13bf406e8e3065aa5bd27486"
+        "ev_2d6155e923c54a5686fd11b1c0b6ef8d"
       ],
       "primary_source_urls": [
         "https://www.scpublicnotices.com/Search.aspx#625047"
@@ -7542,7 +7595,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_3bd29fed4a804b2ba1290bc8952fe90a"
+        "ev_4171521e11c348edbf260e766556c149"
       ],
       "primary_source_urls": [
         "https://www.scpublicnotices.com/Search.aspx#628053"
@@ -7560,20 +7613,20 @@
   ],
   "pattern_counts": {
     "estate": 3,
-    "foreclosure": 129,
-    "tax": 2
+    "foreclosure": 131,
+    "tax": 1
   },
   "attribute_counts": {},
   "stack_depth_distribution": {
-    "1": 126,
+    "1": 127,
     "8": 1
   },
   "score_tier_distribution": {
     "Low": 30,
-    "Strong": 45,
-    "Workable": 52
+    "Strong": 47,
+    "Workable": 51
   },
   "deal_path_distribution": {
-    "wholesale": 127
+    "wholesale": 128
   }
 }
