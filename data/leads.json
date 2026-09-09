@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T18:05:04Z",
+  "generated_at": "2026-09-09T18:17:23Z",
   "build_label": "FULL_BUILD",
   "mode": "production",
   "county": "Richland",
@@ -78,7 +78,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_e102af1234b8435d8f6d6a017dfe9e28"
+        "ev_31c005d86ccf40d19d6382a67984c32b"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-307/"
@@ -139,7 +139,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_4fb9132647834ce3806f948f01a8408a"
+        "ev_e1212dea803c4642804d08e97da915b9"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-307/"
@@ -200,7 +200,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_b28432a7005346118c479b20c5a9e8c8"
+        "ev_b50739c984f14fbba3e7dde0a0b370c3"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-307/"
@@ -261,7 +261,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_feb3ca6916b8431ca2400779fdaddcc8"
+        "ev_a447371218af4364a2ed0e1fb70b7bf7"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-307/"
@@ -322,7 +322,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_aea7f8668840489b8d9901a01ed3069b"
+        "ev_66a098aa0f5f4596ba4b1679f329a48b"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-307/"
@@ -383,7 +383,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_94ac35edf8f349a28801b10beecc664c"
+        "ev_a93246274caa4cc6870a40170ba0d350"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-307/"
@@ -444,7 +444,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_2c512d6c4cab4b488d9e2d9bc3581f67"
+        "ev_7af9f7beaf3f44e8a5064e26ad151272"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-307/"
@@ -505,7 +505,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_96aefe92c73d4c438afd1c36552ae950"
+        "ev_873e788b06cf487fa426330cd949aa4b"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-307/"
@@ -566,7 +566,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_bb63e12617b74e4687bfb37485a5b7e5"
+        "ev_89dc0a7dc35041609476ad598899bf51"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-307/"
@@ -627,7 +627,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_9135b3590b934cabb150cac127dd890b"
+        "ev_400ca9966f454b67898179a969269673"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-307/"
@@ -688,7 +688,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f863c41036b14f5fb2308fb39cfdc46d"
+        "ev_8e7d281141d347babf077bbc45f26836"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-307/"
@@ -749,7 +749,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_1ad80590a80a47328c8a916d7ff2af20"
+        "ev_d21aba7471fd4c35a022b6378ddeae94"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-307/"
@@ -810,7 +810,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_3859780c3e2041d5befa09ea2c73b9bd"
+        "ev_e01b19a732a04637a0fb5a8f80cb71d5"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-307/"
@@ -871,7 +871,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_2f3f1898963547dcb53bd66deed90fd1"
+        "ev_02f9b9d5416345acb1b1f1a9bc2fad5d"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-307/"
@@ -950,14 +950,14 @@
         }
       ],
       "evidence_ids": [
-        "ev_ea192195d95844428e7b15e57cf022b9",
-        "ev_2fb6e13c78774a4cabd3136ef762c42e",
-        "ev_8e70369e4cb0463abb94d8f693c1d170",
-        "ev_62186449639649b3ba120fc6240d4268",
-        "ev_fc5172194d9942aa8754c169fa52a059",
-        "ev_2d1e2d7003b24183be5ab01e55fa7f8f",
-        "ev_b9ed44c1d7b14effb2fb422c7859b571",
-        "ev_bcf700758fc643ecb89e41f5aacfe5ab"
+        "ev_d405ce080fb74e6586fbc7ae6191040a",
+        "ev_c66235ab48cb4cfdb735da01c1801cfa",
+        "ev_a56ccfaadcdd4e418ffc6b40fea8bcea",
+        "ev_208d3c3597df41d08643a38a3ead863b",
+        "ev_13842270d4be47579dec7a1b38c3dc5a",
+        "ev_cad3d082cb4e4f2c9b379a4e9121ee38",
+        "ev_a13efdf7b3914c258f0a952f41f0e75d",
+        "ev_584f6603401e47298516708d8df36449"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1817/",
@@ -1023,7 +1023,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_5e113da986c6464b9524cc8edc8ca8cb"
+        "ev_9f9f65be4c3b4c2fa75d475ae9aae152"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1840/"
@@ -1084,7 +1084,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_bb66bd4ff65e4c4b9975674ec6f4b396"
+        "ev_bf9528d5d31d4a529d0459313ee3360c"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1840/"
@@ -1145,7 +1145,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f43d59235c5a4bec9c7c037ae739e246"
+        "ev_63c3e31e72c842abbd63d86e8592c372"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1840/"
@@ -1206,7 +1206,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_1136e60fbbf04c619759b020e43f8e27"
+        "ev_058c3161553d499baad3fa544420318b"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1840/"
@@ -1267,7 +1267,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c7e47ed7ec7941cba58efef71646560f"
+        "ev_12f9694ec6544913ba3ac9b1a4d25221"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1840/"
@@ -1328,7 +1328,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_cfe30fb1b61640249a948f024d96e148"
+        "ev_985e6e87aa8d43839aa582c7e1da4540"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1840/"
@@ -1389,7 +1389,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_068226cfeeac4c8d820a91f8ed40e4f9"
+        "ev_4f2144385017404dbc03793d78c9c195"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1840/"
@@ -1450,7 +1450,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_fff9334c00bf4a818269823b48aaa5ed"
+        "ev_b7f98d2d6930488094d90bff537f413c"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1840/"
@@ -1511,7 +1511,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_fe33e09aa7714fa7b18387876e2f30a9"
+        "ev_31e7382ae6304d108e42e9424281d58a"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-306/"
@@ -1572,7 +1572,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c5f5809a4a874d2db08f2ed44b1fbc11"
+        "ev_c388012050994ca0b9a5fb67c032d8c7"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1838/"
@@ -1633,7 +1633,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_834a2410d3314df3b032b231472a23fb"
+        "ev_ae40a4c499db444d811e73882248bd77"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1838/"
@@ -1694,7 +1694,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_e629bbc20d6e444ba0cde086ace66010"
+        "ev_22057fbbf84e451791e58380e4659efe"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-305/"
@@ -1755,7 +1755,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_26d54c57aecc49a3a7f36809f108d9a8"
+        "ev_77b886285f87419a9ea74db5c573c6d1"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-305/"
@@ -1816,7 +1816,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_a43deff3eedf4b529fb11b17d76920c3"
+        "ev_9664e65cecf44dac9542c1b384a7249c"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1836/"
@@ -1877,7 +1877,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c2c80ced121d496bb5b7f6bc12aa9970"
+        "ev_090165d3b6534055aeac3197891c97ca"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1836/"
@@ -1938,7 +1938,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_b7dc03c3860c407d9d398a8e523c6f95"
+        "ev_91ac5a3f4c7842b89ba3ceaf2765ee9c"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1836/"
@@ -1999,7 +1999,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f26603885680409cb3d0f681771edba2"
+        "ev_2ea25e5c6ea94791b14c3b2488c5db71"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1834/"
@@ -2056,7 +2056,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_a1385d21c70b42b5b5e306cfd5547fc3"
+        "ev_1a393a7cafe44cef9314c817f7bd5ed7"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1832/"
@@ -2113,7 +2113,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_e80ad1a9c40c4be29157d6bf6299f513"
+        "ev_1857b803ec124bf68bbe0c9ee8ca4923"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1832/"
@@ -2170,7 +2170,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_0138f799a881494da5b59bfb3ffaffff"
+        "ev_63737eb7fe724228ac832da2f792630c"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1832/"
@@ -2227,7 +2227,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_7083c39bf7a1412394ce2bc86ba82549"
+        "ev_abc9e479d9b643dda901f06c0844cbed"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -2284,7 +2284,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_e3956bf6d38040db828897405430bf8e"
+        "ev_156b6c9f97f74b3890b5fdddf13f8014"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -2341,7 +2341,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_b8dd9d3b7c994ead92b5c84b47a2cb4e"
+        "ev_f7fd8d6e5a7949d29f70a2dc8ab61136"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -2398,7 +2398,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_5212d91dba1f437db320147b4a4545e1"
+        "ev_30c00ba533084f1689d944ec51e6097a"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -2455,7 +2455,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_d354079eb0df4e6a9a0565da5c2df9bc"
+        "ev_6fa8826f3d9a4565af5c84b7c2009b73"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -2512,7 +2512,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f9bf929f59164563a2b1755cee9581e5"
+        "ev_617263736f3c4b5ea248cb06196737bb"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -2569,7 +2569,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f19501dfba1d45cea48d4952fdd8449b"
+        "ev_2d646c72b7ab4df1b879f118052c013a"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -2626,7 +2626,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_eab44d751a694889922e250085033088"
+        "ev_8fd83994ea9743b083083108ee4944e2"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -2683,7 +2683,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_42a7d5d1588240e1920d445751740476"
+        "ev_287aad074bf84133b230140156b348e0"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -2740,7 +2740,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_efd96b215f6a456c8eb52cea6b4fe669"
+        "ev_1d08c012577244d4bc68a3b0e52ca3c1"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -2797,7 +2797,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_6bfb5bed146b4b1b91f9549f548ab349"
+        "ev_0de166c7da5d42bf9c0e523b7078a9eb"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -2854,7 +2854,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_3c4b03338240428fabf9bd4702b50c2f"
+        "ev_45b3fbc0028b490e8b01ec99caf1685a"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -2911,7 +2911,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_ec2e2f670edb4c3a8261b6993291040d"
+        "ev_b2798e776c204f29a327d155efac7d55"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -2968,7 +2968,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_07c495a29c1340a695fa3079129b77ec"
+        "ev_cdde41017252454fb14f938f832f462d"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -3025,7 +3025,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_291a49d7626549e89244b46b7977074e"
+        "ev_40f8e8e05c994ef085e910ff6fd2a99e"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -3082,7 +3082,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_89f953509e014fe59ed416eac697e147"
+        "ev_d76a4c39e1444784b14b1e14f66fad3b"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-303/"
@@ -3139,7 +3139,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_0e72158cfd9a4695a4bc933059737e8f"
+        "ev_5a8229298947445db4b31b34ff7e66bc"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1829/"
@@ -3196,7 +3196,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_d0d07536787548d9a7c4d45d446545fa"
+        "ev_a40c019874814cff9c09a71ff2120742"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-302/"
@@ -3253,7 +3253,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f6958212752548208a757ae665edd641"
+        "ev_08e452e0cf3b4399bf9d0fc221ada2b0"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1827/"
@@ -3310,7 +3310,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_59fd27f6ac87409bb698126ff094afee"
+        "ev_8f66208a79884d5c943a9d6ffa12c454"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1827/"
@@ -3367,7 +3367,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_1c5c5b43c2c8453dbcb65c2b37deaedc"
+        "ev_88027681c42d4e849c94055d225dedc2"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1827/"
@@ -3424,7 +3424,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_ab7cb5f514ec460c80fa6a8a31fc6173"
+        "ev_8dd09ac5dcd6450c8c97cdf9d6b13b7d"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -3481,7 +3481,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_8809417811c54fb18da294bf87ed1b14"
+        "ev_3050ffad3a6e4d3c8e179ee6a5c0bc5a"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -3538,7 +3538,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_2fbc7e47df414df29955dfde438d25f6"
+        "ev_8a6407bec1514f9386ec61c1c72bcf01"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -3595,7 +3595,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_4db4e01fa48249aab9b2075a885173b4"
+        "ev_5c8f4fe740e54b15bee4cf38c1fb7cc6"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -3652,7 +3652,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_2abe49ac2d4f423c857ae2b4e0a40434"
+        "ev_779320dd5a0843f6998295f930a94439"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -3709,7 +3709,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_ba6a8a3bc5e24e46a33f6bf540d86e3f"
+        "ev_12a79941dc2b407dbc388d41c94c16ee"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -3766,7 +3766,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_7b16c59621f24ee6acb48d939034ff3d"
+        "ev_f4cd552e6a3a486ab80c43a4d83752ad"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -3823,7 +3823,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_719545509b634b80b6228af0a0f3d21e"
+        "ev_43d1e0723f82455a9967b7cff0a51044"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -3880,7 +3880,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_03b097c7f760437c9b2cd12e701a9222"
+        "ev_9d913e58d21e405787e0c3a634522959"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -3937,7 +3937,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_5666b0d4138a430a8d07ea2fe3f82b85"
+        "ev_8569061d54824a46bfe6172c641b31e6"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -3994,7 +3994,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_7adaed3054fc454f90787b19880673d9"
+        "ev_81faa5aab441422eab033550feca49c9"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -4051,7 +4051,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_4fa459a50dc640818893275b949ee76f"
+        "ev_172a0015b4644245821f7acc91b6db8d"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -4108,7 +4108,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f25993ae60724078932ac14ef5236d59"
+        "ev_6c42e6aca2784d74b25138737e402174"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -4165,7 +4165,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_46d478d8fef944a79710f82a101636fe"
+        "ev_ca2dfe824b104b0880b6803d5330e4b1"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -4222,7 +4222,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_27163960c7ae45288c0617011d0e2c61"
+        "ev_d1a3e95692764e44b4edae2138102b07"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -4279,7 +4279,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_b6de2439a0b84f4d8bc44d3bff58d38a"
+        "ev_684242960d1d49e2b7ac8e04ec9c4ab5"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -4336,7 +4336,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_5b53bed7961a468288316fa0b67f15fb"
+        "ev_3b67529d6fa94b0095ff9af3cfcc9844"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -4393,7 +4393,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_d23f346e5e534ebd821c6d1cd6ffd181"
+        "ev_76357d309baf40118c592fd19018d19e"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -4450,7 +4450,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_9b021610f2584301975b9dbf9948787e"
+        "ev_05e8ab5bee644952a746bd0f6c158f51"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -4507,7 +4507,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_3fbddff36bca457eb7bf8d219cb825b1"
+        "ev_21ffe68b8cd24cdd8f118180414d89a5"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -4564,7 +4564,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_1355692fa8944d6a94c09ebf8fa08f1c"
+        "ev_0a5746b83c254268bdcdf27299448520"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -4621,7 +4621,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_7494eda6594f44d28aba98c015b3135a"
+        "ev_0d9195d65f434617ac0425e568be2f2d"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -4678,7 +4678,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_6ce67fe8624b4a65a31ce9ca4792ea48"
+        "ev_43f89bf693894802a17eae3b7e5e51c7"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -4735,7 +4735,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_b2151597129a4f0d85afd9b883f627a9"
+        "ev_d986fcd7d7114f4a95f0ad3bc4556242"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -4792,7 +4792,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_475cf97534c34db8a2af929daafc164e"
+        "ev_8544c85db75042e7bf6fae30ffb73237"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -4849,7 +4849,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_299e1e24f2d44bee9568e6d7ce27bcab"
+        "ev_a5664fb5a07a400fb68ff8cda6a4ab4c"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -4906,7 +4906,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_926cd883550647b1abf79ccb84fc886c"
+        "ev_3ec0f02f5950439d92768899e02108f1"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -4963,7 +4963,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_40873e0884f049559224c6306ae8a530"
+        "ev_3b3d671ede4242e89e78f10aced9c483"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -5020,7 +5020,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_36ad5173b2d84710ac76821bca9eb7ef"
+        "ev_7850cb56f625431d9c906cdac0e48c12"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1823/"
@@ -5077,7 +5077,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_9b60672c511f482aa79879b9850f4100"
+        "ev_9b1109acc83b438597d99c8435ce8bc8"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-300/"
@@ -5134,7 +5134,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_4ab813d364b748d0a22ff20e326fcbe6"
+        "ev_83a5d2d0150a41ddb29240f196eaf793"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1821/"
@@ -5191,7 +5191,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_0c91413222134a3693478285ae07063d"
+        "ev_bd0e10e1a1a74ea5b1275ff71f3f628a"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1821/"
@@ -5248,7 +5248,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_071963bde7f24cdea0924ebfeeec2789"
+        "ev_dd7d7cb80429447eb1db5e8127e84a35"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1821/"
@@ -5305,7 +5305,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_75983ce1e03248aa8fdf528f04123c78"
+        "ev_bbfe3e76defd46a5b8035c43a8f26d41"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1821/"
@@ -5362,7 +5362,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_3e7b8feb9b3a4a688fe3d2dd44add8e5"
+        "ev_ec93aed41ad04f52b7ed80e40913edaa"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1821/"
@@ -5419,7 +5419,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_1c2e7b0f93f246e1917c8209255ee768"
+        "ev_808ad9dc1e234b789063f9393df5fd8e"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1821/"
@@ -5476,7 +5476,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f5c7e3ac6f024fc89bd0a668ba2defab"
+        "ev_6ee06a5270cf4260bf968187119d2b6c"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1821/"
@@ -5533,7 +5533,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_890a7af9291f4f668f39a06b1e82a432"
+        "ev_693fbfdb693f458ebedea46a7d478332"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1819/"
@@ -5594,7 +5594,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_de67faa3444e404e8adca2b3e73c7ed1"
+        "ev_b657faf2070044bcbb742ddd69fd0612"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#23845-118775"
@@ -5655,7 +5655,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_be5c05a74f264f7488f3e948e58047b0"
+        "ev_e0876af51aa64a8d849bdd520f5371b9"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#24914-125106"
@@ -5716,7 +5716,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c8378f73b8c743ba96b56e417a49b949"
+        "ev_b5ef30fca1dd4cd49fc45cbd84316419"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#25079-125873"
@@ -5777,7 +5777,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_317622ded9e54c0cb6f6ef18f1615e4f"
+        "ev_a3346c9cf7344661bca32202851a9caf"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#26973-137337"
@@ -5838,7 +5838,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_fa7b5315ffda446d976585d29c333737"
+        "ev_10bbdb0bac8f4b02b9869107a1d12a71"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#27428-139827"
@@ -5899,7 +5899,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_3d72707c24764111a5bf1cdcb720e628"
+        "ev_c65fe1dd379647a195463e06fc0c271e"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#18636-140131"
@@ -5960,7 +5960,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_0d8c74e9355b4c47b25ff8022383f486"
+        "ev_ff42836b5a764a7c88579133d86cb99d"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#28176-144049"
@@ -6021,7 +6021,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_5b9dccb0cc564a679af43560e60cacc1"
+        "ev_5b308271e7e6423e9254396049d2f0c8"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#28212-144304"
@@ -6082,7 +6082,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_70848457401447edaacf06db15516ee7"
+        "ev_0bca0b23245c40c1aa918a0b8df43d80"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#29217-149718"
@@ -6143,7 +6143,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_4d6c40ab47c14bfd9eb16683895cd8df"
+        "ev_6e8c795505904d61935fc04388d70025"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#9690-150158"
@@ -6204,7 +6204,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_5088102cc9d64a85b5714e3416542439"
+        "ev_1b397e0866dc485cb0df405ad8131cab"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#29559-152474"
@@ -6265,7 +6265,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_86dbbc1b5aab40df8b2b54ecccc86351"
+        "ev_5affeffa397744b1b96e1c2075e922f8"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#30184-156318"
@@ -6326,7 +6326,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_a8d87bd2999f4c428a403713a2f2701b"
+        "ev_7e67d151bb4245feaaf2adfeb70f73a6"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#30439-157843"
@@ -6387,7 +6387,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_af871976614c441f9dacc15e87a86751"
+        "ev_eccbcecca1f848f79f3668b639584e53"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#30696-159435"
@@ -6448,7 +6448,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_2c42c587ba584c2886f48854d7f84dc9"
+        "ev_57bf0068714b43a2baed5016db27e4a9"
       ],
       "primary_source_urls": [
         "https://www.rogerstownsend.com/reports/SC_Listings.pdf#f8bd626456ad"
@@ -6509,7 +6509,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_dc5e7e6a100042a9a588422921a7a892"
+        "ev_fde93554b59649a499741263363b8929"
       ],
       "primary_source_urls": [
         "https://www.rogerstownsend.com/reports/SC_Listings.pdf#26ff26fcf2a1"
@@ -6570,7 +6570,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_ee18956f7fde4c9aafae88badfecf7d5"
+        "ev_3d957a385adf448d866c92b06b2371d2"
       ],
       "primary_source_urls": [
         "https://www.rogerstownsend.com/reports/SC_Listings.pdf#b1f249e09b33"
@@ -6631,7 +6631,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f4ce9e203dd14640a4f087366f40773f"
+        "ev_4bd0eb3ca45f4e9ea8f45042a8c75b1e"
       ],
       "primary_source_urls": [
         "https://www.scpublicnotices.com/Search.aspx#644131"
@@ -6692,7 +6692,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_80f76078f1ec466ca6f2fbcb9ca7c5c6"
+        "ev_ca33e62487964206995f2b6f0928a15a"
       ],
       "primary_source_urls": [
         "https://www.scpublicnotices.com/Search.aspx#642531"
@@ -6749,7 +6749,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_152b33c83c8f4147a66c2a28259e09d3"
+        "ev_f6306c552e6f4563bd6bfbce9a0b4f12"
       ],
       "primary_source_urls": [
         "https://www.scpublicnotices.com/Search.aspx#636158"
@@ -6806,7 +6806,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_2e9dabb89e5847f1b74b9a612a23ee1e"
+        "ev_261b4e87c539487397f8425576d960c9"
       ],
       "primary_source_urls": [
         "https://www.scpublicnotices.com/Search.aspx#625047"
@@ -6863,7 +6863,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_64ad2e00aa6f4086a08fa015e02a25e4"
+        "ev_6d051fe580bd475e9487152d5ab3db02"
       ],
       "primary_source_urls": [
         "https://www.scpublicnotices.com/Search.aspx#628053"
