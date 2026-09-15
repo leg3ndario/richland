@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T19:17:41Z",
+  "generated_at": "2026-09-15T14:27:35Z",
   "build_label": "FULL_BUILD",
   "mode": "production",
   "county": "Richland",
@@ -30,7 +30,7 @@
     "live_verification_passed": false
   },
   "build_label_reason": "",
-  "lead_total": 538,
+  "lead_total": 532,
   "records": [
     {
       "lead_id": "lead_a5063c89a119c159",
@@ -78,7 +78,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_3e676110367a4ad599711727843b4a2d"
+        "ev_17b6736c58504edaa278ef3b7cc50d9d"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1841/"
@@ -155,13 +155,13 @@
         }
       ],
       "evidence_ids": [
-        "ev_3627bf72af9040abbbc42d6bf70b400d",
-        "ev_fe51851afcbf47d39d8db594daf7a750",
-        "ev_2096c5818ba648078cf054f6e03b4e58",
-        "ev_e699c4bab2cd40a4875e8848431d4ee6",
-        "ev_8112b706642e4ceea0078e72c00da724",
-        "ev_ad51245427a44a5394d6e78eedfbcfb8",
-        "ev_2557f7e867b747eab351db5e8e791ab0"
+        "ev_9ebd21101e6a4d71af4e97afcc1de2dc",
+        "ev_6fab040e042b44838ff9689d69910b35",
+        "ev_dda421890d8743f5be8c129d683413b2",
+        "ev_435635556cdc4d13bba42bce8fda4648",
+        "ev_25358674e4854d4aaff4e897403c42f0",
+        "ev_e4c49486a1704854afc04c2c31a45ef4",
+        "ev_f572d0b4c7f54317ad8b6a38c606f084"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1825/",
@@ -227,7 +227,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_48352b7263ff4d55b9e5f419c834fe9e"
+        "ev_395f6d6763c54ba2be3f10d8d4dfa523"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1841/"
@@ -288,7 +288,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_e8967313f51e40e9881fb3bb9a360630"
+        "ev_6405bf14c68a47d0830eaaca9e15676c"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1841/"
@@ -349,7 +349,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_8effbb0c5f444866a4820d21e6d9ea25"
+        "ev_10805e32d9f74f15a7962ff93a27ed1a"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1841/"
@@ -410,7 +410,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_4723c28aaa624a308cb59b6f29e01d7e"
+        "ev_f6acd1fe5ea84d22b999b1ddb7090aea"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1841/"
@@ -471,7 +471,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_b1a35e3dcad840a2bd5aa1f823fa02d9"
+        "ev_8d28ff3f0510483ea07e26316b6cdffa"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-307/"
@@ -532,7 +532,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_9d936923efe94b318d209d7cac03f731"
+        "ev_0da5cc31dbf5420397e14e03b1deedeb"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-307/"
@@ -593,7 +593,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_36138a5f1622484fbd99f0d660f26d87"
+        "ev_7eb374a3dfb7499d9891d17f920e4bd7"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-307/"
@@ -654,7 +654,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_1318c96de0a043d4b538d21feec67bac"
+        "ev_635fc408bf024f47892216b6d1cf037f"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-307/"
@@ -715,7 +715,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_e4ac4b1549c545e49fc665c8b57f6d6b"
+        "ev_0bc7c19ee511416989b858494dfe03d0"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-307/"
@@ -776,7 +776,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_73f5e743afef432098f5923b845d48a2"
+        "ev_0c61df6685a040e39a5cfdf232f236e6"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-307/"
@@ -837,7 +837,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_9ce4f7e5c6a643ec8d76e6dc4047fec7"
+        "ev_1773fb7817a5468b89d27292df0ee7c8"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-307/"
@@ -898,7 +898,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_affa8a7ed70f44599d3133bb99db7d4f"
+        "ev_0842b1e4a706445c86faf0ff1d34a734"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-307/"
@@ -959,7 +959,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_5be93317940c499296b93bfa6c574baf"
+        "ev_97709cc67371476ba9397f3afad799e5"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-307/"
@@ -1020,7 +1020,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_1b35fc51137644ccb6641617bcaed640"
+        "ev_6d3888b73d4e4942868369af7e2e038b"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-307/"
@@ -1081,7 +1081,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_093cfdbc010f47c6a7b38cdb6534798c"
+        "ev_9322a027754440e9b42c52ec15a87569"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-307/"
@@ -1142,7 +1142,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_de31a023b7e248b4998fafeb6f74efdd"
+        "ev_f9b1b86a52ab4cb280dea2107518c440"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-307/"
@@ -1203,7 +1203,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_eb0790c808c04ea2b64993b2eaec6d92"
+        "ev_1f5a1333d11c4b81b7e72b405ed77dcc"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-307/"
@@ -1264,7 +1264,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_7e1cf5c706274a23b6ea5362277b6b43"
+        "ev_058677db8db6464db4521fb0d11f63ff"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-307/"
@@ -1325,7 +1325,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_934958bf7c474910bf309ee8d0eb0c19"
+        "ev_233cf62b10174cdd9dcf9f86c1b5f868"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1840/"
@@ -1386,7 +1386,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_e00ec8cd53ac4ffc94436368ce76d275"
+        "ev_4ee5764baf1c42a485fc7e977dacd9d1"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1840/"
@@ -1447,7 +1447,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_65cf42b017d44bd6b164c38de1fbaf4b"
+        "ev_e11944dbf6c04f2a86eb4ae5d82cc11a"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1840/"
@@ -1508,7 +1508,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_2aa3573084134109a6c36ebedd51fc76"
+        "ev_b9de844f76c44d528d0f10d978ebdf6e"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1840/"
@@ -1569,7 +1569,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_0d02dbaef3e54cf289f7405b7c1b2822"
+        "ev_42150562d73445cd8f5e5eaabfa3786f"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-306/"
@@ -1630,7 +1630,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_d678118ee2524fa0be13a30317268834"
+        "ev_8f7ab06874884e84bce4436e354e7e59"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1838/"
@@ -1691,7 +1691,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_9a4fdb52b2d14d328f1eb2c57e237b3a"
+        "ev_bae14bdf021e4c9a8c001eaad4481fc7"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1838/"
@@ -1752,7 +1752,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_29bf617e685a4470b7a186ddecf1b195"
+        "ev_d9c8c6aec09146b4bc1d67d44700ac43"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-305/"
@@ -1813,7 +1813,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_452429e80e4a472985b15356439a3ab4"
+        "ev_18fff11c9b0441ea90f205fa9f6ec2d6"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-305/"
@@ -1874,7 +1874,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_050533c6796740e5bff9c09cd70cb263"
+        "ev_941e493884984920b17c588627aa3da6"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1836/"
@@ -1935,7 +1935,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_ca97db1ffa044ab3a5536ddc2f7fe02e"
+        "ev_b5b15c53da544f0c8c4aea48b16c5b8f"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1836/"
@@ -1996,7 +1996,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_2eadabf1e737463e8a1556290b682483"
+        "ev_e7e04b3b6d79469b9bd1c77a4ab03350"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1836/"
@@ -2053,7 +2053,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c47e7b05016e46378b802c6e6e509e30"
+        "ev_59e7c1d67de84f6aa90be6744a156d9d"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1834/"
@@ -2110,7 +2110,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c84301745cd64f5ca8cee05f808f1ff0"
+        "ev_ea75aa4437ff4c54935ab3ae5573e5d8"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1832/"
@@ -2167,7 +2167,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_75471a8fd7794f859b5c3c914bd73f99"
+        "ev_25fce319a54b4f79bb08b448e68acf7f"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1832/"
@@ -2224,7 +2224,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c107fa7b40194449ae887ac1cc04876b"
+        "ev_8234b9b8a79043d0a1887d6e7866fe6c"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1832/"
@@ -2281,7 +2281,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f6a3563a5f2944eebe734bfeea2008d5"
+        "ev_6caa195b41d9491a90aa2ea07053058c"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -2338,7 +2338,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_043fdc60008f408f88a424fb2fa53475"
+        "ev_ce5edbedd9a146148624c748f3ab658d"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -2395,7 +2395,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_5c1a74485fa646cfa00430674ec4ccaf"
+        "ev_747024513a9e4cd8af65be99f590f2c9"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -2452,7 +2452,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_4a38d5052e7c49c98bc04fe1114d568e"
+        "ev_bf041794fcc747c0a25922611ec0e8b5"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -2509,7 +2509,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_b7e344ad7198448e84eb8a93444c7fff"
+        "ev_c40470cf31d84b60957a6fe7c6fd2f91"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -2566,7 +2566,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_ff9ac3ac64fb4c70b8f31ba8daf37d2d"
+        "ev_2fe5607f315244c396090a42b3f26d1b"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -2623,7 +2623,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_fbc6c645004e4ef394a6dd9278d36753"
+        "ev_1ac29b3c83064152ad907e63b6ea2df1"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -2680,7 +2680,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_619de622d5dd4965a1bae32dea2cac20"
+        "ev_6dfe980bcef841eca02499f93c0ad230"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -2737,7 +2737,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_5e68ccd0f1384f5086fa4a9b6e11b3ec"
+        "ev_05a6110b11bf423b873b9fe44f55bede"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -2794,7 +2794,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_10b066006c81472bbc04a65f56e78f4e"
+        "ev_c11aec116606487a9e8e1bc2b805d553"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -2851,7 +2851,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_ccd5413aac0947c3bd10e73696a5c602"
+        "ev_e5b953d8b0f64e3da0a492ca0ce3d60f"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -2908,7 +2908,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_1ad261996d71421182603993487c17c5"
+        "ev_c02c9078ca6b4363b6050af669f7988c"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -2965,7 +2965,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_040e8b4ab248491bbe2784ea7f5acf6a"
+        "ev_7459c4b4898344f6a057f11964953f76"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -3022,7 +3022,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_6719db33690a4d7ebe89219ec60f7d0d"
+        "ev_a03ec50cce3a4ef69982797f529b9ea1"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -3079,7 +3079,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_7f33b63c1f1e415e88b7972cb1d785a5"
+        "ev_b57cb1b983024fb38683d5d6508053e1"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-304/"
@@ -3136,7 +3136,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_6fc0e1d0e40f4c4aad59a6cd924d1e2a"
+        "ev_0935b7c24c3b43c39be252f79a98729b"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-303/"
@@ -3193,7 +3193,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_de79f6c705794bd190ab33a63744988a"
+        "ev_9d65f997024d4f0488458d609dae9460"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1829/"
@@ -3250,7 +3250,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_b0607df71eb147d296f95010094e59db"
+        "ev_d5a6b9ddb9ea46ab9fac2386b72583fd"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-302/"
@@ -3307,7 +3307,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_fbd4e598613e47c594d526bdc46e1192"
+        "ev_ff4dedd9f38d42eabb88f1bcfff8be5b"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1827/"
@@ -3364,7 +3364,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_671326a291c84e1d9b6f10a2543c68db"
+        "ev_aea95292acf6490bb1e0628a2b3afca8"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1827/"
@@ -3421,7 +3421,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_754fb223037e4b9f849754ee4bf08013"
+        "ev_ce237955d7184482b130116864f4ffd0"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1827/"
@@ -3478,7 +3478,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_b2cc818f42fc43ce9dbc56f0eb53b9fa"
+        "ev_d2db4caafbc34023a09d1f7eba92a2bf"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -3535,7 +3535,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_6acdb7e8086b4e80ba84fc18be89ddd4"
+        "ev_adb7ae46b2b64cf9b7340f886740827e"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -3592,7 +3592,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_dc313999fc8645738edba9cf5450a211"
+        "ev_9d9d288d0ea6477aa72d4e27803cfb57"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -3649,7 +3649,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_bb4b2b40feb54728bc9e7a3810eacca4"
+        "ev_b679418615cf46e7b7b5fd0d5b81ae1a"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -3706,7 +3706,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_81a853c023354bfd88a33235ccd7f8ec"
+        "ev_6ab580a408a94ed39ee8fe4984edeaad"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -3763,7 +3763,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_651494646a7f4483a134f8ec4851382d"
+        "ev_5fc9403bca004a3a864ce4f97095ef0f"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -3820,7 +3820,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_b9638e79fd694ee883d751160ccb4153"
+        "ev_e57203e87957442ca72ce0f83ff460c8"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -3877,7 +3877,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_e6a8c513a12141b6b40f98e36e37530f"
+        "ev_d736863e7a4c41cfa9adb86ab370acab"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -3934,7 +3934,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_2d06cae00ef04a4f9a6599d32e053f36"
+        "ev_b0df64373431405580f218acb44238c2"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -3991,7 +3991,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_d3e4a52e8a3441198e71836da290b4b9"
+        "ev_979a0a5b91aa4ff88c1a5258fc35e67c"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -4048,7 +4048,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_27fec6f39da3464e98baa0935dc3c3c4"
+        "ev_8e6d051714344e09aaa6a6ca7d7170d8"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -4105,7 +4105,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_79e48ab40a204c5fa48fc212fb203416"
+        "ev_cae2c39fb21445b790389da9e8ff196a"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -4162,7 +4162,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_26d7c3cd53854a62ad7131af0c627986"
+        "ev_a2344937b6c54b01b696626c2bd19512"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -4219,7 +4219,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f4ba89383fed47bcaa618ebda354fdc6"
+        "ev_300190b727754e7891b56773928ee0f1"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -4276,7 +4276,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_65a6f4b9728246128251884692560b0b"
+        "ev_750a299311304baca0f36370fb9a6a1a"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -4333,7 +4333,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f5bdacee6d53429e93045ce8a3713cc9"
+        "ev_aae3468667d14a52bf1de5e76903fa12"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -4390,7 +4390,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f39ea57f159c4abcb4cfdc8d2e4ea7b1"
+        "ev_883a084eb3e9408ea27434ecc535fa5a"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -4447,7 +4447,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_a9cdaf74a75746faa5f5588f856e9ddc"
+        "ev_5f1661591aa84a4ba1a194709ba571fa"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -4504,7 +4504,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_0fc3a76f95e646e2928b3276c5e32296"
+        "ev_6f0d94d05130478aafe305100f77ebb6"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -4561,7 +4561,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_e1874b312c104db5aa19704555d3fce4"
+        "ev_2b78d5fac93e40338cb70394bbcc3e77"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -4618,7 +4618,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_275e0508509444daa28f71d4063eb24c"
+        "ev_f41c893f38ad473e8fe8a041c7a7aa28"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -4675,7 +4675,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_7ebc9b6c58904d9f86cef69f1aef5883"
+        "ev_58d27a53b6774051b3a09580ddea3ee8"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -4732,7 +4732,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_35b3355d9ac4421bbdb1fb5c7897b0e6"
+        "ev_de5d1c37413649b7b671ae9d27866947"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -4789,7 +4789,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_94496955cba944cd8c83acd7151875e4"
+        "ev_caeb4de917bf4a559ce22de363999ab4"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -4846,7 +4846,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_904d9638853645699ffbab0230c32393"
+        "ev_0d338d690ee4469cbf7a202e784ef798"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -4903,7 +4903,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_a5d645a1cff74190b919c0a396d4d52f"
+        "ev_a03533dfd8d54d379542c8994a69fa79"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -4960,7 +4960,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c4eab3cc98eb4bb0b4a0598741c27a70"
+        "ev_ad9fb027c8f144ec8c9c1b532f38e6de"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -5017,7 +5017,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c1f94f746a104503914f104863932b6b"
+        "ev_8adca8f9d05d482784ad0e544459bf14"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-301/"
@@ -5074,7 +5074,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_57bbafaac2254b7e8e57e41f008b55ea"
+        "ev_f94800e3daf74a7483393ede1f7e397f"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1823/"
@@ -5131,7 +5131,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_8f00b293d0c645e1a01f2106e72e7dd2"
+        "ev_980c5650159c4281a9abdadcf1db3fd3"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/masters-sales-300/"
@@ -5188,7 +5188,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_156ebfc1a0c44bafbce460406415fe2f"
+        "ev_81c9e69dda774a918048d28f16b94cd9"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1821/"
@@ -5245,7 +5245,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_9f9a9f406ea74612a650c3f6d236415d"
+        "ev_d628443e766a44fd8e3d98d466ab72cf"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1821/"
@@ -5302,7 +5302,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_6e611e58e77c48cdb1b4a7f064ab926c"
+        "ev_85ab3658533a4c15a14487f20b99c65a"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1821/"
@@ -5359,7 +5359,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_0656421643d04538b57618807f231320"
+        "ev_208716378b0d4adeba795f55bb6104da"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1821/"
@@ -5416,7 +5416,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_1e539cc07a0c433eac33daf9cfbc5a04"
+        "ev_d238f299a0f449ffb1db000819b948a9"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1821/"
@@ -5473,7 +5473,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_3a643a8fa16b4f2cb17bc15970240bcd"
+        "ev_81555216c20e42bcab8fa5854c72d8b1"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1821/"
@@ -5530,7 +5530,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_228dc866daf3436498adfe33e3d883d5"
+        "ev_d3c35a71138040abb425a304ddd0131f"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1821/"
@@ -5587,7 +5587,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_be6db163963c4347aeaa5d37eefceff7"
+        "ev_5c87f2b38cd0422a91895852dcd16bdb"
       ],
       "primary_source_urls": [
         "https://www.thecolumbiastar.com/articles/public-notices-1819/"
@@ -5648,7 +5648,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_d898243448954bb4b23a0b47bdf731cd"
+        "ev_8bf206ecdb704f8db7682a1b8284f3c0"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#23845-118775"
@@ -5709,7 +5709,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_9d25cc9373724ff4bf073502b5220683"
+        "ev_968a2b4dc5b84079aaa0fe69d2ac30cc"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#24914-125106"
@@ -5770,7 +5770,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_33eca170e9e74782b4eb514c51778df7"
+        "ev_94758be085ea43a3b46ec2339d37b4ac"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#25079-125873"
@@ -5831,7 +5831,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_ba2e992031894f6389b0a6c41302ea8f"
+        "ev_a5e5b4c2693c4214bf1e8e6e9095b85a"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#26973-137337"
@@ -5892,7 +5892,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_09279281b099489d9e232957c0150bac"
+        "ev_67d14fab6a814be38a5a57cf0cb45a8b"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#27428-139827"
@@ -5953,7 +5953,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_716c2478b58c4b47b60a217ffe38c08e"
+        "ev_04a425a8039e4835849c2864709ee0f7"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#18636-140131"
@@ -6014,7 +6014,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_5a70058d37bb4ed29a4bd9a6ce9af148"
+        "ev_3601bcc07499460daa55f4878a17884f"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#28176-144049"
@@ -6075,7 +6075,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_3b2282118c9445d8ad3fa26c11427a78"
+        "ev_0fe4f9d1859342749ae38c12d03c53ec"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#28212-144304"
@@ -6136,7 +6136,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_47ca76078ab245f5b593111bde210584"
+        "ev_99bb7eca799c4449854005826658cd8d"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#29217-149718"
@@ -6197,7 +6197,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_2724c01ddbad4d7f90c674bdb004d98a"
+        "ev_a0467b9de6014a5d8455f4c192074995"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#9690-150158"
@@ -6258,7 +6258,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_0e1b3b22082848259fa52615fb31cdae"
+        "ev_a91641b52c6e4b5a985e7b513968dc16"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#29559-152474"
@@ -6319,71 +6319,10 @@
         }
       ],
       "evidence_ids": [
-        "ev_efb9d9896b184a099f33079b826cf635"
+        "ev_5f2765cc12c24d41802a5cee514455ab"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#30184-156318"
-      ],
-      "primary_event_date": "2026-10-05",
-      "expected_sale_date": null,
-      "parcel_master_status": "no_bcad_match",
-      "parcel_master_status_note": "",
-      "parcel_master_match_method": "placeholder",
-      "candidate_parcel_ids": [],
-      "review_flags": [
-        "match_confidence_low"
-      ]
-    },
-    {
-      "lead_id": "lead_bd942d56850a9fff",
-      "primary_parcel_id": "RLN-FS-1A37C16CE3BD",
-      "display_address": "168 MCKINLEY SCOTT LANE, Eastover, SC 29044",
-      "display_owner": "Unknown",
-      "display_score": 65,
-      "display_tier": "Strong",
-      "display_patterns": [
-        "foreclosure"
-      ],
-      "stack_contrib_patterns": [
-        "foreclosure"
-      ],
-      "display_pattern_set": [
-        "foreclosure"
-      ],
-      "display_attributes": [],
-      "display_deal_paths": [
-        "wholesale"
-      ],
-      "display_deal_path_details": [
-        {
-          "path": "wholesale",
-          "confidence": "moderate",
-          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
-        }
-      ],
-      "display_title_complexity_tier": "None",
-      "display_lead_status": "REVIEW_REQUIRED",
-      "display_assessed_value": null,
-      "display_last_sale_price": null,
-      "display_last_sale_date": null,
-      "display_year_built": null,
-      "display_match_confidence": 0,
-      "stack_depth": 1,
-      "score_reasons": [
-        {
-          "factor": "base_NOTICE_OF_SALE",
-          "delta": 60
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
-        }
-      ],
-      "evidence_ids": [
-        "ev_9aa1da269874452db4a57602049d052c"
-      ],
-      "primary_source_urls": [
-        "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#30439-157843"
       ],
       "primary_event_date": "2026-10-05",
       "expected_sale_date": null,
@@ -6441,7 +6380,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_2a046fe3dacb42ba82c2e373eb3513e2"
+        "ev_b9c78d7376dc44a786b1258189d9e77b"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#30696-159435"
@@ -6502,71 +6441,10 @@
         }
       ],
       "evidence_ids": [
-        "ev_bb8f317bc9f64f5a8ee000123892200c"
+        "ev_b31a4b3691f74e4283cc9c876b26c450"
       ],
       "primary_source_urls": [
         "https://www.rogerstownsend.com/reports/SC_Listings.pdf#f8bd626456ad"
-      ],
-      "primary_event_date": "2026-10-05",
-      "expected_sale_date": null,
-      "parcel_master_status": "no_bcad_match",
-      "parcel_master_status_note": "",
-      "parcel_master_match_method": "placeholder",
-      "candidate_parcel_ids": [],
-      "review_flags": [
-        "match_confidence_low"
-      ]
-    },
-    {
-      "lead_id": "lead_af11e6ce88065cac",
-      "primary_parcel_id": "RLN-FS-588672955B6A",
-      "display_address": "1828 MORNINGHILL DR, Columbia, SC 29210",
-      "display_owner": "Unknown",
-      "display_score": 65,
-      "display_tier": "Strong",
-      "display_patterns": [
-        "foreclosure"
-      ],
-      "stack_contrib_patterns": [
-        "foreclosure"
-      ],
-      "display_pattern_set": [
-        "foreclosure"
-      ],
-      "display_attributes": [],
-      "display_deal_paths": [
-        "wholesale"
-      ],
-      "display_deal_path_details": [
-        {
-          "path": "wholesale",
-          "confidence": "moderate",
-          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
-        }
-      ],
-      "display_title_complexity_tier": "None",
-      "display_lead_status": "REVIEW_REQUIRED",
-      "display_assessed_value": null,
-      "display_last_sale_price": null,
-      "display_last_sale_date": null,
-      "display_year_built": null,
-      "display_match_confidence": 0,
-      "stack_depth": 1,
-      "score_reasons": [
-        {
-          "factor": "base_NOTICE_OF_SALE",
-          "delta": 60
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
-        }
-      ],
-      "evidence_ids": [
-        "ev_f5c988ee6cc24a328074a322e0e85cef"
-      ],
-      "primary_source_urls": [
-        "https://www.rogerstownsend.com/reports/SC_Listings.pdf#26ff26fcf2a1"
       ],
       "primary_event_date": "2026-10-05",
       "expected_sale_date": null,
@@ -6624,10 +6502,71 @@
         }
       ],
       "evidence_ids": [
-        "ev_442d5811b69c48e6b63ce0d99d8781ee"
+        "ev_896bb264255745989dea71a4c73a7ce7"
       ],
       "primary_source_urls": [
         "https://www.rogerstownsend.com/reports/SC_Listings.pdf#b1f249e09b33"
+      ],
+      "primary_event_date": "2026-10-05",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "placeholder",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "match_confidence_low"
+      ]
+    },
+    {
+      "lead_id": "lead_af11e6ce88065cac",
+      "primary_parcel_id": "RLN-FS-588672955B6A",
+      "display_address": "1828 MORNINGHILL DR, Columbia, SC 29210",
+      "display_owner": "Unknown",
+      "display_score": 65,
+      "display_tier": "Strong",
+      "display_patterns": [
+        "foreclosure"
+      ],
+      "stack_contrib_patterns": [
+        "foreclosure"
+      ],
+      "display_pattern_set": [
+        "foreclosure"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_NOTICE_OF_SALE",
+          "delta": 60
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_aa5fb9b73fe544ccaa5005759af5d2e6"
+      ],
+      "primary_source_urls": [
+        "https://www.rogerstownsend.com/reports/SC_Listings.pdf#26ff26fcf2a1"
       ],
       "primary_event_date": "2026-10-05",
       "expected_sale_date": null,
@@ -6685,7 +6624,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f567935a103c4c06a9591655e843eb12"
+        "ev_851d129e0eb64e8ab296fcb69e5fe57d"
       ],
       "primary_source_urls": [
         "https://www.scpublicnotices.com/Search.aspx#644131"
@@ -6746,7 +6685,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_938bdd7a66354807bacf063377f68b54"
+        "ev_4b79b5885e33403e863e8652184279cc"
       ],
       "primary_source_urls": [
         "https://www.scpublicnotices.com/Search.aspx#642531"
@@ -6803,7 +6742,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_d812cdf6ec484a6a809acc8a1bc14cd8"
+        "ev_11249b53227640978bfb980e70536c82"
       ],
       "primary_source_urls": [
         "https://www.scpublicnotices.com/Search.aspx#636158"
@@ -6860,7 +6799,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_ce23b38c4b564cd7b80772c858abdb14"
+        "ev_5101274aa9594917bbcce9b1e0d77bad"
       ],
       "primary_source_urls": [
         "https://www.scpublicnotices.com/Search.aspx#628053"
@@ -6917,7 +6856,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_7c7bf4b89c7e441da3d74d0baa7a8301"
+        "ev_60fc09d6baf542a880ebb3848371c17c"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERC-2025-2055"
@@ -6974,7 +6913,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_840e9ceaf67744f69d5152796b516d53"
+        "ev_8e26448653d74c52a03bfcedae7611b3"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#S30P-2025-12-0704"
@@ -7031,7 +6970,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_ded6a83c19074d2fb6cc7d879388e549"
+        "ev_398d934b8a794555bcb67b2330c1bda9"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CEPNTR-2026-0001"
@@ -7088,7 +7027,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_1654c2daa6b6492487a4de28e484cc63"
+        "ev_e2a5576723a34e2294d37caca6712f50"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERC-2025-2121"
@@ -7145,7 +7084,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_34883ade662146e69a30fb9260a370da"
+        "ev_967f8d79de494fcd90bd1ba3d86c65db"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2025-3819"
@@ -7202,7 +7141,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_132e9aa9851d4bc8a57e02655907d794"
+        "ev_471bc0ba5090499eb7998189907d04eb"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CECP-2026-0003"
@@ -7259,7 +7198,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_a642faf30a0b4df3959634e98ee96c74"
+        "ev_44d75bbe0a864202bf64fc4129c87b7d"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#RHNP-2025-0095"
@@ -7316,7 +7255,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_6df8c9f80eea4729bb60b8dd967b15d0"
+        "ev_e35f2322464c494c881a30c65ab03c16"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CECP-2025-0492"
@@ -7373,7 +7312,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_083da6808f0748d99511ee57901558c3"
+        "ev_6a21a9dcbea742b29e2c25720d83be7c"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CEROW-2026-0028"
@@ -7430,7 +7369,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_13829a79c24a4faeb52e55c30093e1e0"
+        "ev_482a984997b94a90862e882fcabb8183"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERBB-2025-0022"
@@ -7487,7 +7426,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_14128b2af32c4773b2bc7489e4e29944"
+        "ev_1b210cec1b2244af84bd32dddff63cc2"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CEFYP-2025-0594"
@@ -7544,7 +7483,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_554c003f67374687972f5425815b4a47"
+        "ev_33f151e2fefb40f9a51739f51a977a12"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#VBNR-2026-0010"
@@ -7601,7 +7540,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_9369cb11c81a4f7e8c0b6abe0c193f37"
+        "ev_803c079804b24649b646973cb5529f5a"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-8673"
@@ -7658,7 +7597,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_60fad007e5844286a5075d636f0c00e7"
+        "ev_73464b52c19b454b8789a1d6877b1f20"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CEADVROW-2025-0148"
@@ -7715,7 +7654,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_85a0a3e1145c4e1da60606e7c8d43ffe"
+        "ev_8aefc95f38c5426689af3bb3dbb37c97"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CEFYP-2025-0348"
@@ -7772,7 +7711,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_fcd66cb3c12d4df4bfdc7c901996bb6d"
+        "ev_aa1693bd9558400281d97c02cf14a6a8"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#VBR-2025-0045"
@@ -7829,7 +7768,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_6bc03c39b9f54946abe160ac4d7b77b0"
+        "ev_6f31bb8702e0418db87bb0f15474ce9a"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-8135"
@@ -7886,7 +7825,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f9414118c2dd41168725c7d033f96e03"
+        "ev_791e4a78040e430390d5fa98f4945065"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CEADVPVT-2025-0596"
@@ -7943,7 +7882,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_404ecc00fc80420f9f8604871060c743"
+        "ev_01e7f3021718468ba92c2ead0148bff9"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CEADVPVT-2025-0535"
@@ -8000,7 +7939,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_b1648b80542e4a88b91444539f05eb3f"
+        "ev_3bc476a2be974566ac9d6e62033eeda8"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CEADVPVT-2025-0627"
@@ -8057,7 +7996,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_75ffc0c5ca8b4e1c9a8814e916d5509e"
+        "ev_649330d6a869415e84981527ddb5d9d9"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-12283"
@@ -8114,7 +8053,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_9e5e1a61b0f241fe894a316fe172aa8f"
+        "ev_fbbaffe363644410b6b5ee70290c50b8"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#VBR-2025-0052"
@@ -8171,7 +8110,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_12ae79a530f142a38bfd7fabb75109f4"
+        "ev_d197432812b843f4b68a607681ee11b1"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2025-0364"
@@ -8228,7 +8167,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_52ba27d4cef74197b9e9f55a68a2e9fa"
+        "ev_03ebe650015b44adb57228d1e113b356"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CEPNTR-2025-0054"
@@ -8285,7 +8224,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_58015b78fe684e90bae4418680e49690"
+        "ev_6cd35614c8014e9d8b4d282f33e64936"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2025-3135"
@@ -8342,7 +8281,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_28ca9e0677854d6c8a84fe6a4a127dc8"
+        "ev_9fa25f28857f404987692f54398de18d"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#VBNR-2026-0007"
@@ -8399,7 +8338,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_e8a3b6c26533468d94d3402a1378b32b"
+        "ev_bf8983a188754189a89b70448f8a0f37"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2026-0006"
@@ -8456,7 +8395,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_1f42f2f04a814ac088a0f0d054463c9f"
+        "ev_42aa687568764a7c999e52ee69d236fc"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERC-2026-0016"
@@ -8513,7 +8452,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f8e9cdf2e99b4f94884b67c43dc5f9e6"
+        "ev_eda0809698094b17909836e0b9414d3c"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CEADVROW-2026-0007"
@@ -8570,7 +8509,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_b20e3e223d0c4504ae3e59e58a837b32"
+        "ev_dffe12982cdc48dc871bda0be652e15f"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#S30P-2026-01-0013"
@@ -8627,7 +8566,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_9d4f47dbea2148099fe96697fb95bc26"
+        "ev_5308370b5f6142c8bd20c5171d21a007"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CECP-2025-0497"
@@ -8684,7 +8623,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_71ac7022c3bf487ba3e613ab45577cbb"
+        "ev_262435c03eda4c578da5325de1c575d2"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CEADVPVT-2025-0593"
@@ -8741,126 +8680,12 @@
         }
       ],
       "evidence_ids": [
-        "ev_d20ade69a0d44918ba04113513dc4b33"
+        "ev_7e198432a7404f219010ad93b3e7e6b6"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERC-2025-2101"
       ],
       "primary_event_date": "2025-12-17",
-      "expected_sale_date": null,
-      "parcel_master_status": "no_bcad_match",
-      "parcel_master_status_note": "",
-      "parcel_master_match_method": "placeholder",
-      "candidate_parcel_ids": [],
-      "review_flags": [
-        "match_confidence_low"
-      ]
-    },
-    {
-      "lead_id": "lead_2af856b02fff0167",
-      "primary_parcel_id": "PARCEL-AB3707B211F2",
-      "display_address": "2309  SANTEE Ave, Columbia, SC 29205",
-      "display_owner": "Unknown",
-      "display_score": 25,
-      "display_tier": "Archive",
-      "display_patterns": [
-        "code"
-      ],
-      "stack_contrib_patterns": [
-        "code"
-      ],
-      "display_pattern_set": [
-        "code"
-      ],
-      "display_attributes": [],
-      "display_deal_paths": [
-        "wholesale"
-      ],
-      "display_deal_path_details": [
-        {
-          "path": "wholesale",
-          "confidence": "moderate",
-          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
-        }
-      ],
-      "display_title_complexity_tier": "None",
-      "display_lead_status": "REVIEW_REQUIRED",
-      "display_assessed_value": null,
-      "display_last_sale_price": null,
-      "display_last_sale_date": null,
-      "display_year_built": null,
-      "display_match_confidence": 0,
-      "stack_depth": 1,
-      "score_reasons": [
-        {
-          "factor": "base_CODE_VIOLATION_NOTICE",
-          "delta": 25
-        }
-      ],
-      "evidence_ids": [
-        "ev_997358b903cb4c45bc11ad2e0270cef9"
-      ],
-      "primary_source_urls": [
-        "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-5931"
-      ],
-      "primary_event_date": "2025-09-15",
-      "expected_sale_date": null,
-      "parcel_master_status": "no_bcad_match",
-      "parcel_master_status_note": "",
-      "parcel_master_match_method": "placeholder",
-      "candidate_parcel_ids": [],
-      "review_flags": [
-        "match_confidence_low"
-      ]
-    },
-    {
-      "lead_id": "lead_222b72caec390c46",
-      "primary_parcel_id": "PARCEL-66E164427E0C",
-      "display_address": "1301  PINE St, Columbia, SC 29204",
-      "display_owner": "Unknown",
-      "display_score": 25,
-      "display_tier": "Archive",
-      "display_patterns": [
-        "code"
-      ],
-      "stack_contrib_patterns": [
-        "code"
-      ],
-      "display_pattern_set": [
-        "code"
-      ],
-      "display_attributes": [],
-      "display_deal_paths": [
-        "wholesale"
-      ],
-      "display_deal_path_details": [
-        {
-          "path": "wholesale",
-          "confidence": "moderate",
-          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
-        }
-      ],
-      "display_title_complexity_tier": "None",
-      "display_lead_status": "REVIEW_REQUIRED",
-      "display_assessed_value": null,
-      "display_last_sale_price": null,
-      "display_last_sale_date": null,
-      "display_year_built": null,
-      "display_match_confidence": 0,
-      "stack_depth": 1,
-      "score_reasons": [
-        {
-          "factor": "base_CODE_VIOLATION_NOTICE",
-          "delta": 25
-        }
-      ],
-      "evidence_ids": [
-        "ev_cc1159bfda1446da859e859297ffff2b"
-      ],
-      "primary_source_urls": [
-        "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2025-0355"
-      ],
-      "primary_event_date": "2025-09-15",
       "expected_sale_date": null,
       "parcel_master_status": "no_bcad_match",
       "parcel_master_status_note": "",
@@ -8912,7 +8737,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_979466e2761b4c6893bc0035a23cd9cf"
+        "ev_b7b4ef84abc248b2b95ff294a51e4eaf"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-6135"
@@ -8969,7 +8794,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_70a32da8fe504d539817cd170aa639cd"
+        "ev_98f3c4a7221d4c37aefa323cb15f65c6"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CEAS-2026-0002"
@@ -9026,7 +8851,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_7e9ebba3bb7f426c88ed56af70ccbfbe"
+        "ev_49efb3b5c5eb4c539f019797f6512ba7"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-6138"
@@ -9083,7 +8908,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_bc0c359f62324b4da8f1a7a7e340b26f"
+        "ev_123d644a9b6543d79293972b91bfb826"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-6136"
@@ -9140,7 +8965,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_5f2fbd424b1d44e48d4c433f0aeaac4c"
+        "ev_ea2bb02f47d54be782e8b43f7cbf155d"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#VBN-2025-0016"
@@ -9197,7 +9022,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c3d84d28aae548c0bc6c769e3a86ebf1"
+        "ev_aef8f20bf0984805ba78880d4931e47c"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERC-2025-1617"
@@ -9254,7 +9079,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c6bfde3c0df94d89b9f3eb38ea1eddcd"
+        "ev_8a66180fb33a4bc9864ff147811ce3d5"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-6347"
@@ -9311,7 +9136,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_6b2b31b945c2470c913c67c05cc86104"
+        "ev_6364c2cefb8041a1b9e7b26aa3ecaace"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CEROW-2025-0849"
@@ -9368,7 +9193,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_7d684004da264b68b21238e876603a74"
+        "ev_85398b5441174d9db99fcde936650be6"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CEAS-2025-0119"
@@ -9425,7 +9250,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_a372af9efb504428b436e432655c2da2"
+        "ev_90392a5f88cc41deb575656700467c85"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-6480"
@@ -9482,7 +9307,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c5af4061f14c402b8d533d94ac106120"
+        "ev_91f2050bedec4b2694f2eb17ab6803cb"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERBB-2026-0002"
@@ -9539,7 +9364,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_cdd0c6fec64a4589ab5828e8b7577b6b"
+        "ev_d95abd2c7d1946a6b8a9a16718822455"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-6479"
@@ -9596,7 +9421,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_7eb8a738a4404ff68f59633a7eb572d7"
+        "ev_cc7c9a9049d2499fbd561f3d2ad9159b"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-6663"
@@ -9653,7 +9478,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c1c22d7df69c475f9a31604e87508aa6"
+        "ev_6716739bc1f74ad18d47a17fada29869"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-6666"
@@ -9710,7 +9535,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_7f667cde469242d88d61be4540e22e36"
+        "ev_10d265fa56c14bdaabe5d6546e1c85d2"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-6664"
@@ -9767,7 +9592,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_99b8a7dfd7ef44938094391dc261eeb9"
+        "ev_1efd99a2b5fc4f7b819c54d6eed08230"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2025-0710"
@@ -9824,7 +9649,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_834aefa04bac42f488a0d380b0c4b9cb"
+        "ev_de0e75a9a27745d59edfa44cfa1b9c92"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-6662"
@@ -9881,7 +9706,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_b393509061724e2eba5a2bddfbd5f3e2"
+        "ev_de47f77b70f6481889bd1611d1417993"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERD-2025-0019"
@@ -9938,7 +9763,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f2af4d3e4c114b7ba6344f98e162bd2f"
+        "ev_d87365b423764eba82710952bd1c3757"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERC-2025-1828"
@@ -9995,7 +9820,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_6b4f44cfffb24829a50981cb5083dde1"
+        "ev_8f94063e39794a478af43b0f3d4932e6"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CEADVPVT-2025-0521"
@@ -10052,7 +9877,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_12c9a8655c664700b591afc9dd6707ea"
+        "ev_3dd15091d82d47d3b88590b924466e43"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#VBR-2025-0050"
@@ -10109,7 +9934,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_b9273a1d300a4d2993e3f6350fb22716"
+        "ev_81888b4a9f814bf0b4d95ec5125bf7cb"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERC-2025-2077"
@@ -10166,7 +9991,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_3346d37409154ab1a8959c4545c883e4"
+        "ev_0ea85029486a415593e7a87fdf6aed5e"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#STRNP-2026-0044"
@@ -10223,7 +10048,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_dc848afdf3e245f392d4b8a74143a048"
+        "ev_687bc208217c479aa2bffb3a7d79db83"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CEFYP-2025-0520"
@@ -10280,7 +10105,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_b5cd67f891bb45c0a8a60ac6678726b0"
+        "ev_533ac81065ef4633a8688c1daaa7874e"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#S30P-2025-11-0690"
@@ -10337,7 +10162,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f089c2dfb7824aa084b68f23fb9a7000"
+        "ev_2257ed8ccb464d07bb7a2def9ab8bb5c"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#S30P-2025-12-0742"
@@ -10394,7 +10219,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_91fa0a5fdfa74f33b7e2056a877a710e"
+        "ev_c963b0abfe8e4699ac7c6165970625b5"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERC-2025-1996"
@@ -10451,7 +10276,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c2e63887ab324d5897d40d18beb4d332"
+        "ev_aa53f53cdf8845ba9a3d9e890de385a3"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CECP-2025-0448"
@@ -10508,7 +10333,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_facac6432a8e4945977f16e268d831e2"
+        "ev_99a8f1bd02494bdd8176c4583ee66157"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#RHNP-2025-0100"
@@ -10565,7 +10390,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_4c1efa9a52ea46fda7f5f037453becc1"
+        "ev_26b2d7f5a5e64d92a9ff92f252a64d14"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CEADVPVT-2025-0617"
@@ -10622,7 +10447,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_32764e8024ea443ca887f76b41dfe299"
+        "ev_f804248ebc3f47e1b69ccf77fd5a5e4b"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CEFYP-2026-0012"
@@ -10679,7 +10504,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_644249ca53d34bb1bccbbb0f4a1b8456"
+        "ev_af202dfe440643db8ebfaede16ff60d2"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-10653"
@@ -10736,7 +10561,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_64472edb6488469e907168f1b45f9b5e"
+        "ev_df734fb00b3d49bda26a7a66fbd3f3f8"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#RHNP-2025-0112"
@@ -10793,7 +10618,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c183a7db734a4034979300baf2c27032"
+        "ev_54172673933047c0b570c311544d8e8a"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#VBNR-2025-0101"
@@ -10850,7 +10675,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_a681bcc989f5435b89962e377b6a083d"
+        "ev_9194589b2091402ebc9a928d42bdd6e4"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2026-0005"
@@ -10907,7 +10732,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_703b3ccfbfd94b029fb206d5595ab20e"
+        "ev_de3ce9446cea46bb9175333c54cff6f9"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#VBNR-2026-0003"
@@ -10964,7 +10789,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_d384ec63396246da92c518e58cfb5209"
+        "ev_d4e6aeedd1c64efea785e90a44a167c1"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CEFYP-2025-0539"
@@ -11021,7 +10846,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_0f9fe9ae606043f799c6bf255f9a4832"
+        "ev_ab0e2a0e86ac48e1b5bd0da004a6d995"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-6742"
@@ -11078,7 +10903,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f6ae8cc569d8410fa6751cdf664ed3a0"
+        "ev_979b8489927f4888be66840ee13339c7"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#VBNR-2025-0072"
@@ -11135,7 +10960,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_912c6fd4368242089c4f1b46dad2feb8"
+        "ev_4e34f22af15d4adb9c2d95ca546d4708"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2025-0830"
@@ -11192,7 +11017,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f72013df0eb94aabb618840a6f43e87d"
+        "ev_d871c1119df84e73ab39ab19730de648"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-6823"
@@ -11249,7 +11074,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_61432cbbab544587bdf1470bde59fcca"
+        "ev_98838afa1611434eb3cc29518331cec9"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-6888"
@@ -11306,7 +11131,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_6f31d91bbcbd43f7baa81cb582a4bbf0"
+        "ev_80122986b3ce4c138aa684ae91561c35"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-6858"
@@ -11363,7 +11188,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_404c452a87454218b823c7e3c8bdec36"
+        "ev_79383ee76b1846ecaf6cca9098f1722d"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#RHCV-2025-0003"
@@ -11420,7 +11245,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_ef2d7368d31f4819a711cb1f5dcd6192"
+        "ev_8ec2850779124d9bafa436a63657e057"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-7021"
@@ -11477,7 +11302,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_a398e920cae34042a676bce3647436f0"
+        "ev_7dbcd2b6cfc642299db3c0300e3b0811"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-7029"
@@ -11534,69 +11359,12 @@
         }
       ],
       "evidence_ids": [
-        "ev_c4de1b9e35df4d079e5268e7643933e4"
+        "ev_a408e15320b740ec9da34605f0d84a82"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-7106"
       ],
       "primary_event_date": "2025-10-01",
-      "expected_sale_date": null,
-      "parcel_master_status": "no_bcad_match",
-      "parcel_master_status_note": "",
-      "parcel_master_match_method": "placeholder",
-      "candidate_parcel_ids": [],
-      "review_flags": [
-        "match_confidence_low"
-      ]
-    },
-    {
-      "lead_id": "lead_e2eb0963121ec1ce",
-      "primary_parcel_id": "PARCEL-E9319F23E126",
-      "display_address": "2225  TERRACE Way, Columbia, SC 29205",
-      "display_owner": "Unknown",
-      "display_score": 25,
-      "display_tier": "Archive",
-      "display_patterns": [
-        "code"
-      ],
-      "stack_contrib_patterns": [
-        "code"
-      ],
-      "display_pattern_set": [
-        "code"
-      ],
-      "display_attributes": [],
-      "display_deal_paths": [
-        "wholesale"
-      ],
-      "display_deal_path_details": [
-        {
-          "path": "wholesale",
-          "confidence": "moderate",
-          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
-        }
-      ],
-      "display_title_complexity_tier": "None",
-      "display_lead_status": "REVIEW_REQUIRED",
-      "display_assessed_value": null,
-      "display_last_sale_price": null,
-      "display_last_sale_date": null,
-      "display_year_built": null,
-      "display_match_confidence": 0,
-      "stack_depth": 1,
-      "score_reasons": [
-        {
-          "factor": "base_CODE_VIOLATION_NOTICE",
-          "delta": 25
-        }
-      ],
-      "evidence_ids": [
-        "ev_0e13b887f394496ab8fd5e6017c7b852"
-      ],
-      "primary_source_urls": [
-        "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-6046"
-      ],
-      "primary_event_date": "2025-09-15",
       "expected_sale_date": null,
       "parcel_master_status": "no_bcad_match",
       "parcel_master_status_note": "",
@@ -11648,7 +11416,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_b306afb571274f79aba55301ce6742d4"
+        "ev_d1b08f85ebd54879b5aa14c7364a9892"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-7118"
@@ -11705,7 +11473,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_3a6b471dd40047bda5db74e7340f23c8"
+        "ev_204e629087c24d2d9c2167e17e3edb6f"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-7133"
@@ -11762,7 +11530,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_498fdc2df42d468ea747c7f6966300e1"
+        "ev_c9a3cf375d9c476e93349d3864c482b4"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-6677"
@@ -11819,7 +11587,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_88859f145dc44b34b7531291d76b223e"
+        "ev_4c8e7702b8554a0e84a37dcf43898215"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2025-1151"
@@ -11876,7 +11644,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_00af8319cec5464a885477ba6779f453"
+        "ev_a77780ddd76a44c781775f6fa37adcb5"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-7126"
@@ -11933,7 +11701,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_2d090eb5d46640298c34b8662e4fc748"
+        "ev_ba8f45a70a494b8ca0d310551a5c66ab"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERBB-2025-0020"
@@ -11990,7 +11758,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_ad3d017a8fb04348af3dda028ca0e7c9"
+        "ev_c265ea37d60a47d7a5511a328bb22558"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-7211"
@@ -12047,7 +11815,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c16657f8f3a1492e8001dc24945673e4"
+        "ev_3d425435cedb405ba36df153ee18a32a"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#RHNP-2025-0098"
@@ -12104,7 +11872,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c8fb74db9a4d45a5abebfab9a160aeb6"
+        "ev_7a36f1f1b6434d8cb6d0758a62905100"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-7238"
@@ -12161,69 +11929,12 @@
         }
       ],
       "evidence_ids": [
-        "ev_b79d55237c184f748ef33b0fa9e95ba5"
+        "ev_c1ca61f3b7c14e1ca543d0b4447c59d3"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#VBNR-2026-0001"
       ],
       "primary_event_date": "2026-01-05",
-      "expected_sale_date": null,
-      "parcel_master_status": "no_bcad_match",
-      "parcel_master_status_note": "",
-      "parcel_master_match_method": "placeholder",
-      "candidate_parcel_ids": [],
-      "review_flags": [
-        "match_confidence_low"
-      ]
-    },
-    {
-      "lead_id": "lead_78dacf8c78538c13",
-      "primary_parcel_id": "PARCEL-9F85AE7E8615",
-      "display_address": "3512  BELVEDERE Dr, Columbia, SC 29204",
-      "display_owner": "Unknown",
-      "display_score": 25,
-      "display_tier": "Archive",
-      "display_patterns": [
-        "code"
-      ],
-      "stack_contrib_patterns": [
-        "code"
-      ],
-      "display_pattern_set": [
-        "code"
-      ],
-      "display_attributes": [],
-      "display_deal_paths": [
-        "wholesale"
-      ],
-      "display_deal_path_details": [
-        {
-          "path": "wholesale",
-          "confidence": "moderate",
-          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
-        }
-      ],
-      "display_title_complexity_tier": "None",
-      "display_lead_status": "REVIEW_REQUIRED",
-      "display_assessed_value": null,
-      "display_last_sale_price": null,
-      "display_last_sale_date": null,
-      "display_year_built": null,
-      "display_match_confidence": 0,
-      "stack_depth": 1,
-      "score_reasons": [
-        {
-          "factor": "base_CODE_VIOLATION_NOTICE",
-          "delta": 25
-        }
-      ],
-      "evidence_ids": [
-        "ev_424607f7845340c4a60f24ae53a86366"
-      ],
-      "primary_source_urls": [
-        "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2025-0354"
-      ],
-      "primary_event_date": "2025-09-15",
       "expected_sale_date": null,
       "parcel_master_status": "no_bcad_match",
       "parcel_master_status_note": "",
@@ -12275,7 +11986,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_8bebc6bbd75740cfb69785c1320eadd5"
+        "ev_ef8b41573e5c46e695f64829e6b51d9d"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-7300"
@@ -12332,7 +12043,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_e65254ca7b7f44e6b4cdbbceb8af0ca1"
+        "ev_f21d21feda764bfb9eda95169c155422"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERD-2025-0025"
@@ -12389,7 +12100,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_172aeb08fab441c6b8f2230236daefd8"
+        "ev_3fd533917f494a909b0526393fc35e2e"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-7346"
@@ -12446,7 +12157,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_300d9a0ac9df4d1abf9b83a2119fbd91"
+        "ev_43e67f4e62ae4868adfa337fcc674d96"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CEAS-2025-0121"
@@ -12503,7 +12214,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_af8627d89cb74434bae8f5557645285c"
+        "ev_f2c77d37e4914aa291267b0d602c4f45"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERC-2025-1829"
@@ -12560,7 +12271,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_8a93f4a9f56f49b4860734db5618d848"
+        "ev_cf95bb9ca76c435f9747be76f6848e48"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-7356"
@@ -12617,7 +12328,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_63ddb845617e4fd187223ea437cbde6a"
+        "ev_1b26116b55184d9b91922ec610e8727d"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-7402"
@@ -12674,7 +12385,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_49db91a514334830b5d44b90a1c3e73d"
+        "ev_08e4fe0124c34022b6dabc3153fc0006"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#S30P-2025-12-0716"
@@ -12731,7 +12442,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_e9ab1d6296364fe5bc1acbc2d6959c03"
+        "ev_0f13b3b1447f49c59791e116aa2bbb17"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-7472"
@@ -12788,7 +12499,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_91171eb1f1ef49edadf36132d7660a20"
+        "ev_e99d7dc59b0043a2b43e0f0a12a44b56"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CEFYP-2025-0589"
@@ -12845,7 +12556,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_07ab4fa308f14311bb2f44dd27449c40"
+        "ev_de09dfab595c4aab92679a9d423bfc86"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-7599"
@@ -12902,7 +12613,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_3e45dc189dea4fcca06b2405c688fc1a"
+        "ev_878630ef98e84290820360c292be1e21"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-7598"
@@ -12959,7 +12670,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_8277bda198e24374afee5d86d9cf0449"
+        "ev_a7b5025316d049a09b3c78ce5fda1667"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-7653"
@@ -13016,7 +12727,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_779609e31bac440a820a853c58936a36"
+        "ev_56cd7e756066419a91f49c11e7b46ccd"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-7664"
@@ -13073,7 +12784,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_44756a97dec84337bdda550b4fceb683"
+        "ev_3d1c5454d71c4cc9bf5d643a7937f5c9"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-7767"
@@ -13130,7 +12841,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_31f298982da748e5820e8ed52e654807"
+        "ev_e87b239f48594ec8a32b35b6fc2f928c"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-7764"
@@ -13187,7 +12898,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c4137ec710b348a998c01de6fe03f599"
+        "ev_ad4060195d2f4336ae30ff3949e146f0"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-6278"
@@ -13244,7 +12955,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_82b8add7e6304dd9b6737542622ff624"
+        "ev_0c22be937e4d44a289c6817130b2e9b2"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2025-3774"
@@ -13301,7 +13012,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_ed17f87f13084e6e9af695ad5a27b0df"
+        "ev_45c3c9c5b2154305b59751c8fcc4c8ec"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-6171"
@@ -13358,7 +13069,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_947539c8ec7644d49f16578e3ef73d29"
+        "ev_3b6f745e4132485d87d0edda432421f1"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CEFYP-2025-0409"
@@ -13415,7 +13126,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_05e327077feb40a68f9c3bbeb35202d9"
+        "ev_f1b22c34479c4b7985a8dbbcfda331ff"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-7822"
@@ -13472,7 +13183,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_8224023bff554dde84fd4cb9c7692eed"
+        "ev_c3e20b674bea48e784980bfd5a51bbe0"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-7821"
@@ -13529,7 +13240,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_1a8dccf3b2f34e4c8da5c15faa6bbb03"
+        "ev_23166f36691040caa222c0563ccfeba1"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CEADVROW-2025-0169"
@@ -13586,7 +13297,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_8b1909bd2ec3446fa1f009ea296c7eac"
+        "ev_d2a6b47ad71348a0bd9933674d171e4c"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#VBR-2025-0048"
@@ -13643,7 +13354,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_0d0c7e6f2f214d019045723e4a184fff"
+        "ev_8f74fd2e8e3a44acbd7ef8ef44388d53"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CEADVPVT-2025-0553"
@@ -13700,7 +13411,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_69241f35729d46edb37bf932a18ef593"
+        "ev_5db947f2392f4d79b6bc07b92c53342e"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-7883"
@@ -13757,7 +13468,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_aa55535a162a4a23924548320e93f316"
+        "ev_d3211df27fd845cb8b7119a9be4ab7dd"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2025-1838"
@@ -13814,7 +13525,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_6fb7f705f09b4e99baedb505b1a38cc3"
+        "ev_cd4f012664a046a987f7f192653eb7a0"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2025-1839"
@@ -13871,7 +13582,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_d2c6f3ecdd1a42abaa3a76c96886e5cb"
+        "ev_fbbaedbe8f7749bcbf6df69de70351d3"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-7989"
@@ -13928,7 +13639,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_6cb9cc894c0f4736af16c13dc7759b13"
+        "ev_7df4c1398ade48738b3c2125e132ce31"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-7819"
@@ -13985,7 +13696,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_1322c80c867f47dea23f1a9520ce9132"
+        "ev_10e3bb8bd81c42a4942469b99127aff9"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-9565"
@@ -14042,7 +13753,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_0adaba4e1a954b83921032db8264965f"
+        "ev_14ce859ecf294fab9fda931579bc9b73"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-7824"
@@ -14099,69 +13810,12 @@
         }
       ],
       "evidence_ids": [
-        "ev_beb2240187b3436eb4bff7ca5b8c9f45"
+        "ev_9a56665692c54feabfad8124f8b3eabb"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-6365"
       ],
       "primary_event_date": "2025-09-19",
-      "expected_sale_date": null,
-      "parcel_master_status": "no_bcad_match",
-      "parcel_master_status_note": "",
-      "parcel_master_match_method": "placeholder",
-      "candidate_parcel_ids": [],
-      "review_flags": [
-        "match_confidence_low"
-      ]
-    },
-    {
-      "lead_id": "lead_727035112b0373a0",
-      "primary_parcel_id": "PARCEL-7C71623DB885",
-      "display_address": "3422  BELVEDERE Dr, Columbia, SC 29204",
-      "display_owner": "Unknown",
-      "display_score": 25,
-      "display_tier": "Archive",
-      "display_patterns": [
-        "code"
-      ],
-      "stack_contrib_patterns": [
-        "code"
-      ],
-      "display_pattern_set": [
-        "code"
-      ],
-      "display_attributes": [],
-      "display_deal_paths": [
-        "wholesale"
-      ],
-      "display_deal_path_details": [
-        {
-          "path": "wholesale",
-          "confidence": "moderate",
-          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
-        }
-      ],
-      "display_title_complexity_tier": "None",
-      "display_lead_status": "REVIEW_REQUIRED",
-      "display_assessed_value": null,
-      "display_last_sale_price": null,
-      "display_last_sale_date": null,
-      "display_year_built": null,
-      "display_match_confidence": 0,
-      "stack_depth": 1,
-      "score_reasons": [
-        {
-          "factor": "base_CODE_VIOLATION_NOTICE",
-          "delta": 25
-        }
-      ],
-      "evidence_ids": [
-        "ev_eb1362ed434c425f9fc84d332a4be001"
-      ],
-      "primary_source_urls": [
-        "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CEAS-2025-0113"
-      ],
-      "primary_event_date": "2025-09-15",
       "expected_sale_date": null,
       "parcel_master_status": "no_bcad_match",
       "parcel_master_status_note": "",
@@ -14213,7 +13867,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_9185818f9198474f828beed383b12415"
+        "ev_a5ec252e6a8b4bfabc0eeefeecdcfaa5"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-9564"
@@ -14270,7 +13924,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_976b81a7b05044258cdfa74ff02742bd"
+        "ev_5a84b223b369409baa595e36705203e1"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#RHNP-2025-0102"
@@ -14327,7 +13981,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_caaa334e88334413aa0659b44e9eba8d"
+        "ev_3cc547af56aa4009a7f84033599e7289"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#RHNP-2025-0103"
@@ -14384,7 +14038,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_3ee833b7b93446ef8d4319a6862396f6"
+        "ev_8f198a5758274790a0f4f7ce00b326f1"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-10137"
@@ -14441,7 +14095,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_e7ad8ed215bc4223b386013104070fc9"
+        "ev_6662ebe246da4c27b714e3dbd5ef2238"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-10961"
@@ -14498,7 +14152,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_2b10c825fa1f4b208dbd7e3746f4baa4"
+        "ev_824b67c335314531b5cccdd578942519"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-10183"
@@ -14555,7 +14209,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_b196bc29f8034bce80badd402e01df03"
+        "ev_d483cf97a90f4c93be866e8eb1bfdc23"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-12238"
@@ -14612,7 +14266,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_df03607d8e26435e92fd6015ec4e4f07"
+        "ev_efd4d0bdface4977be289442ac00e58d"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#VBNR-2025-0082"
@@ -14669,7 +14323,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_18ec395c351d4cd59e71159ba84268c0"
+        "ev_bfd2d6e37a4c4277a119e58d024f2738"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-10325"
@@ -14726,7 +14380,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_6796c0ebfdb04d1481b268a2b8a5414b"
+        "ev_d325a9cb25a1411a9e1178366096a9d9"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#VBR-2025-0051"
@@ -14783,7 +14437,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f005ebf003cd42f3af5f49e68f249727"
+        "ev_e8f9312a2da640c4a35c1e7ba033dd04"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CEAS-2025-0120"
@@ -14840,7 +14494,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_4a4a1263f44242e0aed95d2edb1c93cc"
+        "ev_508049a0f4164a39a5aeb9e333f90439"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2025-2174"
@@ -14897,7 +14551,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_98e553ad2ae44f82891c0df7ee555c67"
+        "ev_48258090643f4ee68b905508d45d32f1"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-10353"
@@ -14954,7 +14608,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_22ea1eeb6a52417397f7a3c453166675"
+        "ev_cddc63ad43274f379bf2fd9fbcde4b76"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2025-3137"
@@ -15011,7 +14665,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_55c14686175e4dfcb9cc820e52fd7caf"
+        "ev_b61b12c12b15408891d1e18cab039555"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERBB-2025-0024"
@@ -15068,7 +14722,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_96448e05674a42799328fc673565d3d4"
+        "ev_07e437f6ef8945d4872f9f69ec29e972"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-10138"
@@ -15125,7 +14779,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_2a322bfa35db498bac6b3d37df5e1e10"
+        "ev_09c16d71a6a449ea9ee467d7be800f2f"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-11279"
@@ -15182,7 +14836,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_7b6a6a700f7b4de6b5d99d305c6f0bc1"
+        "ev_68f11adb5c5c43799271cc704ec7c243"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-10380"
@@ -15239,7 +14893,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_4841627c4e83414bbfaa36d73a5a90d4"
+        "ev_0d7b917dcde846ca99d3a768222f47e1"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-6169"
@@ -15296,7 +14950,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_ca76ce6ca7ff4e818b1f12287a4eccd5"
+        "ev_b97be3aef57948daa1bdb48fa3928aa6"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-7662"
@@ -15353,7 +15007,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_bf5e403651464ef7a6cf4030e17d6a82"
+        "ev_1e2ac88f00a84baf8ce6941d44197c53"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-7659"
@@ -15410,7 +15064,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_3b25c6c6ae654063b02853b2b60108b2"
+        "ev_b4eb9b0e2d2d4edd83941d4606668749"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CEAS-2025-0122"
@@ -15467,7 +15121,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_e40b7f4774714378ab8b6ad5210160a6"
+        "ev_76cd63f520904560a0c9b282b1095434"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-7694"
@@ -15524,7 +15178,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_a30074b8bca548a28c1ff97afb7f124b"
+        "ev_22a906a1ce3743639a60f9f5d638040d"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-7696"
@@ -15581,7 +15235,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_fba74b1440e94393b3c14f849f4ee6bc"
+        "ev_b5956515200f442cad96cf32b1477f76"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-7709"
@@ -15638,7 +15292,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_804bff2bd02c4e15926e375a81c52084"
+        "ev_61767daaf1f5414982445bbd5c45e93e"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-7665"
@@ -15695,7 +15349,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_d67e68956a4547c69b13a8a75ad3963c"
+        "ev_5cebdea72f314f7682e1a3164bcdcade"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-7383"
@@ -15752,7 +15406,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_7fcb6f92597f4903b681721f29b5d417"
+        "ev_3e20b7f0c8a049f6b84c37b42a583e5b"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-7489"
@@ -15809,7 +15463,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_827044c2de9348a99e76b83656d90cf4"
+        "ev_83b81cf91b484b45a054a2d16c3e4026"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-7512"
@@ -15866,7 +15520,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_902d36f6e0b245bfa96afbbf7b44ce3e"
+        "ev_7c05dfa8df9a4a35bd17c0c65c49ff58"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#VBR-2025-0047"
@@ -15923,7 +15577,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_20469f1bc8f443549a2e24bbb781a98c"
+        "ev_7da9e92bb6114e73876e7c917d958548"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-7692"
@@ -15980,7 +15634,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_0322e5a3217e414f88a2d5c05a171a26"
+        "ev_3d63b4efd3084ac7a059eb51e878c735"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-7657"
@@ -16037,7 +15691,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_e7130c626cec4a21acaba496e1ebbddb"
+        "ev_d77fd913518343bab16a75641f87dd00"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-8098"
@@ -16094,7 +15748,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_96785b566f934adba4e3a7dd4bb331f9"
+        "ev_ae7ad2b52ae24f66aa38d4f967f6d1f0"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-8115"
@@ -16151,7 +15805,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_99f1a1f95f92462da5a88f35f76b81c9"
+        "ev_085dae29867a458c8f7dcd5e14a3e655"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-8254"
@@ -16208,7 +15862,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_86b92e5114104c17a12b3113a221cfe4"
+        "ev_589375bf2cd0486da7ab88d82276b03a"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-8259"
@@ -16265,7 +15919,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_b112e8cdc876417bb6ed1dc09f8f2a24"
+        "ev_b251ef206d5a47e48055a7d87cb02fea"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-8197"
@@ -16322,7 +15976,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_ac41b5cdc7c24a0fa90eb1941d158704"
+        "ev_66c08f3bcff94568b895ad9bb28849a0"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#VBNR-2025-0073"
@@ -16379,7 +16033,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_d4f8ed728fa943bbb6d19933c8ee9c7e"
+        "ev_448e6543b06e4082980ec74a2761dadd"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-8253"
@@ -16436,7 +16090,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_3ed3e71d459f4fecb6702f578b2d091b"
+        "ev_b763ba6d8e954ed58b24a7d16a923520"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-8393"
@@ -16493,7 +16147,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_7b98788a6cd947329bdfc11b9ef41b4e"
+        "ev_103dc2d83f9f431f9c871b50a545b050"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERC-2025-1897"
@@ -16550,7 +16204,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_a5549b1002494054bc42e41cfb236bd3"
+        "ev_92ac2feabec542fc8078061ac519550a"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-8487"
@@ -16607,7 +16261,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_2ec4c95ed1874bb4a75ceaf2b98629d7"
+        "ev_a7eb52c3e71442b3a014930731d05fe7"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-8488"
@@ -16664,7 +16318,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_2c59883c37d64ea5a5a43cce0541cbbc"
+        "ev_198540115d41446fab9b9c6a495eeeae"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-8440"
@@ -16721,7 +16375,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_d4bcaedec93a43e0bb5acd4c3cd6da5a"
+        "ev_0995c6391fba42edaa75214928e8462b"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#VBNR-2025-0077"
@@ -16778,7 +16432,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c402788e72ec4321b820bbdd070402e0"
+        "ev_fe1aff4066ff4da8bb9074cdb7d6f81b"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-8658"
@@ -16835,7 +16489,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_ae8fa347742c4b9e890777791bf06628"
+        "ev_772ed84e6e6844728567c5f9876beec5"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#VBR-2025-0049"
@@ -16892,7 +16546,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f3d6a2035e244698af24835449f71a7a"
+        "ev_1195badff8724545bc6ea3ece524ad28"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-7762"
@@ -16949,7 +16603,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_88855ce0784a487f93fabdd8253eeeaa"
+        "ev_1baf71b98f0248d4911c825e6d053eee"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-8514"
@@ -17006,7 +16660,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f6ff72ad1d7a479da63e7c0ffed157a3"
+        "ev_2701c1de10c840fda775803cb1d9df88"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-8864"
@@ -17063,7 +16717,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_2108d3d0b80b48a0b54a9a1ffebcaeaa"
+        "ev_9eedd3352d2747dc9187948513af0e29"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2025-0362"
@@ -17120,7 +16774,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_7b59e74a418a4037a1284abd83cf073d"
+        "ev_a0e266753d624d5e942d8f44d49bcc3c"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-9234"
@@ -17177,7 +16831,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_5d0e8535182c45818488345cd6f981de"
+        "ev_fe4f1a7b983348b4ad49d0080043f7e3"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CEADVPVT-2025-0613"
@@ -17234,7 +16888,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c009506e9df14a27a59a667a873247b7"
+        "ev_1f5e2eb4bb8147878a77c08f5ec746f5"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CEADVROW-2025-0137"
@@ -17291,7 +16945,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_33e4177203b3411aa3551bcb23c52796"
+        "ev_855ddf11aed2448da6fa486b6c725cca"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-7188"
@@ -17348,7 +17002,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_b935dc2e17c94b69b2fd35ac12a8c11e"
+        "ev_5730a60caae545fc905f92961ee83574"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2025-2784"
@@ -17405,7 +17059,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_ce06e3e8117040438efc4e603f3104cc"
+        "ev_3a77298fdf044529b15f7768e83b839d"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2025-1572"
@@ -17462,7 +17116,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_8e30088ccb17428387d4acd7e72807d1"
+        "ev_7e2a2966dd7c49a58aa68ed96b8767bc"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-7988"
@@ -17519,7 +17173,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c608d7781b6c4379b4bb0b7b69274d12"
+        "ev_f017e58613514b5683b7c0e677e42ee0"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2025-1629"
@@ -17576,7 +17230,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_e1276f281af34099988ff729d062e739"
+        "ev_10042338a29e484fb76151ef6f85550b"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#VBNR-2025-0078"
@@ -17633,7 +17287,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_ed20a19da27b49efadb17d0a4429ffe0"
+        "ev_d78ba5deda774479aa7240c145983c9f"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#S30P-2025-11-0695"
@@ -17690,7 +17344,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_2d9602c538a6410891904a5b65f7b886"
+        "ev_db5381f3cca3493e81197f4f0f882d0d"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CEADVROW-2025-0164"
@@ -17747,7 +17401,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_450ad8f5e30840daa56823a891c22ca9"
+        "ev_2a63c40ae87442d28d40fcbc3c8d9cc9"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CEADVPVT-2025-0588"
@@ -17804,7 +17458,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_1d70034de09f40d6958dd07a3e2ebb5a"
+        "ev_c41390b36dcb438ab2d957ee3bc3d6bd"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-10411"
@@ -17861,7 +17515,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_409fc8d21ef745c59859d882f56f60c9"
+        "ev_8edf35cc4c3342f4a92f17a9dc3bdcd9"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2025-3351"
@@ -17918,7 +17572,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_0466a8855639481ea9e2234f719d55d1"
+        "ev_e65b0dba56c14365be9e42633bf14bef"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#VBR-2025-0053"
@@ -17975,7 +17629,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_3c2f02a0703d443b987b3edaec00e261"
+        "ev_a3fae38c22424036ac308ea317fdea82"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-10370"
@@ -18032,7 +17686,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_638c2180dcbe4160885319314a28c2a5"
+        "ev_0fc2a595a434430b96b07c815a12704e"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-10537"
@@ -18089,7 +17743,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_a36e9f6fd2b24d7c838299740395a6af"
+        "ev_018e6a914d294cc78c48412a3c3a0d53"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#VBNR-2025-0088"
@@ -18146,7 +17800,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_b0bd0c9bf5974ea8ba98cc943c5e82aa"
+        "ev_93415180f81c4571a058ef7b316ef56b"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CEAS-2025-0129"
@@ -18203,7 +17857,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_0c88bd67db0940b2a02923d6b51edd17"
+        "ev_b17294217d9344759bd8538761a0441a"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-10650"
@@ -18260,7 +17914,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_6aaf052409cb4decae8d7b808cbd854b"
+        "ev_a2f8af54ba8444eaa99f22ddea8c3703"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-10702"
@@ -18317,7 +17971,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_53197427510e485190abc99bf1a2211f"
+        "ev_5cf513394089478e90cc70a9e505594d"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#VBNR-2025-0090"
@@ -18374,7 +18028,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c819ef3960a14ed9bb3404d90dc8cceb"
+        "ev_9749556bd1c440bba35a124dc9bb4d05"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2025-1136"
@@ -18431,7 +18085,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_18172f9130024c07ab9aa00c98fd5030"
+        "ev_0fc27712678b4fe98a2ed391a573d330"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-7213"
@@ -18488,7 +18142,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_73e3643128b64f86bcdc9cac5e73db64"
+        "ev_9483fd70ae9944719c8edcf3115c005e"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-10073"
@@ -18545,7 +18199,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f331d6a25e4346ffb93ab8aea2e90b74"
+        "ev_ff1d8f4f857c4ae1965426028faa1349"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2025-3120"
@@ -18602,7 +18256,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_30a908f22c4a4ee6adfbb59a51922b5d"
+        "ev_d623b648d8c3407aa06470d7d9e7929a"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#S30P-2026-01-0022"
@@ -18659,7 +18313,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_8f47a2089fca441a953348fe044defb7"
+        "ev_156a24956fa94e06b6c851f6a656a58f"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#VBNR-2025-0092"
@@ -18716,7 +18370,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_a8a1768ffce3475c88e9136a0ad341cb"
+        "ev_5f02e6640da843109396eaaf63724dcb"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-6809"
@@ -18773,7 +18427,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_5005315ff9ff4a5391a113f04ec7475f"
+        "ev_a80f983e3e3d429aa80a6e0ce6e0577b"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-7355"
@@ -18830,7 +18484,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_fb6423df6739456c8f107ba20b47341c"
+        "ev_cc76c33c2fb143028d42123e504997dd"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2025-3479"
@@ -18887,7 +18541,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_2c9b5fbdf06b40e6b0492536ec8eaa38"
+        "ev_72cf4bd7a3a24892ac3d377e168fd511"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-6904"
@@ -18944,7 +18598,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_db0d66a2457b481daccb308dda4d5c7b"
+        "ev_7611043c3e38408785cd5a6cc4180af2"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2025-0357"
@@ -19001,7 +18655,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_8b94e2e3d21645b9ba7ac460a4e33b75"
+        "ev_1ec9b1c50c254bddb2fecfa6cb04ff8a"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-8672"
@@ -19058,7 +18712,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_aa0964d63b4949fcb3b4bd641b81a843"
+        "ev_9b5383a7f7bd4bf497f3580619bb2245"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-10369"
@@ -19115,7 +18769,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f1f3c20927784a60a1edee7d77216267"
+        "ev_b56fdfccb6254ed7a50fb92f212d49c5"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-10368"
@@ -19172,7 +18826,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_53d46b8f4c08436eb34bcb88e9b3e36b"
+        "ev_44ace0bcdfda4b18b633af90a1d5830b"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CEROW-2026-0023"
@@ -19229,7 +18883,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_e823a53bbac84c5c998c008d1abd7b28"
+        "ev_94fdab50c88742a69022dc41d6ae1788"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#VBNR-2025-0083"
@@ -19286,7 +18940,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_94654961127943199c15a489b4e4b192"
+        "ev_160ebf81840144cc98f7c630c079d0e0"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-7239"
@@ -19343,7 +18997,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_9a2bd9590bda4f1fb81e27f12f9880db"
+        "ev_e04654ed452d4c8db7cc8f52e68736e9"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CEAS-2025-0127"
@@ -19400,7 +19054,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f06d411ab752474693e71b76c576c6df"
+        "ev_6b09dde15a0e41e8a4f2100e0e4eb5e1"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-9149"
@@ -19457,7 +19111,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_535c0a10cc284148ab855162ac8eb37b"
+        "ev_72fbf3c885dd49b7b21fde9e27a56d1a"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-9293"
@@ -19514,7 +19168,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_60eea2baec434362a498d1f9335fb620"
+        "ev_f9d8e777e1f5477c950a10761c5c1fe1"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-9294"
@@ -19571,7 +19225,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_ab062664ff104844bcb76f954d86392b"
+        "ev_18636e7796054622aef69212173ec093"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-10485"
@@ -19628,7 +19282,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f4939c98ceb8448fbb6f62376dc9095a"
+        "ev_ee2868fbae7f4458a3a546efcec00306"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-9295"
@@ -19685,7 +19339,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_27525c917b894c90b72435e1e45276d3"
+        "ev_ae18a83cd4e842e4b60a9fd7631fecb6"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2025-3291"
@@ -19742,7 +19396,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_421d6eb8a71d45eeab6fcdef2eafafbf"
+        "ev_c5e6c66dae8148818239ae5ff5d24926"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2025-3295"
@@ -19799,7 +19453,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_a75f33df375c4b95b8cc0091df629579"
+        "ev_17e3bd8cd9bb474090c95b86752a18f4"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-10533"
@@ -19856,7 +19510,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_3b63b4a66b76443b908a05669a88c861"
+        "ev_bfd1f30fb6464ca18c80eb9e35d611bd"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2025-3296"
@@ -19913,7 +19567,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_3d7280b8051146bf8f4c355e71f37811"
+        "ev_2de2365b0cf846bea21c5c72385e6086"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2025-3294"
@@ -19970,7 +19624,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_4995ec55cf8546f191fb4154af397bc9"
+        "ev_edd057286f314c2eb4c54928b4da5749"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-9483"
@@ -20027,7 +19681,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_e6f44bfa6c2f404d80617d370f9d6916"
+        "ev_8fc0580bff044289b852504b613886cd"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-7817"
@@ -20084,7 +19738,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_ea450d0346ac43ba84b3711e2551fcdc"
+        "ev_b7d311e3523a41cd88f88422334a1f08"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CEAS-2025-0131"
@@ -20141,7 +19795,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_6c7795ccb0144a7b9a1cf14c6302bd45"
+        "ev_0f8464bde053418393b5266aad1dfb50"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CEADVROW-2025-0153"
@@ -20198,7 +19852,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_46cb0ae0d82648bc8c3cdc6c269b7a84"
+        "ev_cc7864f773f847a7a291a0c5c31482ba"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-9827"
@@ -20255,7 +19909,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_d71de8f8051549508ae587d6dd0b74f2"
+        "ev_8633dc2b14274630965f6cac5c1b5294"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-10627"
@@ -20312,7 +19966,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_34ea06b837e344f9a1d9283383541c50"
+        "ev_ff09b4b89db4442b9d4eac7e21c466b3"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2025-1162"
@@ -20369,7 +20023,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_ee3878762e3d4762bf60696a0fbcbeb2"
+        "ev_a5ec9dfe4fdf4c7c8974c6d86307fa9b"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERD-2025-0021"
@@ -20426,7 +20080,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_6899179e94814917905516525726a46b"
+        "ev_2066cf8be63d48dcaea85b09c28b74b1"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2025-3529"
@@ -20483,7 +20137,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_a26bce5c0a6c4cb0aae31b2556390af9"
+        "ev_b6dbae83165944ab81c60092c9a6f4a5"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2025-3538"
@@ -20540,7 +20194,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_785e93c9f5e9450cbaa8fa56a83d2e3f"
+        "ev_996fee3ef6d34a3aac7cb39a3a631c8f"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2025-3534"
@@ -20597,7 +20251,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c8ef3d3f71fe4fa486777219c49a1afe"
+        "ev_98d5357cf3c64ba6a35693e15e16a562"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2025-3537"
@@ -20654,7 +20308,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_587bb635c6c54554bdc45fc7c69b3564"
+        "ev_3902fe30a35845038a74b0ca61b99ec7"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2025-3535"
@@ -20711,7 +20365,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_6b74322dabcd4dc293f71d1631f4ac0b"
+        "ev_8b3bb2dd7cbf44d39ef9e536b7865392"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2025-3531"
@@ -20768,7 +20422,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_8ea5691c3c5b44fa96dba000e2b48963"
+        "ev_84ac547486c1428c8893219c3441488a"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2025-3536"
@@ -20825,7 +20479,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_ecad0040c9114e8cb1c4d5eac291d485"
+        "ev_52af8cb34630442192f242fe96aa86d1"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#VBNR-2025-0085"
@@ -20882,7 +20536,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_0319aa91fdbc440ba9fd58e190e5961f"
+        "ev_d5098b970e924aad9b626ee6db9747e8"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2025-3532"
@@ -20939,7 +20593,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_087a3aedb0844e119192d05c4311a4b9"
+        "ev_dfcec071fb12418e9027e57bcd47544c"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERC-2025-2022"
@@ -20996,7 +20650,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_735bb7c0be2d432dac0095cb52c0fe24"
+        "ev_9a8d0e7104f84f74b0b1ef452e9cb810"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-11100"
@@ -21053,7 +20707,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_6159e7e8f9cf46a0b1cf35418ef5114f"
+        "ev_d59ae50e24604693a06bff6c8205119a"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#S30P-2025-12-0705"
@@ -21110,7 +20764,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_6f0f73a93de0469cb1ff00284be21c84"
+        "ev_a3ef7eaf9fc14392b39514c1a9fac30a"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#VBNR-2025-0089"
@@ -21167,7 +20821,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_7311b9c2f46e43b190fc92d2d78ed48b"
+        "ev_159551f6ee664670b55bb90c54000821"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#VBNR-2025-0086"
@@ -21224,7 +20878,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_323d73675f9b49da9804a92794a92168"
+        "ev_568dea962e02427d92d5efd57956e28e"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#S30P-2026-01-0019"
@@ -21281,7 +20935,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_b204e51353284e9d97e9cb9de0dd862f"
+        "ev_05e4ae4b92d4427cb6ad0349a758ec2f"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#VBNR-2025-0087"
@@ -21338,7 +20992,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_4017c5ef7d4b4378a9a1b6d1b87e139e"
+        "ev_9546a9017ac944e1a3a2e0535d119344"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2025-3528"
@@ -21395,7 +21049,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_3aecde5ea8ad4f2f8989eb0ef38c1aef"
+        "ev_62b855016db1411b84cbdbdc2153e97f"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-10534"
@@ -21452,7 +21106,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_e9e643effbd243d98802155aaf717e06"
+        "ev_e98c8b71f7cb4872a9dc376a5142bc41"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-11076"
@@ -21509,7 +21163,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_2220fabbe3054df88c3e80877fa44e36"
+        "ev_9413d15c867449b1b62589bc06e961f7"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-11118"
@@ -21566,7 +21220,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_14afaa0be2544472a6b110fcfbd9752c"
+        "ev_0b44513d0c1241babce0d770c0e9c0a8"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERC-2025-2060"
@@ -21623,7 +21277,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_a1b575f1925d4d49b5bb77ece9bddde1"
+        "ev_4e57937848d74c84b28c6e84309485f4"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-10634"
@@ -21680,7 +21334,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_e214e032af694787bd66068673336af6"
+        "ev_d27680262da2406ebd6735b8ad74c77a"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERC-2025-1990"
@@ -21737,7 +21391,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_b683da62d84c40068b6049fc956a932b"
+        "ev_585ae7f2a7a04030b245f36b565b8d2c"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-11169"
@@ -21794,7 +21448,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c1c425ced7554b698c3cff0fd3314dc9"
+        "ev_95e4d005e41444a1888f00798cc9d47d"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#S30P-2026-01-0025"
@@ -21851,7 +21505,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_43edede672a547ea8d9102ecc9c02935"
+        "ev_005a0bf1a6d94d3789a28fc1fcc956de"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-9150"
@@ -21908,7 +21562,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_58c4efc780c345c1929177c71db02021"
+        "ev_59a25674b0544024be22a4853f8c946f"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERD-2025-0023"
@@ -21965,7 +21619,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_4f54d6975ed844868f51571d7aa2076f"
+        "ev_740b3d470e6b495c862d6c31ebbc3be2"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERD-2025-0022"
@@ -22022,7 +21676,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_405c67d581b047c4ae3a1787d09642b4"
+        "ev_954516074d9544eab153d17576885df2"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#VBNR-2025-0096"
@@ -22079,7 +21733,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_dc3add3a941d4d23910ad382dc6125bb"
+        "ev_fa0feed0dead4360984774a625e759ab"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-11240"
@@ -22136,7 +21790,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_09e72a5fa00048ff9a0f178790b4f5eb"
+        "ev_ec862fc1ba3d4c70984f1b26b63d88ce"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-11355"
@@ -22193,7 +21847,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c77938f9447f4e6ea5358add663cf82e"
+        "ev_90539c88c4e24ec08e8fd89327b64449"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#VBNR-2025-0093"
@@ -22250,7 +21904,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_6d5cb3de9c8646b0903fc8b6c4fdc745"
+        "ev_3fb3f4f578d04b358e818e03ee78af63"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-11035"
@@ -22307,7 +21961,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f2cb62e2f1a94cdaa78be4454efb323f"
+        "ev_63115775beb04b0d89cacd2d3f838ca1"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERC-2025-2015"
@@ -22364,7 +22018,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_e581afaece5d402b9d2f97e9d3a40587"
+        "ev_74f44c42da99478dae6aa24df44c9dba"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#VBNR-2025-0095"
@@ -22421,7 +22075,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_73f3e1fe851749ec8b006a12567b0633"
+        "ev_dc1cd6bc3e3e4786a824b6f527a87faa"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#VBNR-2025-0084"
@@ -22478,7 +22132,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_2235039747f643f6ae20b908549c2bad"
+        "ev_30699bdf71024192b6b09365da26157d"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2025-3788"
@@ -22535,7 +22189,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_59c94c7857324154bb5d3a5f6a13b7ab"
+        "ev_695c5e29770a478296b978b443906222"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-11599"
@@ -22592,7 +22246,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_44318bbb4a6c4501b4aeeaeded3e6327"
+        "ev_0d05e4e9339545afb2f65acbd2b866e2"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CEADVPVT-2025-0618"
@@ -22649,7 +22303,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_b9665473d4c74bd08240d22bb6e4dcd1"
+        "ev_2365774d941b4c87976d6abbfe5f9d61"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-11628"
@@ -22706,7 +22360,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_0ca3fba4a6024fb0ba7e48bc5831c205"
+        "ev_d30fac4d543b487eb4713261550250d4"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-11627"
@@ -22763,7 +22417,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_e9acce3dbd01406598b291b12382595e"
+        "ev_b26d2d38ae254612815a658af2c05271"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CEPNTR-2025-0053"
@@ -22820,7 +22474,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_2f16253d2e1548feb0ed91cf816cbc69"
+        "ev_4b8ad685b3464d9db1dae93817a5295d"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERC-2025-2058"
@@ -22877,7 +22531,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_82da3848a3fd473cb519cb7507502bac"
+        "ev_da789e4d18f04636a787e12286febcac"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-11799"
@@ -22934,7 +22588,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_bf75a9e59aa74ee1beec40a0fd234e6d"
+        "ev_17e7fbeff8cf4ec48c274777c2d1d5a7"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-11854"
@@ -22991,7 +22645,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_4790ec7e777747499888a2c1088206c5"
+        "ev_79f282fda58e4fc0b008989cd39006bf"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-11878"
@@ -23048,7 +22702,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_82690947bcb94707a77e5268bbd72a1c"
+        "ev_a402b86e6df8422fadfff436bbe373ca"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERC-2025-2071"
@@ -23105,7 +22759,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_42128418b97243b3840dc5d755f494ec"
+        "ev_a2a00b1cc45a403089e1e91d6dd13e4e"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2025-4057"
@@ -23162,7 +22816,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_31b038ee7afd406184da525b03a07cc4"
+        "ev_908cb7e998f14bbaacc4fc37be9b4b45"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERC-2025-2075"
@@ -23219,7 +22873,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_5310b77dd356495eb177665e332f43de"
+        "ev_a0ea2a60c29745588dfed4ecc45a4708"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CEAS-2025-0136"
@@ -23276,7 +22930,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_283e2a887c7a44bb8d6c71dd3aeae900"
+        "ev_aabcaf5c30904574a7ae17a590e7d03e"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CEAS-2025-0137"
@@ -23333,7 +22987,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_0723b75cbaff49c58ffc5a504ca8e2b6"
+        "ev_3ce384ee3a3544709a969725b7a2b41d"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#VBNR-2025-0080"
@@ -23390,7 +23044,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_931860a3db5e427d9d605ab2b545feb5"
+        "ev_9c75bb5119174501a5d9b06d3171cff2"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERC-2025-2043"
@@ -23447,7 +23101,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_e3c59c5af1524886b5679d55b055ea9b"
+        "ev_996c7b971d4f4cdd934598493b4c4aab"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#VBNR-2025-0091"
@@ -23504,7 +23158,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_4bc558a8d83543149ada9d2a5f0b3c77"
+        "ev_02b7e592e34c4b2ab33cbc79481ff41d"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2025-3475"
@@ -23561,7 +23215,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_0869b405273f41378956d7432e85e576"
+        "ev_09a4e5d054184ab4baaf44b73e8583d8"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-11959"
@@ -23618,7 +23272,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_e4fba26ecd6b4bf4addb3e10aad19638"
+        "ev_9476bb1013da437289d5a59313ca43a0"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERD-2025-0024"
@@ -23675,7 +23329,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_67f33d8caa8e470f9d3b0b4fcc36bb97"
+        "ev_3e481a42bd674f7ab7ede2636ae9798c"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2025-0426"
@@ -23732,7 +23386,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_38ba602852c940c5b2be38a8c657f36b"
+        "ev_70e7f51994b54b08a9a3b5c6aa62103c"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2025-4240"
@@ -23789,7 +23443,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_25db112878e94411b286dfbfc315267b"
+        "ev_897399d52d0442049eee8e23e38f3a13"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CEADVPVT-2025-0612"
@@ -23846,7 +23500,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_241134a8195040908374d449642cdeed"
+        "ev_7e4de79398f24dd6bd7d569fff9977f0"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CEVL-2025-0781"
@@ -23903,7 +23557,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_54aeb114a2244effad8ec7bcac4d59d6"
+        "ev_7353395b2ca743ac8d3bc94f4815389c"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#RHNP-2025-0122"
@@ -23960,7 +23614,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f25ff1ee0ab7494f893a9352feb65e89"
+        "ev_a085d30cb7da495da966b945940d37bc"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-12247"
@@ -24017,7 +23671,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_072e27bb25264cefb4fed67f6e2f2af5"
+        "ev_09d08fde83ff49c2beb47204a2cbd387"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-12250"
@@ -24074,7 +23728,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_8df695e2da394f2d8aa5791129b557ae"
+        "ev_bbd06a060f4b4a1dac55198164eed3a8"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-12264"
@@ -24131,7 +23785,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f5038d5e8b034e2f81ddc634287f8336"
+        "ev_543e6b59a9694c2d93cb87f42e140bdf"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-6206"
@@ -24188,7 +23842,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_cc4c9e1920a6412b9c8d49e3d49a4834"
+        "ev_106bb8d4f30747a294712e62820cb0b9"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-9482"
@@ -24245,7 +23899,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_b23dbf2e8bed4c79b65a6090face1043"
+        "ev_6f6f03f2b3314e7e8c6883602fbcc736"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-11930"
@@ -24302,7 +23956,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_e8226e0c93f24a549c9069fede9d39e7"
+        "ev_c96e1fc73c064434b735cf8b3d02a2f1"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-12280"
@@ -24359,7 +24013,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_741d8aa39dfb4af98f70b20a5fc917f5"
+        "ev_b42bc78692bc4f73855f856c817e5cd0"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#VBNR-2025-0100"
@@ -24416,7 +24070,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c9fd7c4c45fa4f6ea4c32535067ca483"
+        "ev_a4c28b1aca62449c81feaf16986f082d"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2025-4418"
@@ -24473,7 +24127,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_75bcd071b75c420c87b44429dc4d2c91"
+        "ev_2f1302bdefc14dc699f6bc344171496e"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2025-2359"
@@ -24530,7 +24184,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_fd7f77c7f4b446319a7069ed35aef6ea"
+        "ev_0e16169af03849749f7a65a5ed0a60d4"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CEAS-2026-0001"
@@ -24587,7 +24241,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_bf677f2dc84a440c8d0543d11e7e9acb"
+        "ev_2f1f7d560d864845a02883d998e46a5b"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-11661"
@@ -24644,7 +24298,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_1eb5d969f53b4c0ba907a443cf702908"
+        "ev_6c9b820b1190499b9c26e1a3797c0577"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-9719"
@@ -24701,7 +24355,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_4c4dbe253310429cb496ec57ce30f44d"
+        "ev_0710c0b1d05945629de258d6c34acd2a"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CEADVPVT-2025-0583"
@@ -24758,7 +24412,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_2941ce3a87e84c2f8b7d6bb0c01f59d9"
+        "ev_d2784ec9d3b947c9800885f9a23dc845"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-10909"
@@ -24815,7 +24469,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_01e781baf9b145b199bbe1dc1b278389"
+        "ev_94c54b101aac4252a5a88aab65e597cf"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2026-0002"
@@ -24872,7 +24526,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_542790e07c64432b89452a5737e46550"
+        "ev_4a6af6222d1c4b23aa0b9aaa76bb39ec"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-6451"
@@ -24929,7 +24583,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_5c784db26ecf47f899ac5a91755cd903"
+        "ev_16b1789483fb483cb680485844063598"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#VBR-2025-0054"
@@ -24986,7 +24640,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c43f7c47017d45ec8aeb17b351a6a83f"
+        "ev_41c9b81d39064a0d8ba019a63e433d48"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#VBR-2025-0055"
@@ -25043,7 +24697,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_94fa6ef281c54b6abd163dfc84351a6d"
+        "ev_c0a7900bc05b4cf2bd61c516ff72a07a"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2025-3480"
@@ -25100,7 +24754,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_b6d55e304eb9432fbe11bb020da31fd9"
+        "ev_06e6367ed99e4eb99b05d8d2b39de310"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2026-0006"
@@ -25157,7 +24811,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_1794e730d2844d1ea91bd22fd977a83d"
+        "ev_1079e829137149c489a30d50f0175615"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2025-3910"
@@ -25214,7 +24868,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_84075643ed4c4ccb937191f791cdb5fa"
+        "ev_eb94b3c34d114080814814a5080fcb88"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2025-3894"
@@ -25271,7 +24925,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_d72152d8aa46456a8aee93b0d7856a8d"
+        "ev_d833aca260274d4b915649cdb6820544"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2025-3903"
@@ -25328,7 +24982,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_af38f8f47a16482a87aed3cb46d841fe"
+        "ev_dd350bbc113a45df9dda7bad0538151c"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2025-3962"
@@ -25385,7 +25039,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f4f0302d4b304a999c9262f990795f0c"
+        "ev_e2e7d86a30d84da8b05bdc773713f1fb"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2025-3963"
@@ -25442,7 +25096,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_fdae34428a084d5ca22b6239d5724cc0"
+        "ev_4f86a482dc9d4b3bb2f10dcb10f2a086"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CEADVROW-2026-0003"
@@ -25499,7 +25153,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_53f9d23f5de7435cb64b2331e4df2b93"
+        "ev_20252514a85e41cf8e5d9f43d5174abe"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2026-0005"
@@ -25556,7 +25210,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_28a3a800208e4ffba2c58e3a35414be5"
+        "ev_7ac45421e51d4c9b9ce6be03dddd81ac"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2026-0003"
@@ -25613,7 +25267,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_56025c12c967484da612bff942cbe89b"
+        "ev_b3634396157a411b8a0c2f2333e49848"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2026-0004"
@@ -25670,7 +25324,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_961d16d3766844429981ccab70515047"
+        "ev_076aa58b064745f19adf483fc53ceae4"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2026-0010"
@@ -25727,7 +25381,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_ed9acfb6cba54a2cb1f6e48cb93360f1"
+        "ev_e8f8ed25096146fb85f763f2d84b365c"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-11052"
@@ -25784,7 +25438,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_0200d041ce6f4c198aba98393a03bba8"
+        "ev_76d57305be87414cb271524ec413c67a"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-11629"
@@ -25841,7 +25495,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_7dea373e71a34eb6b3664a7304c4e8c5"
+        "ev_ea6ba6314c0447babbc0332c496ac454"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2026-0031"
@@ -25898,7 +25552,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_3a1d4b46cf8646a38cb99bd3bdd5bf3e"
+        "ev_9e8868bd2aa5475cbaf57d880ef16dbf"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#VBNR-2026-0004"
@@ -25955,7 +25609,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_1a0adcda62eb45a9b4245b0c557bdf40"
+        "ev_3b65833799a14b5f8e2cc68c730a30b6"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2026-0011"
@@ -26012,7 +25666,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_47792eaa59ae4639bb120cb271dc929e"
+        "ev_b8d4b1c0981f4258808434f78264b85f"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#VBNR-2026-0005"
@@ -26069,7 +25723,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_a2200135562c46c8a915186d5f841d71"
+        "ev_05524cd01d9a4a9aaf47afcda593565d"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#VBNR-2026-0006"
@@ -26126,7 +25780,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_6c686446dcbf41798770315bf46b9d3b"
+        "ev_1defb288d3064cb68f24f215238cff78"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-11960"
@@ -26183,7 +25837,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_d427b59ab18b4a8d8c9c0526aa84fbe2"
+        "ev_f1a4c812e35d4603b7858d336ac55e81"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2026-0007"
@@ -26240,7 +25894,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_852cd1a8568e4c98ba172c1c54064917"
+        "ev_8ee11b1addd54ca38a44952fc83a5f85"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2026-0013"
@@ -26297,7 +25951,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_a3830769fce0469b9b3eee5bd448d427"
+        "ev_9e5618a8a92e47ffa72b65735c21070c"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2026-0014"
@@ -26354,7 +26008,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c87f8a66c1bb4279a58a62b759ef0c90"
+        "ev_af4fe9cc32144100a8a64b585259c396"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-9231"
@@ -26411,7 +26065,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_8c227ad733d7419ba498e2d0e42ecf2e"
+        "ev_a2c2007fcfcd4338a62666f2b29b6d20"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2026-0016"
@@ -26468,7 +26122,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_681673e5705f4d8eb59fea2fb7fbe6d1"
+        "ev_3dcb8470a76641c8ab5bbedd23c7bce6"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2026-0018"
@@ -26525,7 +26179,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_9c3d988eb5724909af723694e66bb005"
+        "ev_caad948b839244faae785f944371f4df"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2026-0008"
@@ -26582,7 +26236,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_1fa01d7cb834493ea5116b626440dbe5"
+        "ev_47cdaf23ef064359bebce3271f099d91"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2026-0019"
@@ -26639,7 +26293,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_b423a3b2700e42638ffe2d6056d11f9c"
+        "ev_dd3d7565dcfb474d9063e9f9867161dc"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CEADVROW-2026-0009"
@@ -26696,7 +26350,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_2609097fd20542d9bad80295dae58eb7"
+        "ev_c3ac1cd22a064adb98f83f4abcc2dad2"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#S30P-2026-01-0026"
@@ -26753,7 +26407,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_fabed2a7be724107b6c3a76eb58a4ad5"
+        "ev_b5083e1ead994449a70d9f6ae288ccf7"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2026-0015"
@@ -26810,7 +26464,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_1e5d62318b93458299da692729379802"
+        "ev_23fdf8b4330d466e9b31338c7bb9a11c"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2026-0020"
@@ -26867,7 +26521,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_dae39ff466ef4e31a23af1eab5e77cf2"
+        "ev_4680b1164d574892a9d22b4a7663f88d"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2026-0021"
@@ -26924,7 +26578,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_b6cd30073a824cb19a7a46f756a4dd65"
+        "ev_8b8e3409085d4a9b840be06afc903722"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-12028"
@@ -26981,7 +26635,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c23c5121d7e746b7b4498939ca73d736"
+        "ev_d7a2cc147684477980107128065aa056"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2026-0017"
@@ -27038,7 +26692,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_5c7e87fea06144bea69e164a16170afc"
+        "ev_ad8427a0ae1749aeadbd89c15ead5f2d"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2026-0012"
@@ -27095,7 +26749,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_9d975788e8584ec5a9b98cd6f4781aba"
+        "ev_5709893cd63b4e8fac4024673361061c"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2025-1937"
@@ -27152,7 +26806,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_378ab473de114035a9f06af950484110"
+        "ev_b164df0485e04c95accd8c24f956a8f1"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CEADVPVT-2025-0622"
@@ -27209,7 +26863,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_5395dbc11c164c74ba82b25676d1f744"
+        "ev_6da6751ba60c411cb8c4265308948d34"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CEAS-2025-0128"
@@ -27266,7 +26920,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_a1e945c3fef345d8a1b266d8d44d9ad5"
+        "ev_dc52624f5e6e467eaa81d1982dabced8"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-10377"
@@ -27323,7 +26977,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_07fab6fc0f1a4b1c9744d4e23db28c16"
+        "ev_2e0dc3e6d82c48a6a898d7e149e26c7f"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-10074"
@@ -27380,7 +27034,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_ee781e3905c14047965a76930cb2c817"
+        "ev_455f5c2f02ea4da598bc2abc1295cdb5"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-11932"
@@ -27437,7 +27091,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c34eb9dee1fa496ba9a15264323eda5e"
+        "ev_d7de3d3f156541349655aeca91c95312"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-6676"
@@ -27494,7 +27148,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_ee5e61279eac435eb832fd8421ed00f1"
+        "ev_5692a9fb18b4469eae965a91bf0846e5"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-6651"
@@ -27551,7 +27205,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_bf0443ecc25d48bbb18cdfa65b0baf1b"
+        "ev_0b71077f8d61420daa5ddcebb7f60ac3"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#VBNR-2025-0098"
@@ -27608,7 +27262,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_3d773975b41349629789d0ae87808571"
+        "ev_9f0ba6bd21a446acaea3f9e5fe443f3c"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2025-2450"
@@ -27665,7 +27319,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_79f4c3b56aeb44afaa472f9625bc49da"
+        "ev_f8d8836abcd342c3a754802da800ef07"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-9405"
@@ -27722,7 +27376,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_9605a2cb7a794906be8f477ec960c999"
+        "ev_88d80fa163ee4fc388466684be3633e1"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2025-3290"
@@ -27779,7 +27433,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_9305431130894c57a6d2770fb8ebdc12"
+        "ev_b82d8f10bf804f38b7fc8b2ba9af64e3"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#RHNP-2025-0119"
@@ -27836,7 +27490,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_b4584dcb0f92419386adb46e68121ac1"
+        "ev_55d9611323a9461999877c10ebce709b"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-12027"
@@ -27893,7 +27547,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_22216e8959ac44f48a8cf25bbe737af8"
+        "ev_851f744d89d54c90a3fc41e98df0c789"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-12030"
@@ -27950,7 +27604,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_2d5d950f10e8468684226013bd559e08"
+        "ev_dc5d24648c694860bd7e4b76f35362b9"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-12026"
@@ -28007,7 +27661,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_cd47f826b855478aa3ddecded1a86156"
+        "ev_faeaaaf971294b30b7e657ed3e7f9ceb"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-12031"
@@ -28064,7 +27718,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_4162da6656e746879c963597bf81484f"
+        "ev_6847696258ec42ada7fd3df52261a7fb"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-12033"
@@ -28121,7 +27775,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_a487fd1768514d0b868bdfd825ddda01"
+        "ev_e4072051bd394e17a43cc5ffd1339662"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-12034"
@@ -28178,7 +27832,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_1e912540b2064ebca6677748b483438c"
+        "ev_e95eae3843ab4b20a223041d9d52dc3d"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#VBNR-2025-0099"
@@ -28235,7 +27889,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f0d7d9cdd927412d95a99ba185281535"
+        "ev_29e20012b32847ad83ee6935c7df33da"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-12037"
@@ -28292,7 +27946,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_5766ae926c3846cb9f36586b134d45f3"
+        "ev_ff1caabfc40e43d4be75cd1bb83b2c5f"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-12038"
@@ -28349,7 +28003,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c102ed2485ff4670b8e7d23590a5b816"
+        "ev_7cb0b08e573f44679d54d8182a378acd"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-12035"
@@ -28406,7 +28060,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_533e045b852043c78e697281c714783c"
+        "ev_21809140f89847c7b6a2a8a424639403"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-12036"
@@ -28463,7 +28117,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_d102aab4a35542dca671da42d1460ff9"
+        "ev_67a64c631ba54ab0b74b03865d4a3878"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2026-0023"
@@ -28520,7 +28174,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f8b5331f712c496d8bebabfa2327def7"
+        "ev_9b0b8351bf3f4be187c1c8c048a7892b"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2026-0022"
@@ -28577,7 +28231,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_9cd8d402dda94f5c960bf2770cf0eb56"
+        "ev_551c6cc3259c4aefad6715e14e6ba278"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2026-0025"
@@ -28634,7 +28288,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_aa96d53fa48c49d1a19aa6d4f3760a3e"
+        "ev_8884634b57594dada07f9329d3f24a49"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2026-0004"
@@ -28691,7 +28345,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_a7ab6565b8344fad9086ea99dc6f2aa7"
+        "ev_4f6ed1c5820a422c87b7d53e80254f98"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2026-0027"
@@ -28748,7 +28402,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_198280a95b54410692fce6ca20af4446"
+        "ev_3b714bc179f64806871ff064a633244b"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CEAS-2026-0003"
@@ -28805,7 +28459,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c09dcbb8c69f4ad9928c5795ad792af8"
+        "ev_a771c5fa5b78436db17de308f3af074d"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-10939"
@@ -28862,7 +28516,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_992bf6b5aec94bb4aa7f7d0a194b86b8"
+        "ev_a7155a877ac347269f9a2b68c928965a"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#VBNR-2026-0009"
@@ -28919,7 +28573,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_893c87d7d1f04299ad7614a80955eea0"
+        "ev_465ddd783ae342558bac9823ed167f58"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CEADVPVT-2026-0019"
@@ -28976,7 +28630,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f24dead2e41040e5b3760e81487710c7"
+        "ev_4a2f69d56eeb4bd2bd53b8a83f49f37e"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2026-0012"
@@ -29033,7 +28687,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_3dc4f23055b34222855a6fc0b59679fd"
+        "ev_44810f182eae4043b0cd22155d443b6c"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2026-0028"
@@ -29090,7 +28744,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_0943412e66494163a546bf385564c157"
+        "ev_9e5e201f86604735a91eacda688d97ed"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-6877"
@@ -29147,7 +28801,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_d7eedb272a0144678ee61bdc2d275a08"
+        "ev_1645beb4e9aa494295582659d321a6b3"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2025-0356"
@@ -29204,7 +28858,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_affe34bc6bd74b6f922c414568b3293f"
+        "ev_002958a16f0e4960b6530eb8d3a0063e"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2026-0029"
@@ -29261,7 +28915,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_13ecb81d0d6443d88de14d1e04325a47"
+        "ev_67fe9a042dc748cd937d8a1af2f0be94"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2026-0013"
@@ -29318,7 +28972,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_73ed17e4e78a4e8682c8831b47ef17c1"
+        "ev_4b9cd13e3a51416c86cd7b53713e0787"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2026-0010"
@@ -29375,7 +29029,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_3b0dc573822e4252b522404629fdcd00"
+        "ev_4788eabb6f1a4ffc864478e20fcc9078"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#VBNR-2026-0011"
@@ -29432,7 +29086,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_944bbfeb303d444999dfac9602de3925"
+        "ev_6e2f57a6c32b45dbb5d03ce976630b63"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2026-0030"
@@ -29489,7 +29143,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_897f9ed9e67b4db5b707ae09cc7f1385"
+        "ev_67f7cbb37c7e460faaf1759000c4ab3f"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2026-0034"
@@ -29546,7 +29200,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_46ee6f23e4bd483fa08a5d4fa44ca053"
+        "ev_f906fc9995eb4f1c8959497d9ed65df4"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-11663"
@@ -29603,7 +29257,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_a9c2b4d6243149848df17cf47e27f0b3"
+        "ev_74078ab5af4e424b9d9efba15312ed64"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2026-0032"
@@ -29660,7 +29314,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_7c247d0278924ff1955d2184dc1fe4df"
+        "ev_ea615d91df8c470fa948ec8ab4472574"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#VBNR-2026-0012"
@@ -29717,7 +29371,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_36a1ebd45f8d44f9b2c08538f6932eca"
+        "ev_8e7e2b68ea744091801523c07afdc63e"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2026-0035"
@@ -29774,7 +29428,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_60b350b81b6d4ed8b674fc4b0f527ab0"
+        "ev_a72ebe0d70764ded9053c4bee52cf860"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2026-0036"
@@ -29831,7 +29485,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_812d3200916549c9ae0209e40c1d0967"
+        "ev_98a34277177944809e40250d788ba949"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#VBNR-2026-0008"
@@ -29888,7 +29542,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_3a107cb321dd424ca492802d7bc95f54"
+        "ev_6813a81bbd5e4b3392975f9174906578"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2026-0014"
@@ -29945,7 +29599,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_4aabca7095be437e85f0731300eef345"
+        "ev_017be3bc7a084beaa7165230e3459cf9"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#VBR-2026-0002"
@@ -30002,7 +29656,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_be490e5267b344789923d6bb87322d32"
+        "ev_9ed69da77c594957896efbd01c7a8bdf"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2026-0037"
@@ -30059,7 +29713,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_1d0c7cf49e504746977fe2c908ec694f"
+        "ev_1daba1a5ec61470ba030a5609f9711d1"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2026-0039"
@@ -30116,7 +29770,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_5ef8ed00d24842d49b3b868b68920ab6"
+        "ev_84df0b451c8543b985b58c7c0c364ea1"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2026-0038"
@@ -30173,7 +29827,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_b001549e27d54d1ea8b875f847bedada"
+        "ev_3a584fdc730b456faaf1497c29c3a019"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2026-0015"
@@ -30230,7 +29884,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_218e608e3bbf42dfb9cb268b88f5cb2b"
+        "ev_fb1b18b4c5b94d68a91222b6f2e54c3e"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CEFYP-2026-0009"
@@ -30287,7 +29941,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_d454dbbdbeb44d1d923ecc38056ba8a0"
+        "ev_1d8ea1a056574288b262201d88915cb2"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2026-0016"
@@ -30344,7 +29998,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_1f7c7222f0e24e28ba92f4abedc1afd2"
+        "ev_5377115357124070beab54124623767e"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2026-0040"
@@ -30401,7 +30055,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_7c73c12f75074e15841ef322a63a5215"
+        "ev_b4c594b9605348f1aeabb44402e508ca"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2026-0018"
@@ -30458,7 +30112,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_2a2b3480941a4053b792688e00f1ac20"
+        "ev_d311fadb32ed402c9eb2026523613ce5"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2026-0043"
@@ -30515,7 +30169,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_4211e3bb3f244b4580f20569a49e6c8a"
+        "ev_b8f899e795fe4992aff1023f82a986f2"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2026-0033"
@@ -30572,7 +30226,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_063d3ad9a83a4afa9167aadce7b486ac"
+        "ev_d8fa838730464035b58c18baeff5870f"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2026-0042"
@@ -30629,7 +30283,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_0a51d32314f94c02bfc7b3bd20d645e9"
+        "ev_d86dc0309f4e4e3ea12b62c29285c09e"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2025-6741"
@@ -30686,7 +30340,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_cdd7190ba778462aa42e614960a540e9"
+        "ev_fb47e8a64ae04675b3769549977b45b1"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2026-0044"
@@ -30743,7 +30397,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_692cffc3b5274093aee082182be45923"
+        "ev_89a8512788884c84b5eedf7ebcbf5394"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CEROW-2026-0025"
@@ -30800,7 +30454,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_ba17315e0fd4467b98715ff183e23640"
+        "ev_2012ec05c351406f8bff403807950448"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2026-0045"
@@ -30857,7 +30511,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_cea1463d134c46ec86bea58639405bc8"
+        "ev_c18b1555fe1d400199275cb48e67af72"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2026-0047"
@@ -30914,7 +30568,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_662fa0d806dc4d02907653c76ee32d69"
+        "ev_8171b0e008ab4ac98bbf085d038d056e"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CEADVPVT-2026-0032"
@@ -30931,23 +30585,23 @@
     }
   ],
   "pattern_counts": {
-    "code": 422,
+    "code": 417,
     "estate": 2,
-    "foreclosure": 119,
+    "foreclosure": 118,
     "tax": 1
   },
   "attribute_counts": {},
   "stack_depth_distribution": {
-    "1": 537,
+    "1": 531,
     "7": 1
   },
   "score_tier_distribution": {
-    "Archive": 422,
+    "Archive": 417,
     "Low": 31,
-    "Strong": 35,
+    "Strong": 34,
     "Workable": 50
   },
   "deal_path_distribution": {
-    "wholesale": 538
+    "wholesale": 532
   }
 }
