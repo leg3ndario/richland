@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T14:26:41Z",
+  "generated_at": "2026-09-24T14:29:57Z",
   "build_label": "FULL_BUILD",
   "mode": "production",
   "county": "Richland",
@@ -30,8 +30,65 @@
     "live_verification_passed": false
   },
   "build_label_reason": "",
-  "lead_total": 37,
+  "lead_total": 38,
   "records": [
+    {
+      "lead_id": "lead_a3863181c6a1110c",
+      "primary_parcel_id": "RIC-PROB-737A801713E6",
+      "display_address": "Maximina Ramos Medina",
+      "display_owner": "Unknown",
+      "display_score": 55,
+      "display_tier": "Workable",
+      "display_patterns": [
+        "estate"
+      ],
+      "stack_contrib_patterns": [
+        "estate"
+      ],
+      "display_pattern_set": [
+        "estate"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_LETTERS_TESTAMENTARY",
+          "delta": 55
+        }
+      ],
+      "evidence_ids": [
+        "ev_94fbf06afc4a4e64a8a813ab6b5962df"
+      ],
+      "primary_source_urls": [
+        "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
+      ],
+      "primary_event_date": "09/18/2026",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "placeholder",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "match_confidence_low"
+      ]
+    },
     {
       "lead_id": "lead_082b724eff0c48b5",
       "primary_parcel_id": "RIC-PROB-373473C067BA",
@@ -74,7 +131,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_f04c10c704a444f797eea2ed806e1fa1"
+        "ev_cfef231058fe4f6b900da26a7d05a604"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -131,7 +188,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_04d674ce91b44f3781f7cc548b03e417"
+        "ev_ed9996cf219a456f8cede9d2874de7a7"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -188,7 +245,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_7b676039d4994eeaaf8ed0a20a211620"
+        "ev_0e3251f45e3c496a8e03d88d606a6908"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -245,7 +302,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_664783eab3b54af19d564613b33e18cd"
+        "ev_74aad665149f47948219a622d48d43c8"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -302,7 +359,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c7cc7a1015d24b61aa88b516763a07bb"
+        "ev_3dcca19ec43146df89c179d1383f051a"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -359,7 +416,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_101e2afd1c534e6883a94fa47fe354ef"
+        "ev_528aecabc07a4d4c8d6d7dd81c0903e5"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -416,7 +473,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_1325a3fb5a5d4067b7ac97f052272b5d"
+        "ev_f1ddbc77ddc84178b9cc6a9fb6975d4b"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -473,7 +530,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_8bef4c710de34e61b3a7d7e58cc028cb"
+        "ev_20a747b0b46f4937b14f8709554205a3"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -530,7 +587,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_41eed18a49f648d18d61017bb6771e7c"
+        "ev_c40537a261b94e8ca85d3079f7275cc1"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -587,7 +644,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_6b746c8df3324b27984cb929311a7e6b"
+        "ev_890efc717f8e40a58a11a824b74fea3d"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -644,7 +701,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_58861364bc92455591e5f690d736869c"
+        "ev_29db3e60d4a340bc84ad0d7bc5c7cfdf"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -701,7 +758,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_d470c9e24e1f4b84bb5f29f011770bca"
+        "ev_ab6a52d147b3478f8a1f0dd7b2f41f5c"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -758,7 +815,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_ee2b527abee14a298373857e34f03d63"
+        "ev_a251f47b7b9d4427ab4e8f292a678e04"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -815,7 +872,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_1593b294171945f08cea8288e138dae6"
+        "ev_ea426e63377744f38e9cfcd2fd505b1f"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -872,7 +929,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_d7ee8c6b5c894d0b9a1e3d38babac7b8"
+        "ev_9f705bc33558437a99d2d80f334bb4fb"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -929,7 +986,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_468a479e7be04835890a8f103167ec95"
+        "ev_91caf71dae424516bcca3cd5a051d8de"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -986,7 +1043,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_fbea71cfa5184850930cf78f14b45785"
+        "ev_831f5c85899341fd947d0429da93b041"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -1043,7 +1100,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_2b288e1772a84f21970365bbeeae104d"
+        "ev_c012efa704d04fb2bd9f9aae506f0bed"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -1100,7 +1157,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_e6b63c7601764ab0b3f9389fe1dc6a63"
+        "ev_46c5c2852bbd46d2a3b313f750c75184"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -1157,7 +1214,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_e51278784fde4ce996a7e73dcc30061e"
+        "ev_50e4974c5f7143e7a944bd706f137268"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -1214,7 +1271,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_abbd703b876d4674ac6366c32807f76d"
+        "ev_7fbfdf210ba4430c989c3aacc16db571"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -1283,7 +1340,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_ab2fad924f2342a681515349cd229977"
+        "ev_3bf5e695d27148f69deb0bab45315454"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0/query?where=OBJECTID%3D769&outFields=*&f=json"
@@ -1352,7 +1409,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_6bb17afabdcf49d0a999d677e8fcbe25"
+        "ev_1c91e0562b3d478da5da538c73688152"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0/query?where=OBJECTID%3D1099&outFields=*&f=json"
@@ -1421,7 +1478,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c4d605d906944010b0b273e8061dd66f"
+        "ev_db937daa712e46088bc9210c4d7c7446"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0/query?where=OBJECTID%3D6111&outFields=*&f=json"
@@ -1490,7 +1547,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_6517d9df7f1d4753bc26894c8ded346a"
+        "ev_76b0b19ed06c424181ea513d79d5450e"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0/query?where=OBJECTID%3D7687&outFields=*&f=json"
@@ -1559,7 +1616,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_993bbb310d834dd181744e6c8d11541b"
+        "ev_70e25a308bbd468b8ff5cef0b8840c0e"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0/query?where=OBJECTID%3D2599&outFields=*&f=json"
@@ -1628,7 +1685,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_ce2bd8df1d56402098a030d77fa55399"
+        "ev_b950bcd4f7754f57b5daa679724b1a46"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0/query?where=OBJECTID%3D6113&outFields=*&f=json"
@@ -1697,7 +1754,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_16de297ac0dc495798d98d4b82a168d1"
+        "ev_611321b897734c34aa837151f800be66"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0/query?where=OBJECTID%3D3322&outFields=*&f=json"
@@ -1766,7 +1823,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c71c6e0395b14887863fc0ed6d793fdf"
+        "ev_cf983413c6964efda4ff4fe7d6ddb337"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0/query?where=OBJECTID%3D8420&outFields=*&f=json"
@@ -1823,7 +1880,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_eef63044c02746ceb545aeb70bec2aa4"
+        "ev_05319e584b7b4c60b44fde66ecc8034d"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0/query?where=OBJECTID%3D7426&outFields=*&f=json"
@@ -1880,7 +1937,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_6df6b7db45864ccabfdaf058c2c6a9a4"
+        "ev_910b4d0da28e4c7dabaf0a21ea4f0084"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0/query?where=OBJECTID%3D825&outFields=*&f=json"
@@ -1937,7 +1994,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_664b88926fcb496cb9a78830ab1a87a2"
+        "ev_7ce3926b805c44c1a2a2739a2655ef2a"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0/query?where=OBJECTID%3D783&outFields=*&f=json"
@@ -1994,7 +2051,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_1777408adba349fba541d1b7f599c99e"
+        "ev_bb603a87af32452a94bec71eff9273bb"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0/query?where=OBJECTID%3D897&outFields=*&f=json"
@@ -2051,7 +2108,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_80356ec9f3794c709ac06e3ec903e9e0"
+        "ev_4ac8edb7b2684680a7680fa4d5496375"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0/query?where=OBJECTID%3D2029&outFields=*&f=json"
@@ -2108,7 +2165,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_9fb081b5362248a3bd56ba3d636690b8"
+        "ev_65dd385cd08945f6a721f116c7374d7a"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0/query?where=OBJECTID%3D4365&outFields=*&f=json"
@@ -2165,7 +2222,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_9a8d0b170be847deb94d6f8e5b80ebdd"
+        "ev_8d23110c6c9d430fa43f006b16ce3e1a"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0/query?where=OBJECTID%3D7300&outFields=*&f=json"
@@ -2222,7 +2279,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_184afcb7ba9a43408d4ed919894474cf"
+        "ev_3fcbf1f057b947e7a1c966d4e6893cc7"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0/query?where=OBJECTID%3D2681&outFields=*&f=json"
@@ -2240,20 +2297,20 @@
   ],
   "pattern_counts": {
     "code": 16,
-    "estate": 21
+    "estate": 22
   },
   "attribute_counts": {
     "vacant": 8
   },
   "stack_depth_distribution": {
-    "1": 37
+    "1": 38
   },
   "score_tier_distribution": {
     "Archive": 8,
-    "Workable": 29
+    "Workable": 30
   },
   "deal_path_distribution": {
     "flip": 8,
-    "wholesale": 37
+    "wholesale": 38
   }
 }
