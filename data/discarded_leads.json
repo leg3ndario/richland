@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T14:29:26Z",
+  "generated_at": "2026-10-01T14:50:40Z",
   "build_label": "FULL_BUILD",
   "mode": "production",
   "county": "Richland",
@@ -17,7 +17,7 @@
     "production_verification_status": "NOT_VERIFIED",
     "production_verification_at": ""
   },
-  "total_signals_suppressed": 208,
+  "total_signals_suppressed": 110,
   "quality_metrics": {
     "source_verification_rate": 1.0,
     "field_completeness_rate": 1.0,
@@ -30,7 +30,7 @@
     "live_verification_passed": false
   },
   "build_label_reason": "",
-  "lead_total": 37,
+  "lead_total": 50,
   "records": [
     {
       "lead_id": "lead_b4fecb8c97bdd5fa",
@@ -75,12 +75,70 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_fb78df535a16476aa3f08d788d069129"
+        "ev_3fc8a6bafc5047a9baf0789db78c7b0e"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
       ],
       "primary_event_date": "09/29/2026",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "placeholder",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "match_confidence_low"
+      ]
+    },
+    {
+      "lead_id": "lead_23c4e697df68b057",
+      "primary_parcel_id": "RIC-PROB-9D84DE0F89B4",
+      "display_address": "Marion Jr Summers",
+      "display_owner": "Unknown",
+      "display_score": 55,
+      "display_tier": "Workable",
+      "display_patterns": [
+        "estate"
+      ],
+      "stack_contrib_patterns": [
+        "estate"
+      ],
+      "display_pattern_set": [
+        "estate"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_LETTERS_TESTAMENTARY",
+          "delta": 55
+        }
+      ],
+      "display_violations": [],
+      "evidence_ids": [
+        "ev_a0b9d1a4141e4259a57dd99381b5e542"
+      ],
+      "primary_source_urls": [
+        "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
+      ],
+      "primary_event_date": "09/28/2026",
       "expected_sale_date": null,
       "parcel_master_status": "no_bcad_match",
       "parcel_master_status_note": "",
@@ -133,7 +191,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_6c2e3d57191e4ef7864cfa252e0799fc"
+        "ev_2612449aa8c747eab8ce1ba91b2bdae8"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -191,7 +249,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_cd6725eef2194d59be4b56bcbb4ee24b"
+        "ev_f1729a1a1d0541658b81251c3444f72a"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -249,70 +307,12 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_3910861a4d314fe8b5dbcf5065bfe765"
+        "ev_686b0df1ffe1465aa509a91b76e4b429"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
       ],
       "primary_event_date": "09/15/2026",
-      "expected_sale_date": null,
-      "parcel_master_status": "no_bcad_match",
-      "parcel_master_status_note": "",
-      "parcel_master_match_method": "placeholder",
-      "candidate_parcel_ids": [],
-      "review_flags": [
-        "match_confidence_low"
-      ]
-    },
-    {
-      "lead_id": "lead_23c4e697df68b057",
-      "primary_parcel_id": "RIC-PROB-9D84DE0F89B4",
-      "display_address": "Marion Jr Summers",
-      "display_owner": "Unknown",
-      "display_score": 55,
-      "display_tier": "Workable",
-      "display_patterns": [
-        "estate"
-      ],
-      "stack_contrib_patterns": [
-        "estate"
-      ],
-      "display_pattern_set": [
-        "estate"
-      ],
-      "display_attributes": [],
-      "display_deal_paths": [
-        "wholesale"
-      ],
-      "display_deal_path_details": [
-        {
-          "path": "wholesale",
-          "confidence": "moderate",
-          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
-        }
-      ],
-      "display_title_complexity_tier": "None",
-      "display_lead_status": "REVIEW_REQUIRED",
-      "display_assessed_value": null,
-      "display_last_sale_price": null,
-      "display_last_sale_date": null,
-      "display_year_built": null,
-      "display_match_confidence": 0,
-      "stack_depth": 1,
-      "score_reasons": [
-        {
-          "factor": "base_LETTERS_TESTAMENTARY",
-          "delta": 55
-        }
-      ],
-      "display_violations": [],
-      "evidence_ids": [
-        "ev_8f84553bc2f24ad8885aed17dc032602"
-      ],
-      "primary_source_urls": [
-        "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
-      ],
-      "primary_event_date": "09/08/2026",
       "expected_sale_date": null,
       "parcel_master_status": "no_bcad_match",
       "parcel_master_status_note": "",
@@ -365,7 +365,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_adf46739a6394a7bbe29bb5121cdbfee"
+        "ev_867fee571b1948b9a215fd7afaafa821"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -423,7 +423,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_7399d2a1a4884366a24a845a36282953"
+        "ev_835524f6302243b487e871554054ed4a"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -481,7 +481,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_a0fff56282b048eb8f92868c36f9f0af"
+        "ev_ad31a9e227eb4ee4adaf1064b7f7a207"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -539,7 +539,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_ba0660c9b8c74cc7ac0a63b59b7110f3"
+        "ev_540a39a43b554ba59b43aecfbc0fa089"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -597,7 +597,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_a85758f25050483694edda6a2bb3e43d"
+        "ev_8d27a9b727124802a0ff8458873f6e37"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -655,7 +655,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_54d68f8ad1a14ae6b40826921776c583"
+        "ev_4a1ebd15b9374124956d9f8bedde0449"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -713,7 +713,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_64d547076926459aa27238cc9c1ff5e6"
+        "ev_1d849618762f42a1a643ef21803b168b"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -771,7 +771,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_74d2036c72654e35826bc408ac90a50f"
+        "ev_7cfad951b4a542fb80465e3edb9365ff"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -829,7 +829,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_e1f21850b4bd4c0ca4faf967c9b3c311"
+        "ev_59b015030b084d728430dd6d6f4b2fb9"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -887,7 +887,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_20302f074a594227a0126c8ed6f1c0fc"
+        "ev_a98d958bef244278866b45916b524fb3"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -945,7 +945,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_dcda63400ad044c49e190ce4ea05ef0d"
+        "ev_70fc2807659a46c5ac6632820ca1d451"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -1003,7 +1003,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_c34f45611bdd44e3a1920bfccaab2808"
+        "ev_f372e6effbdb4adf9842ee190a61fcea"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -1061,7 +1061,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_ab9bd40fe1b14e9d810f636ac28f950e"
+        "ev_f5e425e031434409a3ac0595dcca4d29"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -1119,7 +1119,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_93406d33d88b43278576755d2fd66fa0"
+        "ev_a7bfb35684374058a1da9cbeaaf798b2"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -1177,7 +1177,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_16978faf8c454fc8addc97e07e7a0c38"
+        "ev_a048b2d447d2443e9707e98fb86d60c6"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -1235,7 +1235,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_66342ec085a448048449bda008dd888c"
+        "ev_3d1bdfd9d39c48ceb84fc15bc88222de"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -1251,12 +1251,12 @@
       ]
     },
     {
-      "lead_id": "lead_f1ba4d16eed5b46e",
-      "primary_parcel_id": "PARCEL-61BB53EBBF44",
-      "display_address": "1400 E MULLER Ave  APT B, COLUMBIA",
+      "lead_id": "lead_c279401e5977981d",
+      "primary_parcel_id": "PARCEL-8743FCF21626",
+      "display_address": "1413  CHEROKEE St  APT A, COLUMBIA",
       "display_owner": "Unknown",
-      "display_score": 50,
-      "display_tier": "Workable",
+      "display_score": 25,
+      "display_tier": "Archive",
       "display_patterns": [
         "code"
       ],
@@ -1266,19 +1266,11 @@
       "display_pattern_set": [
         "code"
       ],
-      "display_attributes": [
-        "vacant"
-      ],
+      "display_attributes": [],
       "display_deal_paths": [
-        "flip",
         "wholesale"
       ],
       "display_deal_path_details": [
-        {
-          "path": "flip",
-          "confidence": "moderate",
-          "rationale": "Vacant parcel facing distress (non-demolition); rehab flip candidate."
-        },
         {
           "path": "wholesale",
           "confidence": "moderate",
@@ -1295,24 +1287,560 @@
       "stack_depth": 1,
       "score_reasons": [
         {
-          "factor": "base_CONDEMNATION_NOTICE",
-          "delta": 45
-        },
-        {
-          "factor": "attribute_bonus",
-          "delta": 5
+          "factor": "base_CODE_VIOLATION_NOTICE",
+          "delta": 25
         }
       ],
       "display_violations": [
-        "Residential Boarded Building"
+        "Residential Structure (Resolved â€“ Abated by Owner)"
       ],
       "evidence_ids": [
-        "ev_c984dee9e1be4fcc809d47bd0c518cd7"
+        "ev_e5c73f2952224dc28a399f3ae11ec6a4"
       ],
       "primary_source_urls": [
-        "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0/query?where=OBJECTID%3D769&outFields=*&f=json"
+        "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2026-0408"
       ],
-      "primary_event_date": "2025-05-06",
+      "primary_event_date": "2026-08-12",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "placeholder",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "match_confidence_low"
+      ]
+    },
+    {
+      "lead_id": "lead_46e6ec2f6154b589",
+      "primary_parcel_id": "PARCEL-E3C446B7F979",
+      "display_address": "1007  DEERWOOD St  UNIT A, COLUMBIA",
+      "display_owner": "Unknown",
+      "display_score": 25,
+      "display_tier": "Archive",
+      "display_patterns": [
+        "code"
+      ],
+      "stack_contrib_patterns": [
+        "code"
+      ],
+      "display_pattern_set": [
+        "code"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_CODE_VIOLATION_NOTICE",
+          "delta": 25
+        }
+      ],
+      "display_violations": [
+        "Residential Structure (In Violation)"
+      ],
+      "evidence_ids": [
+        "ev_5eae3ee2934046939afae0786ceb8dcc"
+      ],
+      "primary_source_urls": [
+        "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2026-0410"
+      ],
+      "primary_event_date": "2026-08-13",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "placeholder",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "match_confidence_low"
+      ]
+    },
+    {
+      "lead_id": "lead_be7322d79e741491",
+      "primary_parcel_id": "PARCEL-2093C6551CB5",
+      "display_address": "1303  MAPLE St  APT 1, COLUMBIA",
+      "display_owner": "Unknown",
+      "display_score": 25,
+      "display_tier": "Archive",
+      "display_patterns": [
+        "code"
+      ],
+      "stack_contrib_patterns": [
+        "code"
+      ],
+      "display_pattern_set": [
+        "code"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_CODE_VIOLATION_NOTICE",
+          "delta": 25
+        }
+      ],
+      "display_violations": [
+        "Residential Premise (In Violation)"
+      ],
+      "evidence_ids": [
+        "ev_dc14314975e340579fead115be74c9ea"
+      ],
+      "primary_source_urls": [
+        "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2026-4857"
+      ],
+      "primary_event_date": "2026-07-28",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "placeholder",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "match_confidence_low"
+      ]
+    },
+    {
+      "lead_id": "lead_258969f2eeac4d8c",
+      "primary_parcel_id": "PARCEL-8867474996DD",
+      "display_address": "1220  WOODROW St  UNIT A, COLUMBIA",
+      "display_owner": "Unknown",
+      "display_score": 25,
+      "display_tier": "Archive",
+      "display_patterns": [
+        "code"
+      ],
+      "stack_contrib_patterns": [
+        "code"
+      ],
+      "display_pattern_set": [
+        "code"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_CODE_VIOLATION_NOTICE",
+          "delta": 25
+        }
+      ],
+      "display_violations": [
+        "Residential Premise (In Violation)"
+      ],
+      "evidence_ids": [
+        "ev_97cffb303ef44d79bfbbf5bc79a3e934"
+      ],
+      "primary_source_urls": [
+        "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2026-4926"
+      ],
+      "primary_event_date": "2026-07-28",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "placeholder",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "match_confidence_low"
+      ]
+    },
+    {
+      "lead_id": "lead_33d6fa3e686c459f",
+      "primary_parcel_id": "PARCEL-4006BA3EE150",
+      "display_address": "1007  DEERWOOD St  UNIT B, COLUMBIA",
+      "display_owner": "Unknown",
+      "display_score": 25,
+      "display_tier": "Archive",
+      "display_patterns": [
+        "code"
+      ],
+      "stack_contrib_patterns": [
+        "code"
+      ],
+      "display_pattern_set": [
+        "code"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_CODE_VIOLATION_NOTICE",
+          "delta": 25
+        }
+      ],
+      "display_violations": [
+        "Residential Structure (In Violation)"
+      ],
+      "evidence_ids": [
+        "ev_ec5c93c2c50e4959abc0352bcacb29c3"
+      ],
+      "primary_source_urls": [
+        "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2026-0411"
+      ],
+      "primary_event_date": "2026-08-13",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "placeholder",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "match_confidence_low"
+      ]
+    },
+    {
+      "lead_id": "lead_3262585557d7e51b",
+      "primary_parcel_id": "PARCEL-AB34602BC134",
+      "display_address": "1024  HOUSE St  APT B, COLUMBIA",
+      "display_owner": "Unknown",
+      "display_score": 25,
+      "display_tier": "Archive",
+      "display_patterns": [
+        "code"
+      ],
+      "stack_contrib_patterns": [
+        "code"
+      ],
+      "display_pattern_set": [
+        "code"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_CODE_VIOLATION_NOTICE",
+          "delta": 25
+        }
+      ],
+      "display_violations": [
+        "Residential Structure (In Violation)"
+      ],
+      "evidence_ids": [
+        "ev_2117024872fe4f2f9644009be280f391"
+      ],
+      "primary_source_urls": [
+        "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2026-0325"
+      ],
+      "primary_event_date": "2026-07-15",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "placeholder",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "match_confidence_low"
+      ]
+    },
+    {
+      "lead_id": "lead_63788d42d27f777f",
+      "primary_parcel_id": "PARCEL-1F1E7F716AE9",
+      "display_address": "1015  MULLER Ave  UNIT A, COLUMBIA",
+      "display_owner": "Unknown",
+      "display_score": 25,
+      "display_tier": "Archive",
+      "display_patterns": [
+        "code"
+      ],
+      "stack_contrib_patterns": [
+        "code"
+      ],
+      "display_pattern_set": [
+        "code"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_CODE_VIOLATION_NOTICE",
+          "delta": 25
+        }
+      ],
+      "display_violations": [
+        "Residential Premise (In Violation)"
+      ],
+      "evidence_ids": [
+        "ev_edb8ae7d16f14efe9b090279b7f032ad"
+      ],
+      "primary_source_urls": [
+        "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2026-5037"
+      ],
+      "primary_event_date": "2026-07-29",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "placeholder",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "match_confidence_low"
+      ]
+    },
+    {
+      "lead_id": "lead_da1968d9a36bb0d8",
+      "primary_parcel_id": "PARCEL-D1D1CD59678C",
+      "display_address": "1024  HOUSE St  APT A, COLUMBIA",
+      "display_owner": "Unknown",
+      "display_score": 25,
+      "display_tier": "Archive",
+      "display_patterns": [
+        "code"
+      ],
+      "stack_contrib_patterns": [
+        "code"
+      ],
+      "display_pattern_set": [
+        "code"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_CODE_VIOLATION_NOTICE",
+          "delta": 25
+        }
+      ],
+      "display_violations": [
+        "Residential Structure (In Violation)"
+      ],
+      "evidence_ids": [
+        "ev_3f96d69ea1d04601b9de1f709ef4d2dd"
+      ],
+      "primary_source_urls": [
+        "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2026-0326"
+      ],
+      "primary_event_date": "2026-07-15",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "placeholder",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "match_confidence_low"
+      ]
+    },
+    {
+      "lead_id": "lead_f87aa5e9a9584ac4",
+      "primary_parcel_id": "PARCEL-5ADE0F67DCF7",
+      "display_address": "1303  MAPLE St  APT 2, COLUMBIA",
+      "display_owner": "Unknown",
+      "display_score": 25,
+      "display_tier": "Archive",
+      "display_patterns": [
+        "code"
+      ],
+      "stack_contrib_patterns": [
+        "code"
+      ],
+      "display_pattern_set": [
+        "code"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_CODE_VIOLATION_NOTICE",
+          "delta": 25
+        }
+      ],
+      "display_violations": [
+        "Residential Premise (In Violation)"
+      ],
+      "evidence_ids": [
+        "ev_76ed6b7627e04e9fa1cb8e8e63817205"
+      ],
+      "primary_source_urls": [
+        "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2026-4858"
+      ],
+      "primary_event_date": "2026-07-28",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "placeholder",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "match_confidence_low"
+      ]
+    },
+    {
+      "lead_id": "lead_2cba6bf69b06cf80",
+      "primary_parcel_id": "PARCEL-05BDFCD74891",
+      "display_address": "1208  BUSH RIVER Rd  APT L-2, COLUMBIA",
+      "display_owner": "Unknown",
+      "display_score": 25,
+      "display_tier": "Archive",
+      "display_patterns": [
+        "code"
+      ],
+      "stack_contrib_patterns": [
+        "code"
+      ],
+      "display_pattern_set": [
+        "code"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_CODE_VIOLATION_NOTICE",
+          "delta": 25
+        }
+      ],
+      "display_violations": [
+        "Vacant Building - Residential (Open)"
+      ],
+      "evidence_ids": [
+        "ev_91a5c20da12e4057930671e8af895945"
+      ],
+      "primary_source_urls": [
+        "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#VBR-2026-0035"
+      ],
+      "primary_event_date": "2026-04-30",
       "expected_sale_date": null,
       "parcel_master_status": "no_bcad_match",
       "parcel_master_status_note": "",
@@ -1379,12 +1907,192 @@
         "Residential Boarded Building"
       ],
       "evidence_ids": [
-        "ev_38c8a38d949b46c99b4b63368a4771e6"
+        "ev_3668b3a1eb67441c8eb8c7a69bd39f39"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0/query?where=OBJECTID%3D1099&outFields=*&f=json"
       ],
       "primary_event_date": "2025-03-19",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "placeholder",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "match_confidence_low"
+      ]
+    },
+    {
+      "lead_id": "lead_757d473fec86d23f",
+      "primary_parcel_id": "PARCEL-194D945414C9",
+      "display_address": "124  DUKE Ave  UNIT C, COLUMBIA",
+      "display_owner": "Unknown",
+      "display_score": 25,
+      "display_tier": "Archive",
+      "display_patterns": [
+        "code"
+      ],
+      "stack_contrib_patterns": [
+        "code"
+      ],
+      "display_pattern_set": [
+        "code"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_CODE_VIOLATION_NOTICE",
+          "delta": 25
+        }
+      ],
+      "display_violations": [
+        "Vacant Building Not Registered (In Violation)"
+      ],
+      "evidence_ids": [
+        "ev_2a2a77f1e770489290972ee956a023db"
+      ],
+      "primary_source_urls": [
+        "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#VBNR-2026-0076"
+      ],
+      "primary_event_date": "2026-02-16",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "placeholder",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "match_confidence_low"
+      ]
+    },
+    {
+      "lead_id": "lead_761530ffdec76527",
+      "primary_parcel_id": "PARCEL-8E406A48C148",
+      "display_address": "124  DUKE Ave  UNIT B, COLUMBIA",
+      "display_owner": "Unknown",
+      "display_score": 25,
+      "display_tier": "Archive",
+      "display_patterns": [
+        "code"
+      ],
+      "stack_contrib_patterns": [
+        "code"
+      ],
+      "display_pattern_set": [
+        "code"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_CODE_VIOLATION_NOTICE",
+          "delta": 25
+        }
+      ],
+      "display_violations": [
+        "Vacant Building Not Registered (In Violation)"
+      ],
+      "evidence_ids": [
+        "ev_29911ae3e86144ef9bbc3367969e9ca3"
+      ],
+      "primary_source_urls": [
+        "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#VBNR-2026-0074"
+      ],
+      "primary_event_date": "2026-02-16",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "placeholder",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "match_confidence_low"
+      ]
+    },
+    {
+      "lead_id": "lead_d6a4118b4206110e",
+      "primary_parcel_id": "PARCEL-343C3D313A4C",
+      "display_address": "124  DUKE Ave  UNIT A, COLUMBIA",
+      "display_owner": "Unknown",
+      "display_score": 25,
+      "display_tier": "Archive",
+      "display_patterns": [
+        "code"
+      ],
+      "stack_contrib_patterns": [
+        "code"
+      ],
+      "display_pattern_set": [
+        "code"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_CODE_VIOLATION_NOTICE",
+          "delta": 25
+        }
+      ],
+      "display_violations": [
+        "Vacant Building Not Registered (In Violation)"
+      ],
+      "evidence_ids": [
+        "ev_ca0a9b526d6a40e68fab9a37715c57c3"
+      ],
+      "primary_source_urls": [
+        "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#VBNR-2026-0075"
+      ],
+      "primary_event_date": "2026-02-16",
       "expected_sale_date": null,
       "parcel_master_status": "no_bcad_match",
       "parcel_master_status_note": "",
@@ -1451,12 +2159,84 @@
         "Vacant Building Not Registered"
       ],
       "evidence_ids": [
-        "ev_52445d27e2a446c4b820185ed38694ef"
+        "ev_c0e987a66b0241fda10575c0731b06e2"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0/query?where=OBJECTID%3D6111&outFields=*&f=json"
       ],
       "primary_event_date": "2023-06-29",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "placeholder",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "match_confidence_low"
+      ]
+    },
+    {
+      "lead_id": "lead_f1ba4d16eed5b46e",
+      "primary_parcel_id": "PARCEL-61BB53EBBF44",
+      "display_address": "1400 E MULLER Ave  APT B",
+      "display_owner": "Unknown",
+      "display_score": 50,
+      "display_tier": "Workable",
+      "display_patterns": [
+        "code"
+      ],
+      "stack_contrib_patterns": [
+        "code"
+      ],
+      "display_pattern_set": [
+        "code"
+      ],
+      "display_attributes": [
+        "vacant"
+      ],
+      "display_deal_paths": [
+        "flip",
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "flip",
+          "confidence": "moderate",
+          "rationale": "Vacant parcel facing distress (non-demolition); rehab flip candidate."
+        },
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_CONDEMNATION_NOTICE",
+          "delta": 45
+        },
+        {
+          "factor": "attribute_bonus",
+          "delta": 5
+        }
+      ],
+      "display_violations": [
+        "Residential Boarded Building"
+      ],
+      "evidence_ids": [
+        "ev_a067b3e9555c4ee7a3015ca883d3ecd7"
+      ],
+      "primary_source_urls": [
+        "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0/query?where=OBJECTID%3D769&outFields=*&f=json"
+      ],
+      "primary_event_date": "2025-05-06",
       "expected_sale_date": null,
       "parcel_master_status": "no_bcad_match",
       "parcel_master_status_note": "",
@@ -1523,7 +2303,7 @@
         "Vacant Building Not Registered"
       ],
       "evidence_ids": [
-        "ev_c8f0862ed6cf4cbf9983c0e482e54fa5"
+        "ev_5265847f7842476082afcea973ebb016"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0/query?where=OBJECTID%3D7687&outFields=*&f=json"
@@ -1595,7 +2375,7 @@
         "Vacant Lot"
       ],
       "evidence_ids": [
-        "ev_3613532de6d14e4ea34ce252d6580108"
+        "ev_32921840b3e34767a41e5d2a2ab34f61"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0/query?where=OBJECTID%3D2599&outFields=*&f=json"
@@ -1667,7 +2447,7 @@
         "Vacant Building Not Registered"
       ],
       "evidence_ids": [
-        "ev_42f78942637d4e0e8da32e78efadf500"
+        "ev_9d01f476fb2f4ec98cbc2ce51c759c96"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0/query?where=OBJECTID%3D6113&outFields=*&f=json"
@@ -1739,7 +2519,7 @@
         "Vacant Building Not Registered"
       ],
       "evidence_ids": [
-        "ev_40647736ac434b76b8a55c5b5f104c7d"
+        "ev_1c80e06e9bf04993a286abe0edfaa35e"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0/query?where=OBJECTID%3D3322&outFields=*&f=json"
@@ -1811,7 +2591,7 @@
         "Vacant Building Not Registered"
       ],
       "evidence_ids": [
-        "ev_eacdee4cf81740e2bd87cd6a18ca954d"
+        "ev_3c958873167341eab95a44664945fec4"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0/query?where=OBJECTID%3D8420&outFields=*&f=json"
@@ -1871,7 +2651,7 @@
         "Residential Premise"
       ],
       "evidence_ids": [
-        "ev_f5b2f2d49da24282b43f0bfeacb69371"
+        "ev_72bf2ca00e504784a448bd579740920f"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0/query?where=OBJECTID%3D7426&outFields=*&f=json"
@@ -1931,7 +2711,7 @@
         "Residential Premise"
       ],
       "evidence_ids": [
-        "ev_13a0faa4fe854b3ba74735e309afb2aa"
+        "ev_bdbd8ef728804bacbdf054b2b92c78b0"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0/query?where=OBJECTID%3D825&outFields=*&f=json"
@@ -1991,7 +2771,7 @@
         "Residential Structure"
       ],
       "evidence_ids": [
-        "ev_9be856bbac36481aa650300370832db5"
+        "ev_8c28713e2bb148949fc28deb23876690"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0/query?where=OBJECTID%3D783&outFields=*&f=json"
@@ -2051,7 +2831,7 @@
         "Residential Structure"
       ],
       "evidence_ids": [
-        "ev_69d03ed9b63e4b008b0bac3a7564c426"
+        "ev_5c1bc65efe9841e0b17e13fb45f14153"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0/query?where=OBJECTID%3D897&outFields=*&f=json"
@@ -2111,7 +2891,7 @@
         "Residential Structure"
       ],
       "evidence_ids": [
-        "ev_ebeafa533fe74955bc773cfae0c3b8ba"
+        "ev_4fb9cb76d3b546b28585e67b794027f0"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0/query?where=OBJECTID%3D2029&outFields=*&f=json"
@@ -2171,7 +2951,7 @@
         "Residential Structure"
       ],
       "evidence_ids": [
-        "ev_1c10a8aef4504b9c9fc143dc138b35b4"
+        "ev_55507821054d445994c9781370254ee4"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0/query?where=OBJECTID%3D4365&outFields=*&f=json"
@@ -2231,7 +3011,7 @@
         "Accessory Structure"
       ],
       "evidence_ids": [
-        "ev_c69451d9b96240a39292542134141d9e"
+        "ev_b6eea899fa844a38a7eb27e8a3511f49"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0/query?where=OBJECTID%3D7300&outFields=*&f=json"
@@ -2291,7 +3071,7 @@
         "Residential Premise"
       ],
       "evidence_ids": [
-        "ev_ef4047536d9e40c28eb38af12ab99401"
+        "ev_cc062cce0ef74c91bec983ade5523049"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0/query?where=OBJECTID%3D2681&outFields=*&f=json"
@@ -2308,21 +3088,21 @@
     }
   ],
   "pattern_counts": {
-    "code": 16,
+    "code": 29,
     "estate": 21
   },
   "attribute_counts": {
     "vacant": 8
   },
   "stack_depth_distribution": {
-    "1": 37
+    "1": 50
   },
   "score_tier_distribution": {
-    "Archive": 8,
+    "Archive": 21,
     "Workable": 29
   },
   "deal_path_distribution": {
     "flip": 8,
-    "wholesale": 37
+    "wholesale": 50
   }
 }
