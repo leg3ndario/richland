@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T14:21:41Z",
+  "generated_at": "2026-11-06T14:21:15Z",
   "build_label": "FULL_BUILD",
   "mode": "production",
   "county": "Richland",
@@ -75,7 +75,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_83a5e2eaca6d4e3ea650545ca73d0359"
+        "ev_3e2dd41253194117af358f84c0d777a2"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -133,7 +133,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_d84a98743c4546a384950e42482589ee"
+        "ev_fe653517bc624da48c18b277604d5a18"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -191,7 +191,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_7404467f8a6d42a4b4f9c02fc52eb941"
+        "ev_8d6e230bc55d4c429ba55ca2ea954a63"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -249,7 +249,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_e2ddeb22a92942719c95984bf8ea5d66"
+        "ev_6a56fef44b3e420598f17e5cc953bf7e"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -307,7 +307,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_bf5901835add48a3a651b72b80ff8801"
+        "ev_5c53d355dfb94499aeba21d179d739f5"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -365,7 +365,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_1650f77ca938475dbf1942f0a82859b2"
+        "ev_47293ecbd3fc4d4fa736c6e8b9173b7c"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -423,7 +423,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_9b15cac5a6e5493ea43a08089be26355"
+        "ev_37490ea656494201abfad10815d22551"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -481,7 +481,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_527b84092f2e44339e1c2b73fd2b576e"
+        "ev_5fde0dab17e94a649b9251ae28f89f00"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -539,7 +539,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_04aa447d273b4f269646e69363e3e170"
+        "ev_04d5ef23effd49baba494671f3cf67c6"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -597,7 +597,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_c4cc513d0bc7427fa7083e024dc423b5"
+        "ev_96bec49550a44109a7e885c368a402a2"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -655,7 +655,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_b5b9a0b0e39a41af84ada9f8cf2abc8c"
+        "ev_4c1ea24d337540c69cf0976f16725cea"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -713,7 +713,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_782e27be3df74f138c7a845fa23b2374"
+        "ev_c575cb9b01f94b3083019a83b6a49ce1"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -771,7 +771,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_4d7bf15d7c6d4eecbaf71a939875e9e2"
+        "ev_dd824bbb0d0c4a12a678fd234e09a4c8"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -829,7 +829,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_85a2be45531040c7b050808b9be1a3bd"
+        "ev_b314f8b8a9dc4b408abfdd4a3b474277"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -887,7 +887,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_94cb70eac7424020b945ecd99025a62e"
+        "ev_84702f45289b427c8d108d6d55693a5f"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -945,7 +945,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_da45da715cfc41e386a33d70864d0ffd"
+        "ev_39965661e7ae44b5bff2e90ad63d470f"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -1003,7 +1003,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_a8a8faff20cf43cc8257e2fcc2dac7ca"
+        "ev_f7f6bab4b6504c4f9d28492385b851d7"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -1061,7 +1061,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_a622f64e183b4cc999d085722938adf0"
+        "ev_29b992f8329548e7a649c7ef3ed1fa75"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -1119,7 +1119,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_6c34407c445549bab2b958d2287d5d5f"
+        "ev_9e0a989b7533493792bf641bccdbb7d2"
       ],
       "primary_source_urls": [
         "https://www7.richlandcountysc.gov/EstateInquiry/main.aspx"
@@ -1179,7 +1179,7 @@
         "Residential Structure (Resolved â€“ Abated by Owner)"
       ],
       "evidence_ids": [
-        "ev_4aac2e05d8e145d6817887cc81ff73f2"
+        "ev_c91cf5c9e18944ffa52923de2fc1830e"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2026-0408"
@@ -1239,7 +1239,7 @@
         "Residential Structure (In Violation)"
       ],
       "evidence_ids": [
-        "ev_99fd63da49eb41f3a37685649207e5bb"
+        "ev_5b2a597609e042db97f90621946775d5"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2026-0410"
@@ -1299,7 +1299,7 @@
         "Residential Premise (In Violation)"
       ],
       "evidence_ids": [
-        "ev_9fc421d16e3c42b7a236685b7a514f07"
+        "ev_bb5478824629492faaa003867ab5a72a"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2026-4857"
@@ -1359,7 +1359,7 @@
         "Residential Premise (In Violation)"
       ],
       "evidence_ids": [
-        "ev_cab055b47395412383c1370c93500bcb"
+        "ev_5057f28df0c44bc0bf103ba0f8698d63"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2026-4926"
@@ -1419,7 +1419,7 @@
         "Residential Structure (In Violation)"
       ],
       "evidence_ids": [
-        "ev_e4b6b728b49544f5ad0f3e6a033a85cd"
+        "ev_5181a67fe2b2441680257a8dee72c296"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2026-0411"
@@ -1479,7 +1479,7 @@
         "Residential Structure (In Violation)"
       ],
       "evidence_ids": [
-        "ev_a0b551c8fc264ad186448e161fe9a55a"
+        "ev_e09cac2c2b234706abd8b30359e1665f"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2026-0325"
@@ -1539,7 +1539,7 @@
         "Residential Premise (In Violation)"
       ],
       "evidence_ids": [
-        "ev_d6b08cd754df4b8c8b93a7e96ee05ee1"
+        "ev_b538b81857594799b4902070bef04d17"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2026-5037"
@@ -1599,7 +1599,7 @@
         "Residential Structure (In Violation)"
       ],
       "evidence_ids": [
-        "ev_a33e1cc4c5a54a60a79238c567369b71"
+        "ev_dc29e73c350c442aacad2c8e4353aa2b"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERS-2026-0326"
@@ -1659,7 +1659,7 @@
         "Residential Premise (In Violation)"
       ],
       "evidence_ids": [
-        "ev_4cd918254478485eabcdf3e1615a6ba7"
+        "ev_01631a1522134697b46a0c1da95cfab6"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#CERP-2026-4858"
@@ -1719,7 +1719,7 @@
         "Vacant Building - Residential (Open)"
       ],
       "evidence_ids": [
-        "ev_cd0815a7742b4f3ca0d4e88f44d23829"
+        "ev_504bd797562a40d29f428390c22eadf1"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#VBR-2026-0035"
@@ -1791,7 +1791,7 @@
         "Residential Boarded Building"
       ],
       "evidence_ids": [
-        "ev_509b5018ab244d64bf03523785af49d6"
+        "ev_422855eae52f4a5aa64099175bb77c3c"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0/query?where=OBJECTID%3D1099&outFields=*&f=json"
@@ -1851,7 +1851,7 @@
         "Vacant Building Not Registered (In Violation)"
       ],
       "evidence_ids": [
-        "ev_911e0305bb22453f983d42adfedb9ca8"
+        "ev_5bafb705d9fd4bc39046ebbd2bafc050"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#VBNR-2026-0076"
@@ -1911,7 +1911,7 @@
         "Vacant Building Not Registered (In Violation)"
       ],
       "evidence_ids": [
-        "ev_8591f4451d25426c90a216757438c601"
+        "ev_1f9127dd68db4f9db3eec1a0be08003a"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#VBNR-2026-0074"
@@ -1971,7 +1971,7 @@
         "Vacant Building Not Registered (In Violation)"
       ],
       "evidence_ids": [
-        "ev_d58e6662150f47f6b8653302ccbe347f"
+        "ev_39886e2686e14a76925fd9d16c5f8374"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0#VBNR-2026-0075"
@@ -2043,7 +2043,7 @@
         "Vacant Building Not Registered"
       ],
       "evidence_ids": [
-        "ev_290f212a57b8473b90922d2046cbd2e0"
+        "ev_29eda3cb1bdb447eac792b8ba77f18e9"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0/query?where=OBJECTID%3D6111&outFields=*&f=json"
@@ -2115,7 +2115,7 @@
         "Residential Boarded Building"
       ],
       "evidence_ids": [
-        "ev_4789326aa6bd4b5d909b29f6bd37b2b3"
+        "ev_0518af27a2d149fa8837d8b1f372f886"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0/query?where=OBJECTID%3D769&outFields=*&f=json"
@@ -2187,7 +2187,7 @@
         "Vacant Building Not Registered"
       ],
       "evidence_ids": [
-        "ev_055e14a8f6ac4b2e9287d14921dbb76e"
+        "ev_fffb4b9518174f50988a07519b9becaf"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0/query?where=OBJECTID%3D7687&outFields=*&f=json"
@@ -2259,7 +2259,7 @@
         "Vacant Lot"
       ],
       "evidence_ids": [
-        "ev_048a50ac27014f0e96e26e8e587854dc"
+        "ev_8ae0ab36300e4ce392f714803b6390ed"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0/query?where=OBJECTID%3D2599&outFields=*&f=json"
@@ -2331,7 +2331,7 @@
         "Vacant Building Not Registered"
       ],
       "evidence_ids": [
-        "ev_c467f2f4b4364e1193dbc199a300232c"
+        "ev_ee7198ff5e8d45aea03f66feb143b276"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0/query?where=OBJECTID%3D6113&outFields=*&f=json"
@@ -2403,7 +2403,7 @@
         "Vacant Building Not Registered"
       ],
       "evidence_ids": [
-        "ev_b9ca17dc7e6148579f567b4a6cabd5dd"
+        "ev_317a738f6f5743d0ac184a4d46a29aa9"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0/query?where=OBJECTID%3D3322&outFields=*&f=json"
@@ -2475,7 +2475,7 @@
         "Vacant Building Not Registered"
       ],
       "evidence_ids": [
-        "ev_90cbb46717b64ea7b53f19bdf96dc125"
+        "ev_9e3a25148d6e41d295c05cb97885becf"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0/query?where=OBJECTID%3D8420&outFields=*&f=json"
@@ -2535,7 +2535,7 @@
         "Residential Premise"
       ],
       "evidence_ids": [
-        "ev_3ba4fae5fbab4c86a23d2054f7032083"
+        "ev_e5babf0fcfde4812a73d355969bf4d0d"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0/query?where=OBJECTID%3D7426&outFields=*&f=json"
@@ -2595,7 +2595,7 @@
         "Residential Premise"
       ],
       "evidence_ids": [
-        "ev_db0afb31793243f78d886c2886c1a36d"
+        "ev_64838dbb2a1744db86a0d5f2ba23f8c4"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0/query?where=OBJECTID%3D825&outFields=*&f=json"
@@ -2655,7 +2655,7 @@
         "Residential Structure"
       ],
       "evidence_ids": [
-        "ev_8d246b865eee4642b4009cd3137632db"
+        "ev_39268d9171df4b3c9487e983553150fb"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0/query?where=OBJECTID%3D783&outFields=*&f=json"
@@ -2715,7 +2715,7 @@
         "Residential Structure"
       ],
       "evidence_ids": [
-        "ev_10e67069b6da4533a7adfb83e90fd0e0"
+        "ev_19606070794c4b089b52861190d7004f"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0/query?where=OBJECTID%3D897&outFields=*&f=json"
@@ -2775,7 +2775,7 @@
         "Residential Structure"
       ],
       "evidence_ids": [
-        "ev_573198dd03db450a988768895f5fbbd7"
+        "ev_f81929fb70aa4545a742143e9dd8d544"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0/query?where=OBJECTID%3D2029&outFields=*&f=json"
@@ -2835,7 +2835,7 @@
         "Residential Structure"
       ],
       "evidence_ids": [
-        "ev_9707650de0b6422b89d9c66af6f0bfcc"
+        "ev_c130c87c6b654e9aa94d23abeaf90866"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0/query?where=OBJECTID%3D4365&outFields=*&f=json"
@@ -2895,7 +2895,7 @@
         "Accessory Structure"
       ],
       "evidence_ids": [
-        "ev_ae8024cd5e61475cbd7e6b4f7f29e14f"
+        "ev_02f480a266764e6ca469ee8b0929bc68"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0/query?where=OBJECTID%3D7300&outFields=*&f=json"
@@ -2955,7 +2955,7 @@
         "Residential Premise"
       ],
       "evidence_ids": [
-        "ev_49684277103441b5a959339ef4aae2d4"
+        "ev_cb19b8542ee647d38b45a3b6a6c08f18"
       ],
       "primary_source_urls": [
         "https://services1.arcgis.com/Mnt8FoJcogKtoVBs/arcgis/rest/services/CodeViolationProperty/FeatureServer/0/query?where=OBJECTID%3D2681&outFields=*&f=json"
