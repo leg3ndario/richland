@@ -1,101 +1,861 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" data-theme="dark">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Distress Intelligence</title>
-  <link rel="stylesheet" href="dashboard.css" />
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Richland County, SC · Distress Intelligence</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..900&display=swap" rel="stylesheet">
+<script>try{var t=localStorage.getItem("theme");if(t==="light"||t==="dark")document.documentElement.setAttribute("data-theme",t)}catch(e){}</script>
+<style>
+:root{
+  color-scheme:dark;
+  --bg:#070B14; --panel:#0D1422; --panel-2:#111A2C; --line:#1B2639; --line-2:#26344D;
+  --text:#EEF2F8; --mute:#8D98AD; --faint:#5E6A80;
+  --blue:#2F6BFF; --blue-hi:#5585FF; --cyan:#5FD4FF; --ok:#3DDC97;
+  --ink:var(--text); --ink-soft:var(--mute); --muted:var(--mute);
+  --accent:var(--blue); --accent-ink:var(--blue-hi); --tile:var(--cyan); --tile-accent:var(--blue-hi);
+  --chip:var(--panel-2); --chip-ink:#C3CCDB; --chip-blue:#8FB0FF; --fill:color-mix(in srgb,var(--blue) 96%,#000); --on-accent:#fff; --shadow:0 10px 28px rgba(0,0,0,.45);
+  --hot:#FF8A7A; --strong:#F2B04A; --work:#7FB0E0; --vac:#7A4A12;
+  --mono:ui-monospace,"SF Mono",Menlo,Consolas,monospace;
+  --sans:"Archivo","Segoe UI",system-ui,sans-serif;
+}
+:root[data-theme="light"]{
+  color-scheme:light;
+  --bg:#F4F6FA; --panel:#ffffff; --panel-2:#F4F6FA; --line:#E3E8F0; --line-2:#D3DAE6;
+  --text:#0B1220; --mute:#566176; --faint:#5E6A80;
+  --accent-ink:color-mix(in srgb,var(--blue) 82%,#000); --chip-blue:var(--accent-ink); --tile:#0B1220; --tile-accent:var(--accent-ink);
+  --chip:#EEF2F8; --chip-ink:#34425A; --shadow:0 10px 28px rgba(11,18,32,.14);
+  --hot:#B5301F; --strong:#8F5A0C; --work:#2F5F86;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--sans);
+  font-size:14px;line-height:1.45;-webkit-font-smoothing:antialiased}
+body::before{content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;
+  background-image:linear-gradient(var(--line) 1px,transparent 1px),linear-gradient(90deg,var(--line) 1px,transparent 1px);
+  background-size:64px 64px;
+  -webkit-mask-image:radial-gradient(ellipse 80% 70% at 50% 0%,#000 0%,transparent 100%);
+  mask-image:radial-gradient(ellipse 80% 70% at 50% 0%,#000 0%,transparent 100%)}
+#themeBtn{font-weight:800;font-size:13px;padding:7px 14px;letter-spacing:.02em;background:#F4F6FA;color:#0B1220;border:2px solid #F4F6FA}
+#themeBtn:hover{background:#fff;border-color:#fff}
+:root[data-theme="light"] #themeBtn{background:#0B1220;color:#fff;border-color:#0B1220}
+:root[data-theme="light"] #themeBtn:hover{background:#1B2639;border-color:#1B2639}
+:root[data-theme="light"] body::before{display:none}
+.wrap{max-width:1200px;margin:0 auto;padding:28px 20px 64px}
+header{display:flex;justify-content:space-between;align-items:flex-start;gap:16px;flex-wrap:wrap;margin-bottom:22px}
+h1,h2,h3{font-variation-settings:"wdth" 118;font-weight:800}
+.title h1{font-size:24px;margin:0 0 3px;letter-spacing:-.01em;text-wrap:balance}
+.title .sub{color:var(--ink-soft);font-size:12.5px;max-width:60ch}
+.title .eyebrow{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--cyan);font-weight:700;margin-bottom:6px}
+:root[data-theme="light"] .title .eyebrow{color:var(--blue)}
+.stamp{font-family:var(--mono);font-size:11px;color:var(--muted);text-align:right;line-height:1.7}
+.kpis{display:grid;grid-template-columns:repeat(7,1fr);gap:12px;margin-bottom:22px}
+@media(max-width:1000px){.kpis{grid-template-columns:repeat(2,1fr)}}
+.kpi{background:var(--panel);border:1px solid var(--line-2);border-radius:14px;padding:14px 15px}
+.kpi .n{font-family:var(--mono);font-size:24px;font-weight:600;letter-spacing:-.02em;font-variant-numeric:tabular-nums;color:var(--tile)}
+.kpi .l{font-size:11px;color:var(--ink-soft);text-transform:uppercase;letter-spacing:.06em;margin-top:3px}
+.kpi.accent .n{color:var(--tile-accent)}
+.strips{display:flex;flex-direction:column;gap:8px;margin-bottom:16px}
+.strip{display:flex;flex-wrap:wrap;align-items:center;gap:8px;font-size:12.5px;color:var(--muted);background:var(--panel);border:1px solid var(--line-2);border-radius:12px;padding:9px 13px}
+.strip[hidden]{display:none}
+.strip b{color:var(--text);font-weight:700}
+.rb-sep{opacity:.5}
+#coverageBanner details summary{cursor:pointer}
+#coverageBanner p{margin:6px 0 0}
+.nb-chip{display:inline-block;font-family:var(--mono);font-size:11px;padding:1px 7px;margin-left:4px;border-radius:99px;background:color-mix(in srgb,var(--blue) 18%,transparent);color:inherit}
+.nb-chip.retry{border:0;cursor:pointer;font:inherit;font-size:11px;color:inherit;background:color-mix(in srgb,var(--hot) 22%,transparent)}
+.nl-chip{display:inline-block;font-size:11px;padding:2px 8px;border-radius:99px;background:var(--panel-2);border:1px solid var(--line-2);color:var(--chip-ink);cursor:help}
+.nl-chip b{font-family:var(--mono);margin-left:4px;color:var(--text)}
+#matchedBanner{cursor:help}
+.bar{display:flex;gap:7px;flex-wrap:wrap;align-items:center;margin-bottom:16px}
+.filter{font-family:var(--sans);font-size:12.5px;border:1px solid var(--line-2);background:var(--panel);
+  color:var(--chip-ink);padding:5px 12px;border-radius:99px;cursor:pointer;transition:.12s}
+.filter:hover{border-color:var(--blue-hi)}
+.filter[aria-pressed="true"]{background:var(--fill);color:var(--on-accent);border-color:var(--fill)}
+.spacer{flex:1}
+.zipnote[hidden]{display:none}
+.zipnote{flex:1 1 100%;text-align:right}
+.count{font-size:12px;color:var(--ink-soft);font-family:var(--mono)}
+.tablewrap{background:var(--panel);border:1px solid var(--line-2);border-radius:14px;overflow-x:auto}
+table{width:100%;border-collapse:collapse;min-width:1080px}
+th{font-size:10.5px;text-transform:uppercase;letter-spacing:.07em;color:var(--ink-soft);
+  text-align:left;padding:11px 12px;border-bottom:1px solid var(--line-2);white-space:nowrap;cursor:pointer;user-select:none}
+th:hover{color:var(--accent-ink)}
+th.num,td.num{text-align:right}
+td{padding:11px 12px;border-bottom:1px solid var(--line);vertical-align:top}
+tr:last-child td{border-bottom:0}
+tbody tr:hover{background:color-mix(in srgb,var(--blue) 7%,transparent)}
+.tier{display:inline-flex;align-items:center;gap:6px;font-weight:600;font-size:12.5px;white-space:nowrap}
+.dot{width:8px;height:8px;border-radius:2px;flex:none}
+.t-Hot{color:var(--hot)} .t-Hot .dot{background:var(--hot)}
+.t-Strong{color:var(--strong)} .t-Strong .dot{background:var(--strong)}
+.t-Workable{color:var(--work)} .t-Workable .dot{background:var(--work)}
+.t-Low{color:var(--muted)} .t-Low .dot{background:var(--muted)}
+.addr{font-weight:600;letter-spacing:-.005em}
+.owner{color:var(--ink-soft);font-size:12.5px;margin-top:2px}
+.num{font-family:var(--mono);font-variant-numeric:tabular-nums;white-space:nowrap}
+.chips{display:flex;gap:4px;flex-wrap:wrap;margin-top:5px}
+.chip{font-size:10.5px;background:var(--chip);color:var(--chip-ink);padding:2px 7px;border-radius:5px;letter-spacing:.02em}
+.chip.absentee{background:color-mix(in srgb,var(--blue) 18%,transparent);color:var(--chip-blue)}
+.chip.tag{background:color-mix(in srgb,var(--work) 16%,transparent);color:var(--work);font-weight:600}
+.path{font-size:11px;color:var(--muted);font-family:var(--mono);margin-top:2px}
+.srclink{display:inline-block;font-size:11px;color:var(--accent-ink);text-decoration:none;
+  margin-top:4px;border-bottom:1px dotted var(--accent-ink);white-space:nowrap}
+.srclink:hover{color:var(--cyan)}
+:root[data-theme="light"] .srclink:hover{color:var(--text)}
+.chip[title],.ltype[title],.filter[title]{cursor:help}
+.filter[title]{cursor:pointer}
+.sale{font-family:var(--mono);font-size:12px;white-space:nowrap}
+.sale.added{color:var(--muted)}
+.ltype{display:inline-block;font-size:11px;font-weight:600;letter-spacing:.01em;white-space:nowrap;
+  padding:3px 8px;border-radius:6px;border:1px solid var(--line-2)}
+.ltype.lt-fore{background:color-mix(in srgb,var(--hot) 10%,transparent);color:var(--hot)}
+.ltype.lt-tax{background:color-mix(in srgb,var(--strong) 12%,transparent);color:var(--strong)}
+.ltype.lt-other{background:var(--chip);color:var(--chip-ink)}
+.ltype.lt-demo{background:color-mix(in srgb,var(--hot) 14%,transparent);color:var(--hot);font-weight:700}
+.sources{margin-top:26px}
+.sec-h{font-size:13px;text-transform:uppercase;letter-spacing:.09em;color:var(--ink-soft);margin:0 0 12px}
+.src-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:12px}
+.src{background:var(--panel);border:1px solid var(--line-2);border-radius:14px;padding:15px 16px;position:relative}
+.src h3{font-size:13.5px;margin:0 0 3px;letter-spacing:-.005em}
+.src-tag{position:absolute;top:14px;right:14px;font-size:9.5px;font-weight:700;letter-spacing:.08em;
+  text-transform:uppercase;padding:2px 7px;border-radius:5px}
+.src-tag.live{background:color-mix(in srgb,var(--work) 16%,transparent);color:var(--work)}
+.src p{margin:0;font-size:12px;color:var(--ink-soft);line-height:1.55}
+.src-note{margin-top:12px;font-size:11.5px;color:var(--muted);line-height:1.65;
+  background:var(--panel);border:1px solid var(--line-2);border-radius:14px;padding:13px 15px}
+.src-note b{color:var(--ink-soft);font-weight:600}
+.foot{margin-top:18px;font-size:11.5px;color:var(--muted);line-height:1.6;max-width:78ch}
+.foot b{color:var(--ink-soft);font-weight:600}
+.toggle{font-family:var(--mono);font-size:11px;border:1px solid var(--line-2);background:var(--panel);
+  color:var(--ink-soft);border-radius:99px;padding:4px 10px;cursor:pointer;margin-left:10px}
+.toggle:hover{border-color:var(--blue-hi)}
+:focus-visible{outline:2px solid var(--cyan);outline-offset:2px}
+:root[data-theme="light"] :focus-visible{outline-color:var(--blue)}
+.stack{display:flex;flex-direction:column;gap:4px;align-items:flex-start}
+.ltype.sub-st{font-weight:500;font-size:10.5px;padding:1px 7px}
+.chip.vacchip{background:var(--vac);color:#fff;font-weight:700;letter-spacing:.06em}
+.chip.ptchip{border:1px solid var(--line-2);font-weight:600}
+.bar input[type=search]{font:inherit;font-size:12.5px;border:1px solid var(--line-2);background:var(--panel);color:var(--ink);
+  padding:5px 12px;border-radius:99px;min-width:220px;flex:1 1 260px}
+.bar input#zip{min-width:0;width:10em;flex:0 1 10em}
+@media(max-width:480px){.bar input#zip{flex:1 1 7em;width:auto}}
+.more{padding:14px;text-align:center}
+details.facet{position:relative}
+details.facet>summary{list-style:none;font-size:12.5px;border:1px solid var(--line-2);background:var(--panel);
+  color:var(--chip-ink);padding:5px 12px;border-radius:99px;cursor:pointer;white-space:nowrap;user-select:none}
+details.facet>summary::-webkit-details-marker{display:none}
+details.facet>summary:hover{border-color:var(--blue-hi)}
+details.facet[data-on="1"]>summary{background:var(--fill);color:var(--on-accent);border-color:var(--fill)}
+.menu{position:absolute;z-index:40;top:calc(100% + 5px);left:0;background:var(--panel);
+  border:1px solid var(--line-2);border-radius:12px;padding:7px;min-width:215px;max-width:calc(100vw - 32px);max-height:340px;
+  overflow:auto;box-shadow:var(--shadow)}
+.menu label{display:flex;align-items:center;gap:7px;padding:4px 6px;border-radius:6px;font-size:12.5px;cursor:pointer}
+.menu label:hover{background:var(--chip)}
+.menu .n{margin-left:auto;font-family:var(--mono);font-size:11px;color:var(--muted)}
+.sel,.num-in input{font:inherit;font-size:12.5px;border:1px solid var(--line-2);background:var(--panel);color:var(--chip-ink);
+  padding:4px 10px;border-radius:99px}
+.num-in{font-size:12px;color:var(--ink-soft);display:inline-flex;align-items:center;gap:5px}
+.num-in input[type=number]{width:64px}
+.menu .note{margin:0;padding:4px 6px 7px;font-size:11.5px;line-height:1.45;color:var(--muted);max-width:250px}
+.menu .slide{display:flex;align-items:center;gap:8px;padding:2px 6px 6px 29px;font-size:12px;color:var(--ink-soft)}
+.menu .slide input{flex:1;min-width:90px;accent-color:var(--blue-hi)}
+.menu .slide output{font-family:var(--mono);font-size:11.5px;white-space:nowrap;min-width:9ch}
+</style>
 </head>
-<body data-ready="0" data-mode="loading">
-  <header class="topbar">
-    <div class="topbar-inner">
-      <div class="brand">
-        <span class="brand-title" id="brand-title">Distress Intelligence</span>
-        <span class="brand-subtitle" id="brand-subtitle">Daily-refreshed real estate distress signals</span>
-      </div>
-      <div class="topbar-meta">
-        <span class="meta-pill" id="build-label">FULL_BUILD</span>
-        <span class="meta-pill" id="generated-at">—</span>
-        <span class="meta-pill" id="view-mode-pill">CLIENT_VIEW</span>
-      </div>
+<body>
+<div class="wrap">
+  <header>
+    <div class="title">
+      <div class="eyebrow" id="eyebrow"></div>
+      <h1 id="pageTitle"></h1>
+      <div class="sub" id="subtitle"></div>
     </div>
+    <div class="stamp" id="stamp"></div>
   </header>
 
-  <section class="status-banner" id="status-banner" hidden></section>
+  <div class="kpis" id="kpis"></div>
 
-  <main class="layout">
-    <aside class="filter-rail" id="filter-rail">
-      <div class="rail-group">
-        <h3 class="rail-heading">Score tier</h3>
-        <div class="chip-group" id="chips-tier" data-axis="tier"></div>
-      </div>
-      <div class="rail-group">
-        <h3 class="rail-heading">Pattern</h3>
-        <div class="chip-group" id="chips-pattern" data-axis="pattern"></div>
-      </div>
-      <div class="rail-group">
-        <h3 class="rail-heading">Attribute</h3>
-        <div class="chip-group" id="chips-attribute" data-axis="attribute"></div>
-      </div>
-      <div class="rail-group">
-        <h3 class="rail-heading">Deal path</h3>
-        <div class="chip-group" id="chips-deal-path" data-axis="deal_path"></div>
-      </div>
-      <div class="rail-group">
-        <h3 class="rail-heading">Stack depth</h3>
-        <div class="chip-group" id="chips-stack-depth" data-axis="stack_depth"></div>
-      </div>
+  <div class="strips">
+    <div class="strip" id="refreshBanner">Loading counties&hellip;</div>
+    <div class="strip" id="newLeadsBanner" hidden></div>
+    <div class="strip" id="matchedBanner" hidden title="Leads joined to the county assessor's parcel records (owner, value, parcel facts)."></div>
+    <div class="strip" id="coverageBanner" hidden></div>
+  </div>
 
-      <div class="rail-group rail-actions">
-        <button id="reset-filters" class="action-btn">Reset filters</button>
-        <button id="toggle-view-mode" class="action-btn secondary">
-          Switch to Operator View
-        </button>
-        <button id="csv-export" class="action-btn primary" data-testid="csv-export">
-          Export CSV
-        </button>
-      </div>
-    </aside>
+  <div class="bar" id="filters">
+    <details class="facet" id="fState" hidden><summary></summary><div class="menu"></div></details>
+    <details class="facet" id="fCounty" hidden><summary></summary><div class="menu"></div></details>
+    <details class="facet" id="fType"><summary></summary><div class="menu"></div></details>
+    <details class="facet" id="fStage" hidden><summary></summary><div class="menu"></div></details>
+    <select class="sel" id="selDemo" aria-label="Demolition"></select>
+    <details class="facet" id="fAttr"><summary></summary><div class="menu"></div></details>
+    <select class="sel" id="selVac" aria-label="Vacant"></select>
+    <details class="facet" id="fPtype"><summary></summary><div class="menu"></div></details>
+    <details class="facet" id="fChronic" hidden><summary>Chronic code cases</summary><div class="menu">
+      <p class="note">A chronic address is one where the city opened 3 or more code cases (open and closed) in about two years.</p>
+      <label><input type="radio" name="chronic" value="" checked><span>All leads</span><span class="n" data-n=""></span></label>
+      <label title="Only leads at a chronic address with at least the number of code cases set below."><input type="radio" name="chronic" value="only"><span>Chronic addresses only</span><span class="n" data-n="only"></span></label>
+      <div class="slide"><input id="chronicMin" type="range" min="3" max="10" step="1" value="3" aria-label="Fewest code cases at the address"><output id="chronicMinTxt">at least 3</output></div>
+      <label title="Hide leads that are on the list only because the address is chronic. Leads with a serious code case or another lead type stay."><input type="radio" name="chronic" value="hide"><span>Hide chronic-only leads</span><span class="n" data-n="hide"></span></label>
+      <p class="note">Chronic-only = only repeat minor complaints (grass, trash, curb items), no serious case and no other lead type.</p>
+    </div></details>
+    <details class="facet" id="fTier"><summary></summary><div class="menu"></div></details>
+    <details class="facet" id="fPath"><summary></summary><div class="menu"></div></details>
+    <label class="num-in" title="Hide leads scoring below this number.">Min score <input id="minScore" type="number" min="0" step="1" value="0"></label>
+    <button class="filter" id="stackedBtn" aria-pressed="false" title="Found in two or more lead types. Stacked distress is the hottest kind.">Stacked</button>
+    <label class="num-in" title="Only leads first added on or after this date.">First added from <input id="from" type="date"></label>
+    <label class="num-in" title="Only leads first added on or before this date.">to <input id="to" type="date"></label>
+  </div>
+  <div class="bar">
+    <input id="q" type="search" placeholder="Search address, owner, parcel&hellip;" aria-label="Search" autocomplete="off">
+    <input id="zip" type="search" placeholder="ZIP codes" aria-label="ZIP codes" autocomplete="off" title="Only leads in these ZIP codes. Type one or more ZIPs or the first digits (802 = all 802xx), separated by spaces or commas. Leads with no ZIP in their address are hidden while this has a value.">
+    <button class="toggle" id="clearBtn" title="Reset every filter to how the page opened">Clear</button>
+    <span class="spacer"></span>
+    <span class="count" id="count"></span>
+    <button class="toggle" id="csvBtn" title="Download the rows currently shown as CSV">&darr; CSV</button>
+    <button class="toggle" id="themeBtn" type="button">Light mode</button>
+    <span class="count zipnote" id="zipNote" aria-live="polite" hidden></span>
+  </div>
 
-    <section class="content">
-      <div class="stat-tiles" id="stat-tiles" role="status"></div>
-      <div class="precanned-views" id="precanned-views"></div>
+  <div class="tablewrap">
+    <table>
+      <thead id="thead"></thead>
+      <tbody id="tbody"></tbody>
+    </table>
+    <div class="more" id="more"></div>
+  </div>
 
-      <div class="table-wrap" id="table-wrap">
-        <table class="leads-table" id="leads-table" aria-label="Distress leads">
-          <thead>
-            <tr>
-              <th data-sort="display_score">Score</th>
-              <th data-sort="display_tier">Tier</th>
-              <th data-sort="primary_parcel_id">Parcel</th>
-              <th data-sort="display_address">Address</th>
-              <th data-sort="display_owner">Owner</th>
-              <th>Patterns</th>
-              <th>Attributes</th>
-              <th>Deal paths</th>
-              <th data-sort="stack_depth">Stack</th>
-              <th data-sort="display_assessed_value">Assessed</th>
-              <th data-sort="display_last_sale_price">Last sale</th>
-              <th data-sort="expected_sale_date">Sale / event date</th>
-              <th>Review flags</th>
-              <th>Source</th>
-            </tr>
-          </thead>
-          <tbody id="leads-tbody"></tbody>
-        </table>
-        <p class="empty-state" id="empty-state" hidden>
-          No leads match the current filter set.
-        </p>
-      </div>
-    </section>
-  </main>
+  <section class="sources" aria-label="Data sources">
+    <h2 class="sec-h">Where this data comes from</h2>
+    <div class="src-grid" id="srcGrid"></div>
+    <div class="src-note">
+      <b>Computed in-tool</b> (analysis, not a source): lead score and tier, deal-path fit, and the owner and property flags. A lead found under two or more lead types is <i>stacked</i>.
+      <br><b>Every lead is sourced from official government or statutory records.</b> Each lead type is listed under the property, with a link to its public record where the county publishes one.
+    </div>
+  </section>
 
-  <footer class="footer">
-    <span id="footer-counts">—</span>
-    <span class="footer-spacer"></span>
-    <a class="footer-link" id="repo-link" href="#" target="_blank" rel="noopener" hidden>repo</a>
-  </footer>
+  <div class="foot" id="foot"></div>
+</div>
 
-  <script src="dashboard.js" defer></script>
+<script>
+const BOOT = /*BOOT*/{"built_at":"2026-11-19 14:21 UTC","page":{"name":"richland","title":"Richland County, SC \u00b7 Distress Intelligence","eyebrow":"OneClick \u00b7 Richland County, SC","accent":"#2F6BFF","subtitle":"Distress leads for Richland County, taken from official county records.","footer":"This page loads Richland County's own lead feed and is as fresh as its last daily refresh."},"counties":[{"slug":"richland","county_id":"richland_sc","county":"Richland","state":"SC","data_url":"data/leads.json","site_url":null,"lead_total":3564,"generated_at":"2026-11-19T14:21:42Z","build_label":"FULL_BUILD","bytes":9612393,"coverage":"Property type is not available: the county parcel layer has no use field \u00b7 foreclosure sale dates come only from the shared South Carolina law-firm sale lists (other firms were not found); published legal notices give foreclosure leads without a sale date \u00b7 the Master-in-Equity sale roster is not collected: the court roster detail page refuses automated requests (HTTP 406) \u00b7 the result of a sale is not recorded by any South Carolina source, so Post-sale is not shown \u00b7 the Register of Deeds is subscription-only, so recorded deeds and liens are not included \u00b7 divorce and other Family Court filings are not included: no published divorce list was found"}],"vocab":{"lead_types":[{"key":"foreclosure","label":"Pre-Foreclosure","priority":1,"distress":true,"tooltip":"The lender has started foreclosure on this property.","aliases":[]},{"key":"tax","label":"Tax","priority":2,"distress":true,"tooltip":"Behind on property taxes; the stage shows what the county has done about it.","aliases":[]},{"key":"estate","label":"Probate","priority":3,"distress":true,"tooltip":"The owner has died and the estate is in probate court.","aliases":["probate"]},{"key":"lien","label":"Lien","priority":4,"distress":true,"tooltip":"A recorded claim for money owed is filed against the property or its owner.","aliases":["federal_tax_lien","state_tax_lien"]},{"key":"code","label":"Code Violation","priority":5,"distress":true,"tooltip":"Has a code enforcement case on record.","aliases":[]},{"key":"eviction","label":"Eviction","priority":6,"distress":true,"tooltip":"An eviction case has been filed against a tenant at this property.","aliases":[]},{"key":"bankruptcy","label":"Bankruptcy","priority":7,"distress":true,"tooltip":"The owner has filed for bankruptcy.","aliases":[]},{"key":"divorce","label":"Divorce","priority":8,"distress":true,"tooltip":"The owner is in a divorce case.","aliases":[]},{"key":"surplus_owed","label":"Surplus Funds","priority":9,"distress":true,"tooltip":"Money is owed to the owner from a past tax or foreclosure sale.","aliases":[]},{"key":"tired_landlord","label":"Tired Landlord","priority":10,"distress":true,"tooltip":"A landlord with signs of wanting out, such as tenant trouble or repeated cases.","aliases":[]},{"key":"title_issue","label":"Title Dispute","priority":11,"distress":true,"tooltip":"There is a public record of a dispute over who holds title.","aliases":[]},{"key":"commercial_distress","label":"Commercial Distress","priority":12,"distress":true,"tooltip":"A commercial property with public signs of financial trouble.","aliases":[]},{"key":"utility_distress","label":"Utility Distress","priority":13,"distress":true,"tooltip":"The utility has shut off or threatened to shut off service.","aliases":[]},{"key":"transfer","label":"Ownership Transfer","priority":14,"distress":false,"tooltip":"The property recently changed hands in a way that can signal trouble. Not counted as distress.","aliases":[]}],"tax_stages":[{"key":"delinquent","label":"Tax Delinquent","tooltip":"Behind on property taxes. The county has not sold the debt or started taking the property.","tooltip_by_state":{}},{"key":"lien_sold","label":"Tax Lien Sold","tooltip":"The county sold its lien to an investor; the owner still owns the property and can pay the investor off. In our data, only Colorado and Florida do this.","tooltip_by_state":{"CO":"The county sold its lien to an investor. The owner still owns the property. After 3 years the investor can ask for a deed auction.","FL":"The county sold a tax certificate to an investor. The owner can pay it off at any time before a tax deed is issued."}},{"key":"sale_pending","label":"Tax Sale Pending","tooltip":"A tax sale is scheduled or advertised. What is sold depends on the state.","tooltip_by_state":{"FL":"A tax deed application is in; the clerk runs a public auction for a deed.","GA":"The property itself is levied on and sold at the courthouse.","OK":"The county treasurer resells the property at an auction. Oklahoma law makes real property taxes unpaid 3 years or more subject to sale.","SC":"The property itself is advertised for a tax sale. After the sale the owner can redeem for 12 months."}},{"key":"foreclosure","label":"Tax Foreclosure","tooltip":"The county or a court is taking title through a legal process.","tooltip_by_state":{"MI":"The county is foreclosing. After the court judgment the owner can redeem until March 31.","NC":"A court case over unpaid taxes is under way; the owner can pay until the sale is final.","VA":"A court-ordered sale for real-estate tax still unpaid on December 31 after the second anniversary of its due date (sooner for condemned or blighted buildings)."}},{"key":"deed","label":"Tax Deed","tooltip":"A tax deed sale was held. The owner's rights are nearly or fully gone.","tooltip_by_state":{"GA":"Sold at tax sale. The owner can redeem for 12 months after the sale."}}],"tax_default_stage":"delinquent","foreclosure_stages":[{"key":"auction_scheduled","label":"Auction scheduled","tooltip":"A foreclosure auction has a date set."},{"key":"redemption_period","label":"Redemption period","tooltip":"The sale happened and the owner may still have time to redeem."},{"key":"post_sale","label":"Post-sale","tooltip":"The foreclosure sale has been held."}],"demolition_stages":[{"key":"emergency_ordered","label":"Emergency demolition ordered","tooltip":"An emergency demolition order is open on this building.","demolition":true},{"key":"scheduled","label":"Scheduled for demolition","tooltip":"A demolition order is issued or scheduled and still open.","demolition":true},{"key":"case_open","label":"Demolition case open","tooltip":"A demolition case is open; no order is stated.","demolition":true},{"key":"placarded","label":"Placarded","tooltip":"The city posted a placard on this property (unfit or non-compliant). No demolition order is stated.","demolition":false},{"key":"abatement","label":"Code abatement step","tooltip":"The county code case has reached its abatement step: the county may clean, board or mow the property and bill or lien the owner. No demolition order is stated.","demolition":false}],"vacancy":{"land":"Vacant land","building":"Vacant building"},"vacancy_tooltips":{"land":"The county assessor records no building on this parcel.","building":"There is public evidence the building is empty or unsafe: see the reason shown."},"property_types":[{"key":"single_family","label":"Single family","tooltip":"The county assessor's use class says single-family house."},{"key":"townhome","label":"Townhome","tooltip":"The county assessor's use class says townhome, townhouse or rowhouse."},{"key":"condo","label":"Condo / unit","tooltip":"The county assessor's use class says condominium or co-op, or the property address carries a unit number (#, Unit, Apt, Ste, Bldg) and the county gives no use class."},{"key":"multi_family","label":"Apartment / multi-family","tooltip":"The county assessor's use class says apartment, duplex, triplex, fourplex or another building with two or more homes."},{"key":"mobile_home","label":"Mobile home","tooltip":"The county assessor's use class says mobile or manufactured home."},{"key":"land","label":"Land","tooltip":"The county assessor's use class says vacant land or a vacant lot (any zoning)."},{"key":"commercial","label":"Commercial","tooltip":"The county assessor's use class says commercial or industrial property, including commercial condos and mobile home parks."},{"key":"other","label":"Other","tooltip":"The county assessor's use class names something else: farm, exempt, church, school, utility or a common area."}],"attributes":[{"key":"absentee","label":"Absentee owner","tooltip":"The owner's mailing address differs from the property address."},{"key":"entity_owned","label":"Entity owned","tooltip":"The owner is a company, trust or other entity, not a person."},{"key":"multiple_properties","label":"Multiple properties","tooltip":"The owner holds more than one property in our data."},{"key":"senior_owner","label":"Senior owner","tooltip":"The owner appears to be a senior."},{"key":"out_of_state","label":"Out of state","tooltip":"The owner's mailing address is in another state."},{"key":"long_term_owned","label":"Long-term owned","tooltip":"The owner has held the property for many years."},{"key":"high_equity","label":"High equity","tooltip":"Estimated value is well above the known debt."},{"key":"free_and_clear","label":"Free and clear","tooltip":"No known mortgage on the property."}],"tiers":["Hot","Strong","Workable","Low","Archive"]}}/*END*/;
+</script>
+<script>
+/* Standard page logic: project a record to a row, filter, sort, tally, export.
+   Plain ES2020, no dependencies. Every caption comes from V (the page vocabulary) at runtime;
+   this file spells no lead-type, stage, attribute or vacancy wording of its own. */
+const StandardCore = (() => {
+  const TRANSFER = "transfer";   // a key, not a caption: a lead whose only type is this never shows
+  const NOT_A_TYPE = "vacant";   // vacancy is its own field, never a lead type
+
+  // 10/23/2026 -> 2026-10-23 so every county sorts the same way
+  function iso(s) {
+    s = String(s || "");
+    const m = s.match(/^(\d{1,2})\/(\d{1,2})\/(\d{4})$/);
+    return m ? m[3] + "-" + m[1].padStart(2, "0") + "-" + m[2].padStart(2, "0") : s;
+  }
+
+  // The Colorado source captions apply to Colorado rows only; everywhere else the hostname speaks for itself.
+  function hostLabel(u, st) {
+    try {
+      const h = new URL(u).hostname.replace(/^www\./, "");
+      if (st === "CO") {
+        if (/publicsearch\.us$/.test(h)) return "Clerk & Recorder record";
+        if (/foreclosure|gts\.|PTForeclosure/i.test(u)) return "Public Trustee notice";
+        if (/\.(xlsx?|csv)(#|$)/i.test(u) || /treasur|delinq|tax/i.test(u)) return "Treasurer list";
+      }
+      if (/publicnotice/.test(h)) return "Public notice";
+      if (/seeclickfix/.test(h)) return "SeeClickFix report";
+      return h;
+    } catch (e) { return "Public record"; }
+  }
+
+  // Every distinct http(s) record behind the lead (synthetic about:/deeds: tokens are not links).
+  function linksOf(r, ex, st) {
+    const out = [], seen = new Set();
+    const add = (u, t, d) => {
+      if (/^https?:\/\//i.test(u) && !seen.has(u)) { seen.add(u); out.push({ u, t: t || hostLabel(u, st), d: iso(d || "") }); }
+    };
+    for (const l of (ex.links || [])) add(l.u, l.t, l.d);
+    for (const u of (r.primary_source_urls || [])) add(u, "", "");
+    if (ex.src) add(ex.src, "", "");
+    return out;
+  }
+
+  // Lookups built from V once, cached on V without becoming enumerable.
+  function index(V) {
+    if (V.__idx) return V.__idx;
+    const types = {}, alias = {}, order = {};
+    V.lead_types.forEach((t, i) => {
+      types[t.key] = t; order[t.key] = i;
+      for (const a of (t.aliases || [])) alias[a] = t.key;
+    });
+    const by = list => Object.fromEntries((list || []).map(s => [s.key, s]));
+    const idx = { types, alias, order, tax: by(V.tax_stages), attrs: by(V.attributes), dst: by(V.demolition_stages),
+      ptypes: by(V.property_types) };
+    Object.defineProperty(V, "__idx", { value: idx, enumerable: false });
+    return idx;
+  }
+
+  const titleCase = k => String(k).replace(/_/g, " ").replace(/\b\w/g, c => c.toUpperCase());
+
+  // The ZIP at the very end of an address: after a two-letter state code or a comma, optional +4 (with or without
+  // the hyphen); or after a real state code with a ", City words" tail. A 5-digit house or unit number is never one.
+  // Returns the 5 digits, or "".
+  const STATES = "AL|AK|AZ|AR|CA|CO|CT|DE|DC|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY";
+  const ZIP_END = /(?:\b[A-Z]{2}\s+|,\s*)(\d{5})(?:-?\d{4})?\s*$/;
+  const ZIP_CITY_TAIL = new RegExp(String.raw`\b(?:${STATES})\s+(\d{5})(?:-?\d{4})?\s*,\s*[A-Za-z .'-]*[A-Za-z]\s*$`);
+  function zipOf(addr) {
+    const a = String(addr || ""), m = a.match(ZIP_END) || a.match(ZIP_CITY_TAIL);
+    return m ? m[1] : "";
+  }
+
+  // What the ZIP box holds -> the 3-to-5 digit tokens it means (spaces or commas between; anything else is ignored;
+  // a ZIP+4 or a half-typed "-12" keeps its first 5 digits).
+  const zipTokens = text => String(text || "").split(/[\s,]+/).map(t => t.replace(/-\d{0,4}$/, "")).filter(t => /^\d{3,5}$/.test(t));
+
+  // How many rows have no ZIP (the ZIP filter hides them).
+  const noZip = rows => rows.filter(r => !r.zip).length;
+
+  function project(rec, county, V) {
+    const ix = index(V), ex = rec._raw_extras || {}, st = county.state || "";
+    const stages = rec.display_stages || {};
+    const raw = rec.display_pattern_set && rec.display_pattern_set.length
+      ? rec.display_pattern_set : [...new Set(rec.display_patterns || [])];
+    const folded = [...new Set(raw.map(k => ix.alias[k] || k).filter(k => k !== NOT_A_TYPE))];
+    if (folded.length && folded.every(k => k === TRANSFER)) return null;
+    const rank = k => (k in ix.order ? ix.order[k] : 1e6);
+    const keys = folded.slice().sort((a, b) => rank(a) - rank(b));
+
+    const taxStage = ix.tax[stages.tax] || ix.tax[V.tax_default_stage];
+    const types = keys.map(key => {
+      const t = ix.types[key];
+      if (key === "tax" && taxStage) {
+        const tip = (taxStage.tooltip_by_state && taxStage.tooltip_by_state[st]) || taxStage.tooltip || "";
+        return { key, label: taxStage.label, tip };
+      }
+      return t ? { key, label: t.label, tip: t.tooltip || "" } : { key, label: titleCase(key), tip: "" };
+    });
+    const entries = keys.map(k => (k === "tax" && taxStage ? "tax:" + taxStage.key : k));
+
+    let owner = rec.display_owner;
+    if (!owner || owner === "Unknown") owner = ex.bowner || "Unknown";
+    const vac = rec.display_vacancy || "";
+    const ptype = ix.ptypes[rec.display_property_type] ? rec.display_property_type : "";   // "" = unknown
+    const row = {
+      c: county.slug, cn: county.county, st, site: county.site_url,
+      addr: rec.display_address || "", zip: zipOf(rec.display_address), owner, keys, types, entries,
+      fstage: stages.foreclosure || "", demo: stages.code || "",
+      demoReal: !!stages.code && (ix.dst[stages.code] || {}).demolition !== false,
+      vac, vacWhy: rec.display_vacancy_basis || "",
+      ptype, ptypeWhy: ptype ? (rec.display_property_type_basis || "") : "",
+      attrs: (rec.display_attributes || []).filter(a => ix.attrs[a]), paths: rec.display_deal_paths || [],
+      tier: rec.display_tier || "", score: +rec.display_score || 0,
+      val: +ex.bval || +rec.display_assessed_value || 0, cur: +ex.cur || 0,
+      pub: iso(ex.public || rec.primary_event_date), sale: iso(ex.sale || rec.expected_sale_date),
+      added: rec.first_seen || "", updated: rec.last_seen || "",
+      lender: ex.lender || "", fnum: ex.fnum || "", tags: ex.tags || [], links: linksOf(rec, ex, st),
+      mc: +rec.display_match_confidence || 0,
+      chronic: Math.max(0, Math.floor(+rec.display_chronic_cases || 0)), chronicOnly: rec.display_chronic_only === true,
+    };
+    row.q = [row.addr, owner, county.county, st, row.fnum, rec.primary_parcel_id || "",
+      ...types.map(t => t.label), vac ? (V.vacancy[vac] || "") : "",
+      ptype ? ix.ptypes[ptype].label : ""].join(" ").toLowerCase();
+    return row;
+  }
+
+  // Property type filter entries: every vocabulary type, then UNKNOWN (no type evidence).
+  const UNKNOWN = "unknown";
+  const ptypeKeys = V => [...(V.property_types || []).map(p => p.key), UNKNOWN];
+
+  // Chronic code cases: the slider runs CHRONIC_MIN..CHRONIC_MAX, and its top stop means "at least CHRONIC_MAX".
+  const CHRONIC_MIN = 3, CHRONIC_MAX = 10;
+  const chronicPresent = rows => rows.some(r => r.chronic > 0);
+
+  function defaultFilters(V) {
+    return {
+      counties: new Set(), states: new Set(), entries: new Set(), fstages: new Set(), demo: "",
+      attrs: new Set(), vac: "", tiers: new Set(V.tiers.filter(t => t !== "Archive")),
+      ptypes: new Set(ptypeKeys(V)),   // all on; unticking a type drops only leads proven to be that type
+      minScore: 0, stacked: false, from: "", to: "", paths: new Set(), toks: [], zips: [],   // zips: ZIP tokens (see zipTokens); a lead passes when its ZIP starts with any
+      chronic: "", chronicMin: CHRONIC_MIN,   // "" = all leads, "only" = chronic with >= chronicMin cases, "hide" = drop chronic-only
+    };
+  }
+
+  // Stacked counts distinct distress types only; a bare transfer is never one of them.
+  const isStacked = r => r.keys.filter(k => k !== TRANSFER).length >= 2;
+
+  const orAny = (set, hit) => set.size === 0 || hit;
+
+  function pass(r, f) {
+    if (!orAny(f.counties, f.counties.has(r.c))) return false;
+    if (!orAny(f.states, f.states.has(r.st))) return false;
+    if (!orAny(f.entries, r.entries.some(e => f.entries.has(e)))) return false;
+    if (f.fstages.size) {
+      const fore = r.keys.includes("foreclosure");
+      if (fore ? !f.fstages.has(r.fstage) : f.entries.size === 0) return false;
+    }
+    if (f.demo === "any" ? !r.demoReal : (f.demo && r.demo !== f.demo)) return false;
+    if (!orAny(f.attrs, r.attrs.some(a => f.attrs.has(a)))) return false;
+    if (f.vac === "any" ? !r.vac : (f.vac && r.vac !== f.vac)) return false;
+    if (f.ptypes && !f.ptypes.has(r.ptype || UNKNOWN)) return false;
+    if (f.chronic === "only" && !(r.chronic >= f.chronicMin)) return false;
+    if (f.chronic === "hide" && r.chronicOnly) return false;
+    if (!f.tiers.has(r.tier)) return false;
+    if (r.score < f.minScore) return false;
+    if (f.stacked && !isStacked(r)) return false;
+    if (f.from && !(r.added && r.added >= f.from)) return false;
+    if (f.to && !(r.added && r.added <= f.to)) return false;
+    if (!orAny(f.paths, r.paths.some(p => f.paths.has(p)))) return false;
+    if (f.zips && f.zips.length && !f.zips.some(t => (r.zip || "").startsWith(t))) return false;
+    for (const t of f.toks) if (t && r.q.indexOf(t) < 0) return false;
+    return true;
+  }
+
+  function sortRows(rows, key, dir, V) {
+    const tiers = (V && V.tiers) || [];
+    const rank = t => { const i = tiers.indexOf(t); return i < 0 ? 9 : i; };
+    return rows.sort((a, b) => {
+      let va, vb;
+      if (key === "tier") {
+        va = rank(a.tier); vb = rank(b.tier);
+        if (va === vb) { va = -a.score; vb = -b.score; }
+      } else {
+        va = a[key]; vb = b[key];
+        if (typeof va === "string" || typeof vb === "string") { va = va || ""; vb = vb || ""; }
+      }
+      return (va < vb ? -1 : va > vb ? 1 : 0) * dir;
+    });
+  }
+
+  function tally(rows, get) {
+    const m = new Map();
+    for (const r of rows) { const k = get(r); m.set(k, (m.get(k) || 0) + 1); }
+    return [...m.entries()].sort((a, b) => b[1] - a[1]);
+  }
+
+  function optionalColumns(rows) {
+    return { cur: rows.some(r => r.cur), sale: rows.some(r => r.sale), lender: rows.some(r => r.lender) };
+  }
+
+  function sourcesPresent(rows, V) {
+    const have = new Set();
+    for (const r of rows) for (const k of r.keys) have.add(k);
+    return V.lead_types.filter(t => have.has(t.key)).map(t => ({ label: t.label, tip: t.tooltip || "" }));
+  }
+
+  function csv(rows, V) {
+    // A leading = + - @ would run as a formula in a spreadsheet, so those cells get a quote in front.
+    const q = v => { let t = String(v == null ? "" : v); if (/^[=+\-@]/.test(t)) t = "'" + t; return '"' + t.replace(/"/g, '""') + '"'; };
+    const pt = V ? index(V).ptypes : {};
+    const head = "tier,score,county,state,lead_types,vacancy,property_type,address,zip,owner,value,owed,public_date," +
+      "sale_date,first_added,last_updated,beneficiary,file_number,public_records";
+    const lines = rows.map(r => [
+      r.tier, r.score, r.cn, r.st, r.types.map(t => t.label).join(" + "),
+      r.vac ? ((V && V.vacancy && V.vacancy[r.vac]) || r.vac) : "",
+      r.ptype ? ((pt[r.ptype] || {}).label || r.ptype) : "", r.addr, r.zip, r.owner,
+      r.val || "", r.cur || "", r.pub, r.sale, r.added, r.updated, r.lender, r.fnum,
+      r.links.map(l => l.u).join(" "),
+    ].map(q).join(","));
+    return [head, ...lines].join("\n");
+  }
+
+  // Banner 1: leads found on the latest scan day across the loaded counties, transfer left out.
+  // `summaries` is a list of feed refresh_summary objects (null/empty ones are ignored).
+  function newLeadsSummary(summaries, V) {
+    const ix = index(V), dayOf = s => String((s && s.last_new_leads_utc) || "").slice(0, 10);
+    const have = (summaries || []).filter(s => /^\d{4}-\d{2}-\d{2}$/.test(dayOf(s)));
+    if (!have.length) return null;
+    const day = have.map(dayOf).sort().pop(), sum = {};
+    for (const s of have) {
+      if (dayOf(s) !== day) continue;
+      for (const [k, n] of Object.entries(s.new_leads_by_type || {})) {
+        const key = ix.alias[k] || k;
+        if (key === TRANSFER || !(+n > 0)) continue;
+        sum[key] = (sum[key] || 0) + (+n);
+      }
+    }
+    const rank = k => (k in ix.order ? ix.order[k] : 1e6);
+    const chips = Object.keys(sum).sort((a, b) => rank(a) - rank(b) || (a < b ? -1 : 1)).map(key => {
+      const t = ix.types[key];
+      return { key, label: t ? t.label : key, tip: t ? (t.tooltip || "") : "", n: sum[key] };
+    });
+    return { day, total: chips.reduce((a, c) => a + c.n, 0), chips };
+  }
+
+  // Banner 2: how many shown-able rows were joined to the assessor roll.
+  const matchedCount = rows => ({ x: rows.filter(r => r.mc > 0).length, y: rows.length });
+
+  return { UNKNOWN, ptypeKeys, CHRONIC_MIN, CHRONIC_MAX, chronicPresent, newLeadsSummary, matchedCount, zipOf, zipTokens, noZip, iso, isStacked, hostLabel, linksOf, project, defaultFilters, pass, sortRows, tally, optionalColumns, sourcesPresent, csv };
+})();
+if (typeof module !== "undefined") module.exports = StandardCore;
+
+</script>
+<script>
+const C = StandardCore, V = BOOT.vocab, PAGE = 250;
+const $ = id => document.getElementById(id);
+const esc = s => (s == null ? "" : String(s)).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+const fmtUSD = n => n ? "$" + Math.round(n).toLocaleString("en-US") : "—";
+const num = n => n.toLocaleString("en-US");
+const titleCase = k => String(k).replace(/_/g, " ").replace(/\b\w/g, c => c.toUpperCase());
+const LT = Object.fromEntries(V.lead_types.map(t => [t.key, t]));
+const FST = Object.fromEntries(V.foreclosure_stages.map(s => [s.key, s]));
+const DST = Object.fromEntries(V.demolition_stages.map(s => [s.key, s]));
+const ATT = Object.fromEntries(V.attributes.map(a => [a.key, a]));
+const PT = Object.fromEntries(V.property_types.map(p => [p.key, p]));
+const PTYPE_UNKNOWN_TIP = "No county use class or address unit tells what kind of building this is. These leads stay shown when you untick a type.";
+const typeLabel = k => (LT[k] ? LT[k].label : titleCase(k));
+const attrLabel = k => (ATT[k] ? ATT[k].label : titleCase(k));
+
+// Deal paths are analysis, not vocabulary; their tooltips live here.
+const PATH_TIP = {
+  "sub-to": "Subject-to: the existing loan may be taken over (an absentee owner, a bankruptcy stay or a long-held parcel facing distress).",
+  "flip": "Vacant parcel facing distress (not condemned): rehab-and-resell candidate.",
+  "seller-finance": "Owner-fatigue or repeat-eviction rental: seller-finance pivot.",
+  "partial-interest": "Estate with likely multiple heirs: acquire a partial interest.",
+  "messy-title": "Stacked liens or a title action: needs curative work before closing.",
+  "surplus-recovery": "Money owed to the prior owner after a sale: recovery candidate."
+};
+
+let rows = [], F = C.defaultFilters(V), sortK = "tier", sortDir = 1, shown = PAGE, view = [], timer = 0;
+const status = {};
+const states = [...new Set(BOOT.counties.map(c => c.state).filter(Boolean))];
+const multiState = states.length > 1;
+const countyName = Object.fromEntries(BOOT.counties.map(c => [c.slug, c.county + (states.length > 1 ? " " + c.state : "")]));
+
+// ---------- header, accent, footer
+document.title = BOOT.page.title;
+$("eyebrow").textContent = BOOT.page.eyebrow;
+$("pageTitle").textContent = BOOT.page.title;
+$("subtitle").innerHTML = BOOT.page.subtitle;
+$("foot").innerHTML = BOOT.page.footer;
+if (BOOT.page.accent) {
+  document.documentElement.style.setProperty("--blue", BOOT.page.accent);
+}
+
+// ---------- loading (each county is its own feed; one failing never blocks the rest)
+async function load(c) {
+  status[c.slug] = "pending"; paintStrip();
+  let unreadable = false;
+  try {
+    const opts = { cache: "default" };
+    if (typeof AbortSignal !== "undefined" && AbortSignal.timeout) opts.signal = AbortSignal.timeout(60000);
+    const res = await fetch(c.data_url, opts);
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    let payload;
+    try { payload = await res.json(); } catch (e) { unreadable = true; throw e; }
+    if (!payload || !Array.isArray(payload.records)) { unreadable = true; throw new Error("no records array"); }
+    c._rs = payload.refresh_summary || null;
+    c._gen = (payload.refresh_summary && payload.refresh_summary.last_run_utc) || payload.generated_at || "";
+    const got = [];
+    for (const rec of payload.records) {
+      const row = C.project(rec, c, V);
+      if (row) { row.type = row.keys[0] || ""; got.push(row); }
+    }
+    payload = null;
+    for (const r of got) rows.push(r);
+    status[c.slug] = "ok";
+  } catch (e) { status[c.slug] = unreadable ? "unreadable" : "failed"; console.warn("[page]", c.slug, e.message); }
+  paintStrip(); schedule();
+}
+async function loadAll() {
+  const q = BOOT.counties.slice().sort((a, b) => (b.bytes || 0) - (a.bytes || 0));
+  const lanes = (navigator.deviceMemory && navigator.deviceMemory < 4) ? 2 : 3;
+  let i = 0;
+  await Promise.all(Array.from({ length: Math.min(lanes, q.length) }, async () => { while (i < q.length) await load(q[i++]); }));
+  schedule(0);
+}
+function paintStrip() {
+  const ok = BOOT.counties.filter(c => status[c.slug] === "ok").length;
+  const bad = BOOT.counties.filter(c => status[c.slug] === "failed" || status[c.slug] === "unreadable");
+  const last = BOOT.counties.map(c => c._gen || "").sort().pop() || "";
+  $("refreshBanner").innerHTML =
+    '<span class="rb-item">Counties loaded: <b>' + ok + ' of ' + BOOT.counties.length + '</b></span>' +
+    (last ? '<span class="rb-sep">·</span><span class="rb-item">Latest county refresh: <b>' + esc(String(last).replace("T", " ").replace("Z", " UTC").slice(0, 19)) + '</b></span>' : "") +
+    bad.map(c => '<button class="nb-chip retry" data-retry="' + esc(c.slug) + '">' + esc(c.county) + (status[c.slug] === "unreadable" ? ' feed could not be read — retry</button>' : ' feed did not answer — retry</button>')).join("");
+  $("stamp").innerHTML = "Page built " + esc(BOOT.built_at);
+  paintNewLeads();
+  paintCoverage();
+}
+function paintCoverage() {   // notes are trusted HTML from the repo; only counties that loaded are listed
+  const el = $("coverageBanner"), ok = BOOT.counties.filter(c => status[c.slug] === "ok" && c.coverage);
+  el.hidden = !ok.length;
+  if (!ok.length) return;
+  const wasOpen = !!(el.querySelector("details") || {}).open;   // keep the notes open while the strip repaints
+  el.innerHTML = ok.length === 1 && BOOT.counties.length === 1
+    ? '<div class="rb-coverage"><b>Coverage:</b> ' + ok[0].coverage + '</div>'
+    : '<details><summary><b>Coverage notes (' + ok.length + (ok.length === 1 ? ' county' : ' counties') + ')</b></summary>' +
+      ok.map(c => '<p><b>' + esc(countyName[c.slug]) + ':</b> ' + c.coverage + '</p>').join("") + '</details>';
+  const d = el.querySelector("details"); if (d && wasOpen) d.open = true;
+}
+function paintNewLeads() {
+  const el = $("newLeadsBanner"), s = C.newLeadsSummary(BOOT.counties.filter(c => status[c.slug] === "ok").map(c => c._rs), V);
+  el.hidden = !s;
+  if (!s) return;
+  el.innerHTML = s.total
+    ? '<span class="rb-item">Last new leads found: <b>' + esc(s.day) + '</b></span><span class="rb-sep">·</span><span class="rb-item"><b>' + num(s.total) + '</b> new</span>' +
+      s.chips.map(c => '<span class="nl-chip"' + (c.tip ? ' title="' + esc(c.tip) + '"' : "") + '>' + esc(c.label) + '<b>' + num(c.n) + '</b></span>').join("")
+    : '<span class="rb-item">No new leads on the last scan</span>';
+}
+function paintMatched() {
+  const m = C.matchedCount(rows), el = $("matchedBanner");
+  el.hidden = !m.y;
+  el.innerHTML = 'Matched on <b>' + num(m.x) + '</b> of <b>' + num(m.y) + '</b> leads';
+}
+$("refreshBanner").addEventListener("click", e => {
+  const b = e.target.closest("[data-retry]"); if (!b) return;
+  load(BOOT.counties.find(c => c.slug === b.dataset.retry));
+});
+
+// ---------- filter controls (every entry comes from the vocabulary or the data)
+const FACETS = {
+  fState: { title: "State", set: () => F.states },
+  fCounty: { title: "County", set: () => F.counties },
+  fType: { title: "Lead type", set: () => F.entries },
+  fStage: { title: typeLabel("foreclosure") + " stage", set: () => F.fstages },
+  fAttr: { title: "Attributes", set: () => F.attrs },
+  fPtype: { title: "Property type", set: () => F.ptypes },
+  fTier: { title: "Tier", set: () => F.tiers },
+  fPath: { title: "Deal path", set: () => F.paths },
+};
+function counts(get) { const m = new Map(); for (const r of rows) for (const k of get(r)) m.set(k, (m.get(k) || 0) + 1); return m; }
+function facetEntries(id) {
+  if (id === "fState") { const m = new Map(C.tally(rows, r => r.st)); return states.map(k => ({ k, label: k, n: m.get(k) || 0 })); }
+  if (id === "fCounty") { const m = new Map(C.tally(rows, r => r.c)); return BOOT.counties.map(c => ({ k: c.slug, label: countyName[c.slug], n: m.get(c.slug) || 0 })); }
+  if (id === "fType") {
+    const m = counts(r => r.entries), out = [];
+    for (const t of V.lead_types) {
+      if (t.key === "tax") for (const s of V.tax_stages) out.push({ k: "tax:" + s.key, label: s.label, tip: s.tooltip, n: m.get("tax:" + s.key) || 0 });
+      else out.push({ k: t.key, label: t.label, tip: t.tooltip, n: m.get(t.key) || 0 });
+    }
+    return out;
+  }
+  if (id === "fStage") { const m = new Map(C.tally(rows.filter(r => r.keys.includes("foreclosure")), r => r.fstage)); return V.foreclosure_stages.map(s => ({ k: s.key, label: s.label, tip: s.tooltip, n: m.get(s.key) || 0 })); }
+  if (id === "fAttr") { const m = counts(r => r.attrs); return V.attributes.map(a => ({ k: a.key, label: a.label, tip: a.tooltip, n: m.get(a.key) || 0 })); }
+  if (id === "fPtype") {
+    const m = new Map(C.tally(rows, r => r.ptype || C.UNKNOWN));
+    return V.property_types.map(p => ({ k: p.key, label: p.label, tip: p.tooltip, n: m.get(p.key) || 0 }))
+      .concat([{ k: C.UNKNOWN, label: "Unknown", tip: PTYPE_UNKNOWN_TIP, n: m.get(C.UNKNOWN) || 0 }]);
+  }
+  if (id === "fTier") { const m = new Map(C.tally(rows, r => r.tier)); return V.tiers.map(t => ({ k: t, label: t, n: m.get(t) || 0 })); }
+  if (id === "fPath") { const m = counts(r => r.paths.filter(p => p !== "wholesale")); return [...m.entries()].sort((a, b) => b[1] - a[1]).map(([k, n]) => ({ k, label: k.replace(/_/g, " "), tip: PATH_TIP[k.replace(/_/g, "-")] || "", n })); }
+  return [];
+}
+function facetHead(id) {
+  const host = $(id), set = FACETS[id].set();
+  if (id === "fPtype") {   // all on by default: it counts as a filter only once something is unticked
+    const off = C.ptypeKeys(V).length - set.size;
+    host.querySelector("summary").textContent = FACETS[id].title + (off ? " · " + set.size : "");
+    host.dataset.on = off ? "1" : "";
+    return;
+  }
+  host.querySelector("summary").textContent = FACETS[id].title + (set.size ? " · " + set.size : "");
+  host.dataset.on = set.size && id !== "fTier" ? "1" : "";
+}
+function stageVisible() {
+  const show = F.entries.size === 0 || F.entries.has("foreclosure");
+  $("fStage").hidden = !show;
+  if (!show && F.fstages.size) { F.fstages.clear(); $("fStage").querySelectorAll("input").forEach(i => { i.checked = false; }); facetHead("fStage"); }   // a hidden filter must not keep filtering
+}
+function paintFacets() {
+  for (const id of Object.keys(FACETS)) {
+    const set = FACETS[id].set();
+    $(id).querySelector(".menu").innerHTML = facetEntries(id).map(e =>
+      '<label' + (e.tip ? ' title="' + esc(e.tip) + '"' : "") + '><input type="checkbox" value="' + esc(e.k) + '"' + (set.has(e.k) ? " checked" : "") + '><span>' + esc(e.label) + '</span><span class="n">' + num(e.n) + '</span></label>').join("");
+    facetHead(id);
+  }
+  $("fState").hidden = states.length < 2;
+  $("fCounty").hidden = BOOT.counties.length < 2;
+  stageVisible();
+  paintChronic();
+}
+// Chronic code cases: one choice (all / chronic only / hide chronic-only) plus the "at least N cases" slider.
+const chronicText = n => (n >= C.CHRONIC_MAX ? C.CHRONIC_MAX + "+ cases" : "at least " + n);
+function paintChronic() {
+  const host = $("fChronic"), show = C.chronicPresent(rows);
+  host.hidden = !show;
+  if (!show) F.chronic = "";   // a hidden filter must not keep filtering
+  host.querySelectorAll('input[name="chronic"]').forEach(i => { i.checked = i.value === F.chronic; });
+  $("chronicMin").value = String(F.chronicMin);
+  $("chronicMinTxt").textContent = chronicText(F.chronicMin);
+  const n = { "": rows.length, only: rows.filter(r => r.chronic >= F.chronicMin).length, hide: rows.filter(r => !r.chronicOnly).length };
+  host.querySelectorAll("[data-n]").forEach(s => { s.textContent = num(n[s.dataset.n]); });
+  host.querySelector("summary").textContent = "Chronic code cases" +
+    (F.chronic === "only" ? " · " + chronicText(F.chronicMin) : F.chronic === "hide" ? " · chronic-only hidden" : "");
+  host.dataset.on = F.chronic ? "1" : "";
+}
+$("fChronic").querySelector(".menu").addEventListener("change", ev => {
+  if (ev.target.name !== "chronic") return;
+  F.chronic = ev.target.value; paintChronic(); reset();
+});
+let cTimer;
+$("chronicMin").addEventListener("input", e => {   // moving the slider means "chronic addresses only, at least this many"
+  F.chronicMin = +e.target.value || C.CHRONIC_MIN; F.chronic = "only"; paintChronic();
+  clearTimeout(cTimer); cTimer = setTimeout(reset, 150);   // repaint the table once the slider settles, like search
+});
+function paintSelects() {
+  $("selDemo").innerHTML = '<option value="">Demolition: all</option><option value="any">Demolition: any stage</option>' +
+    V.demolition_stages.filter(s => s.demolition).map(s => '<option value="' + esc(s.key) + '" title="' + esc(s.tooltip) + '">' + esc(s.label) + '</option>').join("");
+  $("selVac").innerHTML = '<option value="">Vacant: all</option><option value="any">Vacant: any</option>' +
+    Object.keys(V.vacancy).map(k => '<option value="' + esc(k) + '" title="' + esc(V.vacancy_tooltips[k] || "") + '">' + esc(V.vacancy[k]) + '</option>').join("");
+  $("selDemo").value = F.demo; $("selVac").value = F.vac;
+}
+for (const id of Object.keys(FACETS)) {
+  $(id).querySelector(".menu").addEventListener("change", ev => {
+    const cb = ev.target, set = FACETS[id].set();
+    if (cb.checked) set.add(cb.value); else set.delete(cb.value);
+    facetHead(id); stageVisible(); reset();
+  });
+}
+// Every filter menu: one that would run past the right edge of the screen slides left until it keeps a 16px
+// gutter (its max-width leaves room), so no menu makes the page scroll sideways. A menu that fits never moves.
+function clampMenu(d) {
+  const m = d.querySelector(".menu"); m.style.left = "";
+  if (!d.open) return;
+  const cw = document.documentElement.clientWidth, right = m.getBoundingClientRect().right;
+  if (right > cw) m.style.left = -Math.ceil(right - (cw - 16)) + "px";
+}
+document.querySelectorAll("details.facet").forEach(d => d.addEventListener("toggle", () => clampMenu(d)));
+addEventListener("click", ev => {
+  document.querySelectorAll("details.facet[open]").forEach(d => { if (!d.contains(ev.target)) d.open = false; });
+});
+$("selDemo").addEventListener("change", e => { F.demo = e.target.value; reset(); });
+$("selVac").addEventListener("change", e => { F.vac = e.target.value; reset(); });
+$("minScore").addEventListener("input", e => { F.minScore = +e.target.value || 0; reset(); });
+$("from").addEventListener("change", e => { F.from = e.target.value; reset(); });
+$("to").addEventListener("change", e => { F.to = e.target.value; reset(); });
+$("stackedBtn").addEventListener("click", e => { F.stacked = !F.stacked; e.currentTarget.setAttribute("aria-pressed", F.stacked ? "true" : "false"); reset(); });
+let qTimer, zTimer;
+$("q").addEventListener("input", e => {
+  const v = e.target.value; clearTimeout(qTimer);
+  qTimer = setTimeout(() => { F.toks = v.toLowerCase().split(/\s+/).filter(Boolean); reset(); }, 150);
+});
+$("zip").addEventListener("input", e => {
+  const v = e.target.value; clearTimeout(zTimer);
+  zTimer = setTimeout(() => { F.zips = C.zipTokens(v); reset(); }, 150);
+});
+$("clearBtn").addEventListener("click", () => {
+  clearTimeout(qTimer); clearTimeout(zTimer);
+  F = C.defaultFilters(V);
+  $("q").value = ""; $("zip").value = ""; $("minScore").value = "0"; $("from").value = ""; $("to").value = "";
+  $("stackedBtn").setAttribute("aria-pressed", "false");
+  paintSelects(); paintFacets(); reset();
+});
+
+// ---------- table
+function columns(opt) {
+  return [
+    { k: "tier", l: "Tier" }, { k: "type", l: "Lead type" }, { k: "score", l: "Score", num: 1 },
+    { k: "cn", l: "County" }, { k: "addr", l: "Property & Owner" },
+    { k: "val", l: "Value", num: 1, tip: "County appraised value where the county publishes it, otherwise assessed value." },
+    opt.cur && { k: "cur", l: "Owed", num: 1 },
+    { k: "pub", l: "Public date" },
+    opt.sale && { k: "sale", l: "Sale date" },
+    { k: "added", l: "First added", tip: "When this lead first appeared in the daily scan." },
+    { k: "updated", l: "Last updated", tip: "Most recent refresh that still saw this lead in the source." },
+    opt.lender && { k: "lender", l: "Beneficiary" },
+  ].filter(Boolean);
+}
+function typeCell(r) {
+  return r.types.map(t => {
+    const cls = t.key === "foreclosure" ? "lt-fore" : t.key === "tax" ? "lt-tax" : "lt-other";
+    let h = '<span class="ltype ' + cls + '"' + (t.tip ? ' title="' + esc(t.tip) + '"' : "") + '>' + esc(t.label) + '</span>';
+    if (t.key === "foreclosure" && FST[r.fstage]) h += '<span class="ltype lt-other sub-st" title="' + esc(FST[r.fstage].tooltip) + '">' + esc(FST[r.fstage].label) + '</span>';
+    if (t.key === "code" && DST[r.demo]) h += '<span class="ltype ' + (r.demoReal ? "lt-demo" : "lt-other") + ' sub-st" title="' + esc(DST[r.demo].tooltip) + '">' + esc(DST[r.demo].label) + '</span>';
+    return h;
+  }).join("");
+}
+function rowHTML(r, opt) {
+  const tags = r.tags.map(t => '<span class="chip tag">' + esc(t) + '</span>').join("");
+  const attrs = r.attrs.map(a => '<span class="chip ' + esc(a) + '"' + (ATT[a] ? ' title="' + esc(ATT[a].tooltip) + '"' : "") + '>' + esc(attrLabel(a)) + '</span>').join("");
+  const paths = r.paths.filter(p => p !== "wholesale").map(p => { const k = p.replace(/_/g, "-"); return '<span class="chip"' + (PATH_TIP[k] ? ' title="' + esc(PATH_TIP[k]) + '"' : "") + '>' + esc(k) + '</span>'; }).join("");
+  const vac = r.vac ? '<span class="chip vacchip" title="' + esc(((V.vacancy_tooltips[r.vac] || "") + " " + r.vacWhy).trim()) + '">' + esc(V.vacancy[r.vac] || titleCase(r.vac)) + '</span>' : "";
+  const pt = PT[r.ptype] ? '<span class="chip ptchip" title="' + esc((PT[r.ptype].tooltip + " " + (r.ptypeWhy ? "(" + r.ptypeWhy + ")" : "")).trim()) + '">' + esc(PT[r.ptype].label) + '</span>' : "";
+  const recs = r.links.map(l => '<div><a class="srclink" href="' + esc(l.u) + '" target="_blank" rel="noopener" title="Open the official public record this lead came from.">' + esc(l.t) + (l.d ? " · " + esc(l.d) : "") + ' &#8599;</a></div>').join("");
+  const cname = multiState ? r.cn + " " + r.st : r.cn;
+  const cty = r.site ? '<a href="' + esc(r.site) + '" target="_blank" rel="noopener" style="color:inherit">' + esc(cname) + '</a>' : esc(cname);
+  return '<tr>' +
+    '<td><span class="tier t-' + esc(r.tier) + '"><span class="dot"></span>' + esc(r.tier || "—") + '</span></td>' +
+    '<td><div class="stack">' + typeCell(r) + '</div></td>' +
+    '<td class="num">' + r.score + '</td>' +
+    '<td class="sale">' + cty + '</td>' +
+    '<td><div class="addr">' + esc(r.addr || "—") + '</div><div class="owner">' + esc(r.owner) + '</div>' +
+      '<div class="chips">' + vac + pt + tags + attrs + paths + '</div>' + recs + '</td>' +
+    '<td class="num">' + fmtUSD(r.val) + '</td>' +
+    (opt.cur ? '<td class="num">' + fmtUSD(r.cur) + '</td>' : "") +
+    '<td class="sale">' + esc(r.pub || "—") + '</td>' +
+    (opt.sale ? '<td class="sale">' + esc(r.sale || "—") + '</td>' : "") +
+    '<td class="sale added">' + esc(r.added || "—") + '</td>' +
+    '<td class="sale">' + esc(r.updated || "—") + '</td>' +
+    (opt.lender ? '<td><div class="owner" style="margin:0">' + esc(r.lender || "—") + '</div>' + (r.fnum ? '<div class="path">#' + esc(r.fnum) + '</div>' : "") + '</td>' : "") +
+  '</tr>';
+}
+function kpis() {
+  const n = f => view.filter(f).length;
+  const defs = [
+    ["Total leads", view.length, 0],
+    [typeLabel("foreclosure"), n(r => r.keys.includes("foreclosure")), 0],
+    [typeLabel("tax"), n(r => r.keys.includes("tax")), 0],
+    [V.tiers[0] + " + " + V.tiers[1], n(r => r.tier === V.tiers[0] || r.tier === V.tiers[1]), 0],
+    ["Stacked (2+ types)", n(C.isStacked), 0],
+    ["Vacant", n(r => r.vac), 0],
+    [attrLabel("absentee"), n(r => r.attrs.includes("absentee")), 1],
+  ];
+  $("kpis").innerHTML = defs.map(d => '<div class="kpi ' + (d[2] ? "accent" : "") + '"><div class="n">' + num(d[1]) + '</div><div class="l">' + esc(d[0]) + '</div></div>').join("");
+}
+function sources() {
+  const src = C.sourcesPresent(rows, V);
+  $("srcGrid").innerHTML = src.map(s => '<div class="src"><div class="src-tag live">Live</div><h3>' + esc(s.label) + '</h3><p>' + esc(s.tip) + '</p></div>').join("");
+}
+function render() {
+  const opt = C.optionalColumns(rows);
+  view = C.sortRows(rows.filter(r => C.pass(r, F)), sortK, sortDir, V);
+  $("count").textContent = num(view.length) + " of " + num(rows.length) + " leads";
+  // Leads the ZIP box hides only because their address has no ZIP: counted in counties where the typed ZIP matches at least one lead.
+  let note = "";
+  if (F.zips.length) {
+    const others = rows.filter(r => C.pass(r, { ...F, zips: [] }));
+    const hit = new Set(others.filter(r => r.zip && F.zips.some(t => r.zip.startsWith(t))).map(r => r.c));
+    const zn = C.noZip(others.filter(r => hit.has(r.c)));
+    if (zn) note = num(zn) + (zn === 1 ? " lead" : " leads") + " hidden: no ZIP in their address";
+  } else if ($("zip").value.trim()) note = "Not a ZIP: type 3 to 5 digits";
+  $("zipNote").hidden = !note;
+  $("zipNote").textContent = note;
+  $("thead").innerHTML = "<tr>" + columns(opt).map(c => '<th data-k="' + c.k + '"' + (c.num ? ' class="num"' : "") + (c.tip ? ' title="' + esc(c.tip) + '"' : "") + '>' + esc(c.l) + (sortK === c.k ? (sortDir > 0 ? " ▲" : " ▼") : "") + '</th>').join("") + "</tr>";
+  $("tbody").innerHTML = view.slice(0, shown).map(r => rowHTML(r, opt)).join("");
+  $("more").innerHTML = view.length > shown
+    ? '<button class="toggle" id="moreBtn">Show ' + num(Math.min(PAGE, view.length - shown)) + ' more (' + num(view.length - shown) + ' not shown)</button>' : "";
+  kpis(); sources(); paintMatched();
+}
+// County loads arrive in bursts, so repaint at most once per beat.
+function schedule(wait) {
+  clearTimeout(timer);
+  timer = setTimeout(() => { paintFacets(); render(); }, wait === undefined ? 120 : wait);
+}
+function reset() { shown = PAGE; render(); }
+$("more").addEventListener("click", e => { if (e.target.id === "moreBtn") { shown += PAGE; render(); } });
+$("thead").addEventListener("click", e => {
+  const th = e.target.closest("th"); if (!th) return;
+  const k = th.dataset.k; if (sortK === k) sortDir *= -1; else { sortK = k; sortDir = 1; } reset();
+});
+function paintThemeBtn() {   // the button names the mode a click switches to
+  $("themeBtn").textContent = document.documentElement.getAttribute("data-theme") === "light" ? "Dark mode" : "Light mode";
+}
+paintThemeBtn();
+$("themeBtn").addEventListener("click", () => {
+  const next = document.documentElement.getAttribute("data-theme") === "light" ? "dark" : "light";
+  document.documentElement.setAttribute("data-theme", next);
+  try { localStorage.setItem("theme", next); } catch (e) {}
+  paintThemeBtn();
+});
+$("csvBtn").addEventListener("click", () => {
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(new Blob(["﻿" + C.csv(view, V)], { type: "text/csv;charset=utf-8" }));
+  a.download = "leads_" + BOOT.page.name + "_" + new Date().toISOString().slice(0, 10) + ".csv"; a.click();
+});
+paintSelects(); paintStrip(); paintFacets(); render(); loadAll();
+</script>
 </body>
 </html>
